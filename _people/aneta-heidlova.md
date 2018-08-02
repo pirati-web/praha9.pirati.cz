@@ -12,7 +12,7 @@ mail:
   - aneta.heidlova@pirati.cz
  
 profiles:
-  facebook: https://www.facebook.com/filip.miler.50
+  facebook: https://www.facebook.com/Estrella888
 ---
 
 29 let, technická podpora a tester
