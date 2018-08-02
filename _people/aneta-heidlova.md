@@ -9,7 +9,7 @@ description: technická podpora a tester
 img: people/t-aneta-heidlova.jpg
 age: 29
 mail:
-  - filip.miler@pirati.cz
+  - aneta.heidlova@pirati.cz
  
 profiles:
   facebook: https://www.facebook.com/filip.miler.50
