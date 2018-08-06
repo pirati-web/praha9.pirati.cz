@@ -1,5 +1,5 @@
 ---
-title: Kandidátka na radnici MČ Praha 11
+title: Kandidátka na radnici MČ Praha 9
 uid: radnice
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
@@ -7,7 +7,7 @@ leader:
   age: 40
   profession: projektový manažer
   party: Piráti
-  description: Zastupitel MČ Praha 11, člen Koalice Trojmezí
+  description: Zastupitel MČ Praha 9, člen Koalice Trojmezí
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: zuzana.ujhelyiova
     profession: Teoložka
