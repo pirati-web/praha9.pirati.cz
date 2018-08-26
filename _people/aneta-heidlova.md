@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: technická podpora a tester
-img: people/t-aneta-heidlova.jpg
+img: people/aneta-heidlova.jpg
 age: 29
 mail:
   - aneta.heidlova@pirati.cz

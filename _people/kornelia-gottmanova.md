@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: technická podpora a tester
-img: people/t-kornelia-gottmannova.jpg
+#img: people/kornelia-gottmannova.jpg
 age: 29
 mail:
   - kornelia.gottmannova@pirati.cz
