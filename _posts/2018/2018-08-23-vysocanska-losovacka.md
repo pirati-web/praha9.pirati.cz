@@ -6,7 +6,7 @@ layout: post
 title: Vysočanská losovačka
 author: Václav Vislous
 authorId: vaclav.vislous
-#image: articles/2018/2018-05-27-praha-neni-vesnice.jpg
+image: articles/2018/2018-08-23-vysocanska-losovacka.jpg
 ---
 
 V naprosté tajnosti a bez možnosti veřejné kontroly provedli dva úředníci MČ Praha 9 losování čísel pro komunální volby pro každý ze tří obvodů schválených zastupitelstvem. Jedná se o důležitý volební akt, protože jak prokázaly mnohé studie, vyšší číslo v pořadí volebních stran vždy lehce zvyšuje volební výsledek. Navíc z posledních komunálních voleb jsou známy případy mnohých volebních komisí, které se vůbec neobtěžovaly počítat hlasy stranám na druhé straně volebního lístku.
