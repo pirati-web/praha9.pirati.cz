@@ -9,7 +9,8 @@ residence: yes #vyplňte pokud chcete přidat adresu nejbližšího pice
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Zajámá vás co Piráti dělají a jak? [Ozvěte se nám](mailto:praha11@pirati.cz) nebo přijďte k nám na otevřenou schůzi. Pořádáme je obvykle poslední pondělí v měsíci, lokalita je vždy upřesněna, sledujte náš [Facebook](https://www.facebook.com/pg/pirati11.cz/events/?ref=page_internal) .
+Zajámá vás co Piráti dělají a jak? [Ozvěte se nám](mailto:praha9@pirati.cz) nebo přijďte k nám na 
+jakoukoli otevřenou schůzi. Ty se na vyjímky konají každé pondělí od 19:00 v Restauraci U Pecků u metra Vysočanská.
 
 Budeme rádi za jákekoliv vaše náměty, nebo připomínky.
 
