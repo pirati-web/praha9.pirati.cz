@@ -6,7 +6,7 @@ layout: post
 title: Devítka na Prahu změny
 author: Kornélia Gottmannová
 authorId: kornelia.gottmannova
-#image: articles/2018/2018-05-27-praha-neni-vesnice.jpg
+image: articles/2018/2018-08-27-devitka-na-prahu-zmeny.jpg
 ---
 
 (článek je převzatý z Pirátských listů pro Prahu 9, které v tištěné verzi vyjdou 1. září 2018)
