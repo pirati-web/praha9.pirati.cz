@@ -9,7 +9,7 @@ description: office manager
 #img: people/.jpg
 age: 40
 mail:
-	- denisa1mala@gmail.com
+  - denisa1mala@gmail.com
 profiles:
   facebook: 
 ---
