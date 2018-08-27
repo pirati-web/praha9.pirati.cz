@@ -3,7 +3,7 @@ uid: claudie.laburdova
 name:     Claudie Laburdová
 fullname: Claudie Laburdová
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: koordinátorka projektů v NNO
 #img: people/.jpg

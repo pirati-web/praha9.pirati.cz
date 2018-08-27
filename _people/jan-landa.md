@@ -3,7 +3,7 @@ uid: jan.landa
 name:     Jan Landa
 fullname: Jan Landa
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: student
 #img: people/t-.jpg

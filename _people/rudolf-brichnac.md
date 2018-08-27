@@ -3,7 +3,7 @@ uid: rudolf.brichnac
 name:     Rudolf Břichnáč
 fullname: Rudolf Břichnáč
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: THP
 #img: people/.jpg

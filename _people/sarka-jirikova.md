@@ -3,7 +3,7 @@ uid: sarka.jirikova
 name:     Šárka Jiříková
 fullname: Šárka Jiříková
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: účetní
 #img: people/t-.jpg

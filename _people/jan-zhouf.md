@@ -3,7 +3,7 @@ uid: jan.zhouf
 name:     Jan Zhouf
 fullname: Bc. Jan Zhouf
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: Student
 img: people/jan-zhouf.jpg

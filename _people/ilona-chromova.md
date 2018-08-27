@@ -3,7 +3,7 @@ uid: ilona.chromova
 name:     Ilona Chromová
 fullname: Mgr. Ilona Chromová
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: Pracovnice MP Praha
 img: people/ilona-chromova.jpg

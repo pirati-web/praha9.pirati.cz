@@ -3,7 +3,7 @@ uid: petr.karel
 name:     Kamila Viktorinová
 fullname: Bc. Kamila Viktorinová
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: Učitelka a zástupkyně v MŠ
 img: people/kamila-viktorinova.jpg

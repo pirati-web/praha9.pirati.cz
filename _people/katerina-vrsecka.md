@@ -3,7 +3,7 @@ uid: katerina.vrsecka
 name:     Kateřina Vršecká
 fullname: Ing. Kateřina Vršecká
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: mateřská dovolená
 #img: people/t-.jpg

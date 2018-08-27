@@ -3,7 +3,7 @@ uid: veronika.smejkalova
 name:     Veronika Šmejkalová
 fullname: Ing. Veronika Šmejkalová
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: Manažerka správy majetků
 #img: people/t-.jpg

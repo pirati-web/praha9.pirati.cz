@@ -3,7 +3,7 @@ uid: rudolf.brichnac
 name:     Denisa Malá
 fullname: DiS. Denisa Malá
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: office manager
 img: people/denisa-mala.jpg

@@ -3,7 +3,7 @@ uid: renata.reilova
 name:     Renata Reilová
 fullname: Ing. Renata Reilová
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: Ekonomka
 #img: people/t-.jpg

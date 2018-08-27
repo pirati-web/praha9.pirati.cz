@@ -3,7 +3,7 @@ uid: vit.chrom
 name:     Vít Chrom
 fullname: Bc. Vít Chrom
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: 
 #img: people/t-.jpg

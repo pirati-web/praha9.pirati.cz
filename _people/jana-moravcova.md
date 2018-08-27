@@ -3,7 +3,7 @@ uid: jana-moravcova
 name:     Jana Moravcová
 fullname: Mgr. Jana Moravcová
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: Překladatelka
 #img: people/.jpg

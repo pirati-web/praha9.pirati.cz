@@ -3,7 +3,7 @@ uid: alexej.sevruk
 name:     Alexej Sevruk
 fullname: Mgr. Alexej Sevruk
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: Redaktor 
 #img: people/t-.jpg

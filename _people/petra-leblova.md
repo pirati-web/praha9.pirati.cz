@@ -3,7 +3,7 @@ uid: petra.leblova
 name:     Petra	Léblová
 fullname: Petra	Léblová
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: Kuchařka
 #img: people/.jpg

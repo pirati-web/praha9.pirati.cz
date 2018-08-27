@@ -3,7 +3,7 @@ uid: milan.kincl
 name:     Milan	Kincl
 fullname: Milan	Kincl
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: Zámečník
 #img: people/.jpg

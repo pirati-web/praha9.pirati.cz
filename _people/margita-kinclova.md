@@ -3,7 +3,7 @@ uid: margita.kinclova
 name:     Margita Kinclová
 fullname: Margita Kinclová
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: Sekretářka na VŠE
 #img: people/.jpg

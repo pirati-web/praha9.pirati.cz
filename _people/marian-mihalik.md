@@ -3,7 +3,7 @@ uid: marian.mihalik
 name:     Marian Mihalík
 fullname: Ing. Marian Mihalík
 category:
-  - clenove
+  - priznivci
   - kandidat-obec
 description: Pokladník
 #img: people/.jpg
