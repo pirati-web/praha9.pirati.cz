@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: Technický konzultant
-#img: people/.jpg
+img: people/petr-karel.jpg
 age: 54
 mail:
   - watermeter@seznam.cz

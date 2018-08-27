@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: 
-#img: people/t-.jpg
+img: people/jan-zhouf.jpg
 #age: 
 mail:
   - jan.zhouf@pirati.cz

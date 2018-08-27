@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: office manager
-#img: people/.jpg
+img: people/denisa-mala.jpg
 age: 40
 mail:
   - denisa1mala@gmail.com

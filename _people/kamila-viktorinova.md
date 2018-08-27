@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: Učitelka a zástupkyně v MŠ
-#img: people/.jpg
+img: people/kamila-viktorinova.jpg
 age: 54
 mail:
   - b.kama@seznam.cz

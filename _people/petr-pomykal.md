@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: 
-#img: people/t-.jpg
+img: people/potr-pomykal.jpg
 #age: 
 mail:
   - petr.pomykal@pirati.cz

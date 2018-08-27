@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: Pracovnice MP Praha
-#img: people/t-.jpg
+img: people/ilona-chromova.jpg
 #age: 
 mail:
   - ilona-chromova@pirati.cz

@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: Inženýrka chemie a lektorka
-#img: people/kornelia-gottmannova.jpg
+img: people/kornelia-gottmannova.jpg
 age: 46
 mail:
   - nela.g@thefluence.cz
