@@ -5,7 +5,7 @@ fullname: Mgr. Ilona Chromová
 category:
   - clenove
   - kandidat-obec
-description: 
+description: Pracovnice MP Praha
 #img: people/t-.jpg
 #age: 
 mail:

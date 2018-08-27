@@ -5,11 +5,11 @@ fullname: Ing. Kornélia Gottmannová
 category:
   - clenove
   - kandidat-obec
-description: technická podpora a tester
+description: Inženýrka chemie a lektorka
 #img: people/kornelia-gottmannova.jpg
-age: 29
+age: 46
 mail:
-  - kornelia.gottmannova@pirati.cz
+  - nela.g@thefluence.cz
  
 profiles:
   facebook: 
