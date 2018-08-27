@@ -1,6 +1,6 @@
 ---
-title: Kandidátka na MO V
-uid: mo-v
+title: Vysočany
+uid: vysocany
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
 
