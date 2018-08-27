@@ -1,13 +1,13 @@
 ---
 uid: katerina.vrsecka
 name:     Kateřina Vršecká
-fullname: Kateřina Vršecká
+fullname: Ing. Kateřina Vršecká
 category:
   - clenove
   - kandidat-obec
-description: 
+description: mateřská dovolená
 #img: people/t-.jpg
-#age: 
+age: 33
 mail:
   - katerina.vrsecka@pirati.cz
  

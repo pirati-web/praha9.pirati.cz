@@ -5,9 +5,9 @@ fullname: Šárka Jiříková
 category:
   - clenove
   - kandidat-obec
-description: 
+description: účetní
 #img: people/t-.jpg
-#age: 
+age: 49
 mail:
   - sarka.jirikova@pirati.cz
  

@@ -5,9 +5,9 @@ fullname: Petr Pomykal
 category:
   - clenove
   - kandidat-obec
-description: 
+description: Správce nemovitosti
 img: people/petr-pomykal.jpg
-#age: 
+age: 55
 mail:
   - petr.pomykal@pirati.cz
  

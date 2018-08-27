@@ -1,13 +1,13 @@
 ---
 uid: renata.reilova
 name:     Renata Reilová
-fullname: Renata Reilová
+fullname: Ing. Renata Reilová
 category:
   - clenove
   - kandidat-obec
-description: 
+description: Ekonomka
 #img: people/t-.jpg
-#age: 
+age: 35
 mail:
   - renata.reilova@pirati.cz
  

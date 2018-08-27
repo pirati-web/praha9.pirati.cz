@@ -1,13 +1,13 @@
 ---
 uid: veronika.smejkalova
 name:     Veronika Šmejkalová
-fullname: Veronika Šmejkalová
+fullname: Ing. Veronika Šmejkalová
 category:
   - clenove
   - kandidat-obec
-description: 
+description: Manažerka správy majetků
 #img: people/t-.jpg
-#age: 
+age: 48
 mail:
   - veronika.smejkalova@pirati.cz
  

@@ -1,13 +1,13 @@
 ---
 uid: alexej.sevruk
 name:     Alexej Sevruk
-fullname: Alexej Sevruk
+fullname: Mgr. Alexej Sevruk
 category:
   - clenove
   - kandidat-obec
-description: 
+description: Redaktor 
 #img: people/t-.jpg
-#age: 
+age: 35
 mail:
   - alexej.sevruk@pirati.cz
  

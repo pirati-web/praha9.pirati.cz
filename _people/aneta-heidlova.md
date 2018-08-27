@@ -7,7 +7,7 @@ category:
   - kandidat-obec
 description: technická podpora a tester
 img: people/aneta-heidlova.jpg
-age: 29
+age: 30
 mail:
   - aneta.heidlova@pirati.cz
  

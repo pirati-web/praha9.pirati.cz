@@ -5,9 +5,9 @@ fullname: Jan Landa
 category:
   - clenove
   - kandidat-obec
-description: 
+description: student
 #img: people/t-.jpg
-#age: 
+age: 21
 mail:
   - jan.landa@pirati.cz
  

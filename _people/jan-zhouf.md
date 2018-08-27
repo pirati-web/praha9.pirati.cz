@@ -1,13 +1,13 @@
 ---
 uid: jan.zhouf
 name:     Jan Zhouf
-fullname: Jan Zhouf
+fullname: Bc. Jan Zhouf
 category:
   - clenove
   - kandidat-obec
-description: 
+description: Student
 img: people/jan-zhouf.jpg
-#age: 
+age: 22
 mail:
   - jan.zhouf@pirati.cz
  
