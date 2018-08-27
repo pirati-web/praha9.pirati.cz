@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: technická podpora a tester
-mg: people/petr-daubner.jpg
+img: people/petr-daubner.jpg
 age: 29
 mail:
   - petr.daubner@pirati.cz
