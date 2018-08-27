@@ -7,7 +7,7 @@ leader:
   age: 46
   profession: Inženýrka chemie a lektorka
   party: Piráti
-  description: Zastupitel MČ Praha 9, 
+  description: Zastupitel MČ Praha 9 
 head: 
 
        
