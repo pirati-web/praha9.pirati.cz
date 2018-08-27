@@ -21,22 +21,22 @@ main:
     match: clenove
   - link: /podporte-nas/
     name: Podpořte nás
-  #- link: /komunalni-volby-2018/
-  #  name: Komunální volby 2018
-  #  match: komunalni-volby-2018
-  #  submenu:
-  #    - link: /komunalni-volby-2018/
-  #      name: Radnice
-  #      match: komunalni-volby-2018
-  #    - link: /komunalni-volby-2018/mo-i/
-  #      name: MO I
-  #      match: mo-i
-  #    - link: /komunalni-volby-2018/mo-ii/
-  #      name: MO II
-  #      match: mo-ii        
-  #    - link: /komunalni-volby-2018/mo-v/
-  #      name: MO V
-  #      match: mo-v
+  - link: /komunalni-volby-2018/
+    name: Komunální volby 2018
+    match: komunalni-volby-2018
+    submenu:
+      - link: /komunalni-volby-2018/
+        name: Radnice
+        match: komunalni-volby-2018
+      - link: /komunalni-volby-2018/vysocany/
+        name: Vysočany
+        match: vysocany
+      - link: /komunalni-volby-2018/prosek/
+        name: Prosek
+        match: prosek        
+      - link: /komunalni-volby-2018/strizkov/
+        name: Střížkov
+        match: strizkov
   - link: /kontakt/
     name: Kontakt
     match: kontakt
