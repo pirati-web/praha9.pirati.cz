@@ -7,7 +7,7 @@ category:
   - kandidat-obec
 description: Zámečník
 #img: people/.jpg
-age: 54
+age: 46
 mail:
   - M.KINCL@seznam.cz
  

@@ -7,7 +7,7 @@ category:
   - kandidat-obec
 description: Pokladník
 #img: people/.jpg
-age: 39
+age: 44
 mail:
   - mihalik.maro@centrum.cz
  

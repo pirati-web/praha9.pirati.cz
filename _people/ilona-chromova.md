@@ -7,9 +7,9 @@ category:
   - kandidat-obec
 description: Pracovnice MP Praha
 img: people/ilona-chromova.jpg
-#age: 
+age: 43
 mail:
-  - ilona-chromova@pirati.cz
+  - ilona.chromova@pirati.cz
  
 profiles:
   #facebook: https://www.facebook.com/

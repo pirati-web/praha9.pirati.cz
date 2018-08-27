@@ -7,7 +7,7 @@ category:
   - kandidat-obec
 description: Sekretářka na VŠE
 #img: people/.jpg
-age: 54
+age: 45
 mail:
   - GITAKINCL@seznam.cz
  

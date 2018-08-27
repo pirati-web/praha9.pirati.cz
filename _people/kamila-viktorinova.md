@@ -7,7 +7,7 @@ category:
   - kandidat-obec
 description: Učitelka a zástupkyně v MŠ
 img: people/kamila-viktorinova.jpg
-age: 54
+age: 40
 mail:
   - b.kama@seznam.cz
  

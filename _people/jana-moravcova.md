@@ -7,7 +7,7 @@ category:
   - kandidat-obec
 description: Překladatelka
 #img: people/.jpg
-age: 39
+age: 49
 mail:
   - moravcovajana@gmail.com
  
