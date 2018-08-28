@@ -1,7 +1,8 @@
 ---
 uid: hana.erbanova
 name:     Hana	Erbanová
-fullname: Ing.	Hana	Erbanová
+titles:
+  before: Ing.
 category:
   - priznivci
   - kandidat-obec

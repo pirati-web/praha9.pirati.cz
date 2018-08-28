@@ -1,7 +1,8 @@
 ---
 uid: ondrej.kalis
 name:     Ondřej	Kališ
-fullname: Ing.	Ondřej	Kališ
+titles:
+  before: Ing.
 category:
   - priznivci
   - kandidat-obec

@@ -1,7 +1,8 @@
 ---
 uid: alexej.sevruk
 name:     Alexej Sevruk
-fullname: Mgr. Alexej Sevruk
+titles:
+  before: Mgr.
 category:
   - kandidat-obec
 description: redaktor 

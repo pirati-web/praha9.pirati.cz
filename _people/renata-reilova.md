@@ -1,7 +1,8 @@
 ---
 uid: renata.reilova
 name:     Renata Reilová
-fullname: Ing. Renata Reilová
+titles:
+  before: Ing.
 category:
   - priznivci
   - kandidat-obec

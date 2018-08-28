@@ -1,7 +1,8 @@
 ---
 uid: vit.chrom
 name:     Vít Chrom
-fullname: Bc. Vít Chrom
+titles:
+  before: Bc.
 description: pracovník MP Praha
 age: 49
 category:

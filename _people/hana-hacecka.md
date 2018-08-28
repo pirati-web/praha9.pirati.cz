@@ -1,7 +1,8 @@
 ---
 uid: hana.hacecka
 name:     Hana Hačecká
-fullname: Ing. Hana Hačecká
+titles:
+  before: Ing.
 category:
   - kandidat-obec
 description: projektantka

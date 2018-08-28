@@ -1,7 +1,8 @@
 ---
 uid: jakub.pistek
 name:     Jakub Pištěk
-fullname: Ing. Jakub Pištěk
+titles:
+  before: Ing.
 category:
   - kandidat-obec
 description: programátor

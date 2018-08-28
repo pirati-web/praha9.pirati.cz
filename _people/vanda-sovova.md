@@ -1,7 +1,8 @@
 ---
 uid: vanda.sovova
 name:     Vanda Sovová
-fullname: Ing. Vanda Sovová
+titles:
+  before: Ing.
 category:
   - kandidat-obec
 description: finanční analytik

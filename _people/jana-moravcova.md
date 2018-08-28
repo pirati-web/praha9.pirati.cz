@@ -1,7 +1,8 @@
 ---
 uid: jana.moravcova
 name:     Jana Moravcová
-fullname: Mgr. Jana Moravcová
+titles:
+  before: Mgr.
 category:
   - priznivci
   - kandidat-obec

@@ -1,7 +1,8 @@
 ---
 uid: vaclav.vislous
 name:     Václav	Vislous
-fullname: MSc.	Václav	Vislous
+titles:
+  after: MSc.
 category:
   - clenove
   - kandidat-obec

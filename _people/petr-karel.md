@@ -1,7 +1,8 @@
 ---
 uid: petr.karel
 name:     Petr Karel
-fullname: Ing. Petr Karel
+titles:
+  before: Ing.
 category:
   - clenove
   - kandidat-obec

@@ -1,7 +1,8 @@
 ---
 uid: kornelia.gottmannova
 name:     Kornélia Gottmannová
-fullname: Ing. Kornélia Gottmannová
+titles:
+  before: Ing.
 category:
   - clenove
   - kandidat-obec

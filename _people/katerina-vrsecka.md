@@ -1,7 +1,8 @@
 ---
 uid: katerina.vrsecka
 name:     Kateřina Vršecká
-fullname: Ing. Kateřina Vršecká
+titles:
+  before: Ing.
 category:
   - priznivci
   - kandidat-obec

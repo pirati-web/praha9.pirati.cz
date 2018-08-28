@@ -1,7 +1,8 @@
 ---
 uid: marcela.knourkova
 name:     Marcela Kňourková
-fullname: Bc. Marcela Kňourková
+titles:
+  before: Bc.
 category:
   - kandidat-obec
 description: technička správy zeleně

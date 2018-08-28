@@ -1,7 +1,8 @@
 ---
 uid: denisa.mala
 name:     Denisa Malá
-fullname: Denisa Malá, DiS.
+titles:
+  after: DiS.
 category:
   - priznivci
   - kandidat-obec

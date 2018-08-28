@@ -1,7 +1,8 @@
 ---
 uid: jan.zhouf
 name:     Jan Zhouf
-fullname: Bc. Jan Zhouf
+titles:
+  before: Bc.
 category:
   - priznivci
   - kandidat-obec

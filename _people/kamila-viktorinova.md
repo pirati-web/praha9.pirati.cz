@@ -1,7 +1,8 @@
 ---
 uid: kamila.viktorinova
 name:     Kamila Viktorinová
-fullname: Bc. Kamila Viktorinová
+titles:
+  before: Bc.
 category:
   - priznivci
   - kandidat-obec

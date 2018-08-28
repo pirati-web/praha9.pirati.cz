@@ -1,7 +1,8 @@
 ---
 uid: gabriela.hauserova
 name:     Gabriela Hauserová
-fullname: MUDr. Gabriela Hauserová
+titles:
+  before: MUDr.
 category:
   - kandidat-obec
 description: praktický lékař

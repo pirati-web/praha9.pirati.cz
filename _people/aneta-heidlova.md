@@ -1,7 +1,8 @@
 ---
 uid: aneta.heidlova
 name:     Aneta Heidlová
-fullname: Bc. Aneta Heidlová
+titles:
+  before: Bc.
 category:
   - clenove
   - kandidat-obec

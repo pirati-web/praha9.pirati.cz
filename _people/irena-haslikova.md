@@ -1,7 +1,8 @@
 ---
 uid: irena.haslikova
 name:     Irena	Hašlíková
-fullname: MUDr.	Irena Hašlíková
+titles:
+  before: MUDr.
 category:
   - kandidat-obec
 description: lékařka

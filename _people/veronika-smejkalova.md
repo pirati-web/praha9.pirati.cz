@@ -1,7 +1,8 @@
 ---
 uid: veronika.smejkalova
 name:     Veronika Šmejkalová
-fullname: Ing. Veronika Šmejkalová
+titles:
+  before: Ing.
 category:
   - priznivci
   - kandidat-obec

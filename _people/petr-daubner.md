@@ -1,7 +1,8 @@
 ---
 uid: petr.daubner
 name:     Petr Daubner
-fullname: Mgr. Petr Daubner
+titles:
+  before: Mgr.
 category:
   - clenove
   - kandidat-obec

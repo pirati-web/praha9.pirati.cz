@@ -1,7 +1,8 @@
 ---
 uid: marian.mihalik
 name:     Marian Mihalík
-fullname: Ing. Marian Mihalík
+titles:
+  before: Ing.
 category:
   - priznivci
   - kandidat-obec

@@ -1,7 +1,8 @@
 ---
 uid: ilona.chromova
 name:     Ilona Chromová
-fullname: Mgr. Ilona Chromová
+titles:
+  before: Mgr.
 category:
   - priznivci
   - kandidat-obec
