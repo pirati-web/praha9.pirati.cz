@@ -1,7 +1,6 @@
 ---
 title: Prosek
 uid: prosek
----
 # number: 11 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: petr.daubner

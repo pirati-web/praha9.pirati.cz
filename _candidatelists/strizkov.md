@@ -1,7 +1,6 @@
 ---
 title: Střížkov
 uid: strizkov
----
 # number: 9 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: aneta.heidlova
