@@ -6,10 +6,8 @@ category:
   - priznivci
   - kandidat-obec
 description: Dopravní inženýr
-#img: people/t-.jpg
+#img: people/ondrej-kalis.jpg
 age: 29
-mail:
-  - vaclav.vislous@pirati.cz
  
 profiles:
   #facebook: https://www.facebook.com/
