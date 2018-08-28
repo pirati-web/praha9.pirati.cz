@@ -5,11 +5,11 @@ fullname: Ing. Marian Mihalík
 category:
   - priznivci
   - kandidat-obec
-description: Pokladník
+description: pokladník
 #img: people/.jpg
 age: 44
-mail:
-  - mihalik.maro@centrum.cz
+#mail:
+#  - mihalik.maro@centrum.cz
  
 profiles:
   facebook: 

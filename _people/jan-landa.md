@@ -7,9 +7,9 @@ category:
   - kandidat-obec
 description: student
 #img: people/t-.jpg
-age: 21
-mail:
-  - jan.landa@pirati.cz
+age: 20
+#mail:
+#  - jan.landa@pirati.cz
  
 profiles:
   #facebook: https://www.facebook.com/

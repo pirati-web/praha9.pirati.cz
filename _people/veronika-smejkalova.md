@@ -5,11 +5,11 @@ fullname: Ing. Veronika Šmejkalová
 category:
   - priznivci
   - kandidat-obec
-description: Manažerka správy majetků
+description: manažerka správy majetků
 #img: people/t-.jpg
 age: 48
-mail:
-  - veronika.smejkalova@pirati.cz
+#mail:
+#  - veronika.smejkalova@pirati.cz
  
 profiles:
   #facebook: https://www.facebook.com/

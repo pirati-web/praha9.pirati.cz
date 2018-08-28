@@ -1,11 +1,11 @@
 ---
-uid: alexej.sevruk
-name:     Alexej Sevruk
-fullname: Mgr. Alexej Sevruk
+uid: marek.hladky
+name:     Marek Hladký
+fullname: Marek Hladký
 category:
   - kandidat-obec
-description: redaktor 
-age: 35
+description: IT administrátor
+age: 37
 #img: people/t-.jpg
 #mail: xxx@pirati.cz
 

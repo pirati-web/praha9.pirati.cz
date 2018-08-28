@@ -1,11 +1,11 @@
 ---
-uid: alexej.sevruk
-name:     Alexej Sevruk
-fullname: Mgr. Alexej Sevruk
+uid: stanislav.hoda
+name:     Stanislav Hoda
+fullname: Stanislav Hoda
 category:
   - kandidat-obec
-description: redaktor 
-age: 35
+description: realitní makléř
+age: 47
 #img: people/t-.jpg
 #mail: xxx@pirati.cz
 

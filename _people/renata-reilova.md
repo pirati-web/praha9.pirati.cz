@@ -5,11 +5,11 @@ fullname: Ing. Renata Reilová
 category:
   - priznivci
   - kandidat-obec
-description: Ekonomka
+description: ekonomka
 #img: people/t-.jpg
-age: 35
-mail:
-  - renata.reilova@pirati.cz
+age: 34
+#mail:
+#  - renata.reilova@pirati.cz
  
 profiles:
   #facebook: https://www.facebook.com/

@@ -1,11 +1,11 @@
 ---
-uid: alexej.sevruk
-name:     Alexej Sevruk
-fullname: Mgr. Alexej Sevruk
+uid: jakub.pistek
+name:     Jakub Pištěk
+fullname: Ing. Jakub Pištěk
 category:
   - kandidat-obec
-description: redaktor 
-age: 35
+description: programátor
+age: 29
 #img: people/t-.jpg
 #mail: xxx@pirati.cz
 

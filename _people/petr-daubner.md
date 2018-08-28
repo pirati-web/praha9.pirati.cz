@@ -5,9 +5,9 @@ fullname: Mgr. Petr Daubner
 category:
   - clenove
   - kandidat-obec
-description: technická podpora a tester
+description: učitel na gymnáziu
 img: people/petr-daubner.jpg
-age: 29
+age: 45
 mail:
   - petr.daubner@pirati.cz
  

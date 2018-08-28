@@ -5,14 +5,14 @@ fullname: Ing. Kornélia Gottmannová
 category:
   - clenove
   - kandidat-obec
-description: Inženýrka chemie a lektorka
+description: inženýrka chemie a lektorka
 img: people/kornelia-gottmannova.jpg
 age: 46
 mail:
   - nela.g@thefluence.cz
  
 profiles:
-  facebook: 
+facebook: 
 ---
 
 Ing. Kornélia Gottmannová vystudovala VŠCHT Praha, obor fyzikální chemie. Po ukončení studia nastoupila ke společnosti ExxonMobil jako technický poradce pro oleje a maziva. Své zkušenosti v rámci této mezinárodní korporace sbírala na dalších pozicích: jako vedoucí prodeje, office manažerka a koordinátorka prodejních činností pro Čechy a Slovensko v centrále v Hamburku. Řešila také otázky synchronizace procesů a zavádění ISO norem. Další manažerské zkušenosti získala jako ředitelka marketingu a kvality v logistické společnosti Schenker a poté jako obchodní ředitelka firmy van Gansewinkel, kde se zabývala nakládáním s odpady. 

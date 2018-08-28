@@ -2,14 +2,16 @@
 uid: vit.chrom
 name:     Vít Chrom
 fullname: Bc. Vít Chrom
+description: pracovník MP Praha
+age: 49
 category:
   - priznivci
   - kandidat-obec
 description: 
 #img: people/t-.jpg
 #age: 
-mail:
-  - vit-chrom@pirati.cz
+#mail:
+ # - vit-chrom@pirati.cz
  
 profiles:
   #facebook: https://www.facebook.com/

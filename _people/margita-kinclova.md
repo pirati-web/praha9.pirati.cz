@@ -5,11 +5,11 @@ fullname: Margita Kinclová
 category:
   - priznivci
   - kandidat-obec
-description: Sekretářka na VŠE
+description: sekretářka na VŠE
 #img: people/.jpg
 age: 45
-mail:
-  - GITAKINCL@seznam.cz
+#mail:
+#  - GITAKINCL@seznam.cz
  
 profiles:
   facebook: 

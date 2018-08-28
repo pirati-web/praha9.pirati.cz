@@ -5,7 +5,7 @@ fullname: MSc.	Václav	Vislous
 category:
   - clenove
   - kandidat-obec
-description: Manažer
+description: manažer
 img: people/vaclav-vislous.jpg
 age: 30
 mail:

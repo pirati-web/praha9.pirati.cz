@@ -1,11 +1,11 @@
 ---
-uid: alexej.sevruk
-name:     Alexej Sevruk
-fullname: Mgr. Alexej Sevruk
+uid: vanda.sovova
+name:     Vanda Sovová
+fullname: Ing. Vanda Sovová
 category:
   - kandidat-obec
-description: redaktor 
-age: 35
+description: finanční analytik
+age: 39
 #img: people/t-.jpg
 #mail: xxx@pirati.cz
 

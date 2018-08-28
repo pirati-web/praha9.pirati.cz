@@ -7,8 +7,8 @@ category:
 description: lékařka
 #img: people/.jpg
 age: 39
-mail:
-  - irena.haslikova@gmail.com
+#mail:
+#  - irena.haslikova@gmail.com
  
 profiles:
   facebook: 

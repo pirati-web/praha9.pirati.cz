@@ -5,7 +5,7 @@ fullname: Ing.	Ondřej	Kališ
 category:
   - priznivci
   - kandidat-obec
-description: Dopravní inženýr
+description: dopravní inženýr
 img: people/ondrej-kalis.jpg
 age: 29
  

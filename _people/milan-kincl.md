@@ -5,7 +5,7 @@ fullname: Milan	Kincl
 category:
   - priznivci
   - kandidat-obec
-description: Zámečník
+description: zámečník
 #img: people/.jpg
 age: 46
 mail:

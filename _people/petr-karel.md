@@ -5,7 +5,7 @@ fullname: Ing. Petr Karel
 category:
   - clenove
   - kandidat-obec
-description: Technický konzultant
+description: technický konzultant
 img: people/petr-karel.jpg
 age: 54
 mail:

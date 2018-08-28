@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 categories: kontaktni_osoba
-description: technická podpora a tester
+description: IT tester
 img: people/aneta-heidlova.jpg
 age: 30
 mail:

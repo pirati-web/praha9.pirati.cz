@@ -4,11 +4,11 @@ name:     Petr Pomykal
 fullname: Petr Pomykal
 category:
   - kandidat-obec
-description: Správce nemovitosti
+description: správce nemovitostí
 img: people/petr-pomykal.jpg
 age: 55
-mail:
-  - petr.pomykal@pirati.cz
+#mail:
+#  - petr.pomykal@pirati.cz
  
 profiles:
   #facebook: https://www.facebook.com/

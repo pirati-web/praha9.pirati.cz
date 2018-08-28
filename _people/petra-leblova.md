@@ -5,7 +5,7 @@ fullname: Petra	Léblová
 category:
   - priznivci
   - kandidat-obec
-description: Kuchařka
+description: kuchařka
 #img: people/.jpg
 age: 36
 mail:

@@ -5,7 +5,7 @@ fullname: Mgr. Ilona Chromová
 category:
   - priznivci
   - kandidat-obec
-description: Pracovnice MP Praha
+description: pracovnice MP Praha
 img: people/ilona-chromova.jpg
 age: 43
 mail:

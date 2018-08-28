@@ -8,8 +8,8 @@ category:
 description: účetní
 #img: people/t-.jpg
 age: 49
-mail:
-  - sarka.jirikova@pirati.cz
+#mail:
+#  - sarka.jirikova@pirati.cz
  
 profiles:
   #facebook: https://www.facebook.com/

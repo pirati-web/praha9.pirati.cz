@@ -1,11 +1,11 @@
 ---
-uid: alexej.sevruk
-name:     Alexej Sevruk
-fullname: Mgr. Alexej Sevruk
+uid: gabriela.hauserova
+name:     Gabriela Hauserová
+fullname: MUDr. Gabriela Hauserová
 category:
   - kandidat-obec
-description: redaktor 
-age: 35
+description: praktický lékař
+age: 47
 #img: people/t-.jpg
 #mail: xxx@pirati.cz
 
