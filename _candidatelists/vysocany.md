@@ -7,7 +7,7 @@ leader:
   age: 46
   profession: inženýrka chemie a lektorka
   party: Piráti
-  description: Kandidátka na starostku Prahy 9
+  description: Kandidátka na starostku Prahy 9, Lídr na Vysočanech a Libni
 head: 
   - uid: petr.karel
     age: 54
