@@ -14,29 +14,29 @@ main:
     name: Úvod
     class: hide-for-medium
   - link: /aktuality/
-    name: Aktuality
+    name: Aktuálně
     match: aktuality
-  - link: /clenove/
-    name: Naši členové
-    match: clenove
-  - link: /podporte-nas/
-    name: Podpořte nás
   - link: /komunalni-volby-2018/
     name: Volby 2018
     match: komunalni-volby-2018
     submenu:
       - link: /komunalni-volby-2018/
-        name: Radnice
+        name: Volby 2018
         match: komunalni-volby-2018
-      - link: /komunalni-volby-2018/vysocany/
-        name: Vysočany
-        match: vysocany
       - link: /komunalni-volby-2018/prosek/
-        name: Prosek
-        match: prosek        
+        name: Obvod č. 1
+        match: prosek
       - link: /komunalni-volby-2018/strizkov/
-        name: Střížkov
-        match: strizkov
+        name: Obvod č. 2
+        match: strizkov        
+      - link: /komunalni-volby-2018/vysocany/
+        name: Obvod č. 3
+        match: vysocany
+  - link: /clenove/
+    name: Naši členové
+    match: clenove
+  - link: /podporte-nas/
+    name: Podpořte nás
   - link: /kontakt/
     name: Kontakt
     match: kontakt
