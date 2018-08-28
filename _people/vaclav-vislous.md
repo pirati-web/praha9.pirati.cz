@@ -3,7 +3,7 @@ uid: vaclav.vislous
 name:     Václav	Vislous
 fullname: MSc.	Václav	Vislous
 category:
-  - priznivci
+  - clenove
   - kandidat-obec
 description: Manažer
 #img: people/t-.jpg

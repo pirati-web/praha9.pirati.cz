@@ -3,7 +3,6 @@ uid: petr.pomykal
 name:     Petr Pomykal
 fullname: Petr Pomykal
 category:
-  - clenove
   - kandidat-obec
 description: Správce nemovitosti
 img: people/petr-pomykal.jpg
