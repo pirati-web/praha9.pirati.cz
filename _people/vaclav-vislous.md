@@ -6,7 +6,7 @@ category:
   - clenove
   - kandidat-obec
 description: Manažer
-#img: people/vaclav-vislous.jpg
+img: people/vaclav-vislous.jpg
 age: 30
 mail:
   - vaclav.vislous@pirati.cz
