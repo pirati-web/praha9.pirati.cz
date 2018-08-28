@@ -13,7 +13,7 @@ které naši městskou část trápí.</p>
 </blockquote>
 
 <h2>VOLEBNÍ OBVODY</h2>
-Při volbách do komunálního zastupitelstva městské části Praha 9, byly vytvořeny tři volební obvody. Podle místa svého bydliště vyberte kandidátku, kterou najdete na svém volebním lístku:
+Při volbách do zastupitelstva Městské části Praha 9 byly vytvořeny tři volební obvody. Podle svého místa bydliště můžete vybrat kandidátku, která bude na vašem volebním lístku:
 
 **[VOLEBNÍ OBVOD Č. 1 (PROSEK A KROCÍNKA)](/komunalni-volby-2018/prosek)**
 
