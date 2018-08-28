@@ -7,7 +7,11 @@ description: V komunálních volbách 2018 Piráti budou kandidovat na Praze 9. 
 keywords: volby, Vysočany, Libeň, 2018, program, kandidátka, kandidátní listina, kandidáti, komunální volby
 ---
 
-OBVOD Č. 3
-----------
+VOLEBNÍ OBVOD Č. 3
+------------------
 
-Tento obvod zahrnuje oblasti **Vysočany** a **Libeň** (část).
+Tento volební obvod zahrnuje oblasti **Vysočany** a **Libeň** (část).
+
+[VOLEBNÍ OBVOD Č. 1 (PROSEK A KROCÍNKA)](/komunalni-volby-2018/prosek)
+
+[VOLEBNÍ OBVOD Č. 2 (STŘÍŽKOV A HRDLOŘEZY)](/komunalni-volby-2018/strizkov)

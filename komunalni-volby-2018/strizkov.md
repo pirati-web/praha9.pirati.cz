@@ -7,7 +7,11 @@ description: V komunálních volbách 2018 Piráti budou kandidovat na Praze 9. 
 keywords: volby, Střížkov, strizkov, 2018, program, kandidátka, kandidátní listina, kandidáti, komunální volby, Praha 9
 ---
 
-OBVOD Č. 2
-----------
+VOLEBNÍ OBVOD Č. 2
+------------------
 
-Tento obvod zahrnuje oblasti **Střížkov** a **Hrdlořezy** (část).
+Tento volební obvod zahrnuje oblasti **Střížkov** a **Hrdlořezy** (část).
+
+[VOLEBNÍ OBVOD Č. 1 (PROSEK A KROCÍNKA)](/komunalni-volby-2018/prosek)
+
+[VOLEBNÍ OBVOD Č. 3 (VYSOČANY A LIBEŇ)](/komunalni-volby-2018/vysocany)

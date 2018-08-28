@@ -7,7 +7,11 @@ description: V komunálních volbách 2018 Piráti budou kandidovat na Praze 9. 
 keywords: volby, Prosek, Krocínka, 2018, program, kandidátka, kandidátní listina, kandidáti, komunální volby
 ---
 
-OBVOD Č. 1
-----------
+VOLEBNÍ OBVOD Č. 1
+------------------
 
-Tento obvod zahrnuje oblasti **Prosek** a **Krocínka**.
+Tento volební obvod zahrnuje oblasti **Prosek** a **Krocínka**.
+
+[VOLEBNÍ OBVOD Č. 2 (STŘÍŽKOV A HRDLOŘEZY)](/komunalni-volby-2018/strizkov)
+
+[VOLEBNÍ OBVOD Č. 3 (VYSOČANY A LIBEŇ)](/komunalni-volby-2018/vysocany)
