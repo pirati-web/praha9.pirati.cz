@@ -22,42 +22,43 @@ head:
     profession: pracovnice MP Praha
     party: bez politické příslušnosti
 tail:
-  - uid: milan.kincl
+  - name:  Milan Kincl
     age: 46
     profession: zámečník
     party: bez politické příslušnosti
-  - uid: margita.kinclova
+  - name:  Margita  Kinclová
     age: 45
     profession: sekretářka na VŠE
     party: bez politické příslušnosti
-  - uid: irena.haslikova
+  - name: MUDr. Irena Hašlíková
     age: 39
     profession: lékařka
     party: bez politické příslušnosti
-  - uid: claudie.laburdova
+  - name:  Claudie Laburdová
     age: 39
     profession: koordinátorka projektů v NNO
     party: bez politické příslušnosti
-  - uid: marian.mihalik
+  - name: Ing. Marian Mihalík
     age: 44
     profession: pokladník
     party: bez politické příslušnosti
-  - uid: marek.hladky
+  - name:  Marek Hladký
     age: 37
     profession: IT administrátor
     party: bez politické příslušnosti
-  - uid: petra.leblova
+  - name:  Petra Léblová
     age: 36
     profession: kuchařka
     party: bez politické příslušnosti
-  - uid: rudolf.brichnac
+  - name:  Rudolf Břichnáč
     age: 60
     profession: THP
     party: bez politické příslušnosti
-  - uid: denisa.mala
+  - name: Denisa Malá DiS.
     age: 40
     profession: office manager
     party: bez politické příslušnosti
+
 
  
  
