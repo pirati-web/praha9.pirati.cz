@@ -6,7 +6,7 @@ category:
   - priznivci
   - kandidat-obec
 description: Dopravní inženýr
-#img: people/ondrej-kalis.jpg
+img: people/ondrej-kalis.jpg
 age: 29
  
 profiles:
