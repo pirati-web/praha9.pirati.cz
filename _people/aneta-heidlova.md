@@ -5,6 +5,7 @@ fullname: Bc. Aneta Heidlová
 category:
   - clenove
   - kandidat-obec
+  - kontaktni_osoba
 description: technická podpora a tester
 img: people/aneta-heidlova.jpg
 age: 30
