@@ -1,6 +1,7 @@
 ---
 title: Vysočany
 uid: vysocany
+---
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: kornelia.gottmannova
