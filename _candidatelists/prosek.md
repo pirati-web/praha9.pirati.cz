@@ -53,5 +53,4 @@ tail:
   party: bez politické příslušnosti
 
 note: # poznámka pod kanidátku
-    Schvalování zbytku kandidátky ještě není dokončeno.
 ---
