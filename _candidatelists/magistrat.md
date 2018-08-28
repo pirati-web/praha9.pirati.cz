@@ -13,12 +13,11 @@ head:
   age: 54
   profession: technický konzultant
   party: Piráti
-       
+head:
   uid: kamila.viktorinova
   age: 40
   profession: učitelka a zástupkyně v MŠ
   party: bez politické příslušnosti
-  
 tail: 
   - name: Mgr. Van Anh Tranová
     age: 32
