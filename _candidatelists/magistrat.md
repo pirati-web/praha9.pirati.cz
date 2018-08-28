@@ -5,12 +5,20 @@ uid: magistrat
 leader:
   uid: kornelia.gottmannova
   age: 46
-  profession: Inženýrka chemie a lektorka
+  profession: inženýrka chemie a lektorka
   party: Piráti
-  description: Zastupitel MČ Praha 9 
+  description: Kandidátka na starostku Prahy 9
 head: 
-
+  uid: petr.karel
+  age: 54
+  profession: technický konzultant
+  party: Piráti
        
+  uid: kamila.viktorinova
+  age: 40
+  profession: učitelka a zástupkyně v MŠ
+  party: bez politické příslušnosti
+  
 tail: 
   - name: Mgr. Van Anh Tranová
     age: 32
