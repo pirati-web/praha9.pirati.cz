@@ -12,7 +12,9 @@ které naši městskou část trápí.</p>
 	<p>Na radnici jdeme s jasnou vizí a plánem rozvoje Devítky. Nedopustíme skryté kšefty s pozemky, ani úlitby developerům. Naší prioritou je zasednout v radě a zasadit se o rozvoj města pro občany. Městská část musí být skvělým místem pro život, pro práci, relaxaci i studium. </p>
 </blockquote>
 
-OBVOD Č. 3
-----------
+<h2>VOLEBNÍ OBVODY</h2>
+Při volbách do komunálního zastupitelstva městské části Praha 9, byly vytvořeny tři volební obvody. Podle místa svého bydliště vyberte kandidátku, kterou najdete na svém volebním lístku:
 
-Tento obvod zahrnuje oblasti **Vysočany** a **Libeň** (část).
+**[VOLEBNÍ OBVOD Č. 1 (PROSEK A KROCÍNKA)](/prosek)**
+**[VOLEBNÍ OBVOD Č. 2 (STŘÍŽKOV A HRDLOŘEZY)](/strizkov)**
+**[VOLEBNÍ OBVOD Č. 3 (VYSOČANY A LIBEŇ)](/vysocany)**
