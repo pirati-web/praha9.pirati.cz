@@ -1,5 +1,5 @@
 ---
-title: Kandidátka Praha 9 - Obvod 3: Vysočany a Libeň
+title: Kandidátka Praha 9 Vysočany a Libeň
 uid: magistrat
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:

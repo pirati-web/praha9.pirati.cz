@@ -23,23 +23,23 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   profession: manažerka správy majetků
   party: bez politické příslušnosti
 tail:
-  - name: Ing. Renata Reilová
+- name: Ing. Renata Reilová
   age: 34
   profession: ekonomka
   party: bez politické příslušnosti
-  - name: Mgr. Alexej Sevruk
+- name: Mgr. Alexej Sevruk
   age: 35
   profession: redaktor 
   party: bez politické příslušnosti
-  - name: Ing. Kateřina Vršecká
+- name: Ing. Kateřina Vršecká
   age: 33
   profession: mateřská dovolená
   party: bez politické příslušnosti
-  - name:  Jan Landa
+- name:  Jan Landa
   age: 20
   profession: student
   party: bez politické příslušnosti
-  - name:  Šárka Jiříková
+- name:  Šárka Jiříková
   age: 49
   profession: účetní
   party: bez politické příslušnosti
