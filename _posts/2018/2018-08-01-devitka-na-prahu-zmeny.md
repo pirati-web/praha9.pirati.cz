@@ -10,8 +10,7 @@ image: articles/2018/2018-08-01-devitka-na-prahu-zmeny.jpg
 ---
 
 (článek je převzatý z Pirátských listů pro Prahu 9, které v tištěné verzi vyjdou 1. září 2018)
-<p style='text-align: justify;'>
-
+<div style='text-align: justify;'>
 Líbí se mi jeden starý příběh. U silnice seděl nemocný člověk. Na krvi z jeho otevřených ran hodovalo hejno masařek. Jednomu pocestnému se nemocného zželelo a odehnal nenasytné mouchy. Nemocný se k němu obrátil a řekl: „Děkuji, ale nedělej to. Za chvíli přiletí další, budou hladové a budou mě trápit ještě víc.“
 
 Naše řešení není odehnat nacucané mouchy a nahradit je jinými, jak je zvykem u současných vládnoucích politických uskupení. Naším zájmem není ani honit a zabíjet nacucané mouchy, jak to dělají populisti. Tyto postupy nejsou dlouhodobě efektivní. Našim zájmem je odehnat mouchy, zacelit rány a uzdravit člověka. 
@@ -28,7 +27,7 @@ Naše kandidátka je složená z odborníků na všechna klíčová odvětví - 
 
 Platforma Pirátů je čerstvý vítr pro Devítku. Uvědomujeme si, že největším problémem tuzemské politiky je provázanost politických stran na konkrétní ekonomické zájmy a projekty. V takovém prostředí se ale vytrácí člověk. A toho my chceme do politiky vrátit.
 
-</p>
+</div>
 Více již brzy v Pirátských listech pro Prahu 9
 
 ---
