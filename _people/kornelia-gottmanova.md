@@ -6,7 +6,7 @@ titles:
 category:
   - clenove
   - kandidat-obec
-description: inženýrka chemie a lektorka<br><a href="/clenove/kornelia-gottmanova/"><u>Více..</u></a>
+description: inženýrka chemie a lektorka
 img: people/kornelia-gottmannova.jpg
 age: 46
 mail:
