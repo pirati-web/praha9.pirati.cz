@@ -9,7 +9,7 @@ category:
   - priznivci
   - kandidat-obec
 description: 
-#img: people/t-.jpg
+img: people/vit-chrom.jpg
 #age: 
 #mail:
  # - vit-chrom@pirati.cz
