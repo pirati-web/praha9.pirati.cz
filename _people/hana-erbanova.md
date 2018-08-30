@@ -15,5 +15,5 @@ age: 45
 profiles:
   #facebook: https://www.facebook.com/
 ---
-
+<p style='text-align: justify;'>Ing. Hana Erbanová je příznivkyní Pirátů na Praze 9 a kandidátkou do zastupitelstva MČ Praha 9 ve volebním obvodu č. 1 (Prosek a Krocínka).</p>
 ---

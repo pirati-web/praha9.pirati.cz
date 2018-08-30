@@ -15,5 +15,11 @@ mail:
 profiles:
   #facebook: https://www.facebook.com/
 ---
-
+<p style='text-align: justify;'>
+Václav Vislous, MSc. je člen Pirátů na Praze 9 a dvojka kandidátky do zastupitelstva MČ Praha 9 ve volebním obvodu č. 1 (Prosek a Krocínka).
+</p><p style='text-align: justify;'>
+Václav vystudoval ekonomii na Univerzitě Karlově v Praze a prestižní francouzské HEC Paris. Své zkušenosti s manažerským poradenstvím dnes uplatňuje jako manažer rodinného podniku. 
+</p><p style='text-align: justify;'>
+U Pirátů se zaměřuje se na strategický rozvoj a hospodaření s majetkem. Jeho hlavním cílem je, aby radnice vytvořila ucelenou strategii svého dlouhodobého rozvoje. Přestože totiž Prahu 9 čeká extrémně rychlý růst, radnice dosud nemá odpovídající plán rozvoje dopravy, školství, zdravotnictví a sociálních služeb, který by na to kompetentně reagoval.
+</p>
 ---
