@@ -15,7 +15,7 @@ mail:
 profiles:
 facebook: 
 ---
-<p style='text-align: justify;'>Ing. Kornélia Gottmannová je předsedkyní MS Pirátů na Praze 9 a lídr kandidátky do zastupitelstva MČ Praha 9 ve <a href="/komunalni-volby-2018/vysocany/" target="_self">volebním obvodu č. 3 (Vysočany a část Libně)</a>.
+<p style='text-align: justify;'>Ing. Kornélia Gottmannová je předsedkyní MS Pirátů na Praze 9 a lídr kandidátky do zastupitelstva MČ Praha 9 ve <a href="/komunalni-volby-2018/vysocany/" target="_self"><u>volebním obvodu č. 3 (Vysočany a část Libně)</u></a>.
 </p><p style='text-align: justify;'>
 Kornélia vystudovala VŠCHT Praha, obor fyzikální chemie. Po ukončení studia nastoupila ke společnosti ExxonMobil jako technický poradce pro oleje a maziva. Své zkušenosti v rámci této mezinárodní korporace sbírala na dalších pozicích: jako vedoucí prodeje, office manažerka a koordinátorka prodejních činností pro Čechy a Slovensko v centrále v Hamburku. Řešila také otázky synchronizace procesů a zavádění ISO norem. Další manažerské zkušenosti získala jako ředitelka marketingu a kvality v logistické společnosti Schenker a poté jako obchodní ředitelka firmy van Gansewinkel, kde se zabývala nakládáním s odpady. 
 </p><p style='text-align: justify;'>
