@@ -16,7 +16,7 @@ profiles:
   facebook: 
 ---
 <p style='text-align: justify;'>
-Mgr. Petr Daubner je místopředseda MS Pirátů na Praze 9 a lídr na kandidátce do zastupitelstva MČ Praha 9 ve volebním obvodu č. 1 (Prosek a Krocínka).
+Mgr. Petr Daubner je místopředseda MS Pirátů na Praze 9 a lídr na kandidátce do zastupitelstva MČ Praha 9 ve <a href="/komunalni-volby-2018/prosek/" target="_self"><u>volebním obvodu č. 1 (Prosek a Krocínka)</u></a>.
 </p><p style='text-align: justify;'>
 Petr vystudoval Přírodovědeckou a Filosofickou fakultu Univerzity Karlovy v Praze. Nejdříve učil na základní škole, od roku 2007 působí jako učitel dějepisu a zeměpisu na Gymnáziu Špitálská v Praze-Vysočanech. Je autorem internetové učebnice dějepisu pro střední školy.
 </p><p style='text-align: justify;'>

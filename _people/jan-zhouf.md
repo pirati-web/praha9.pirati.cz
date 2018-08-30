@@ -16,7 +16,7 @@ profiles:
   #facebook: https://www.facebook.com/
 ---
 <p style='text-align: justify;'>
-Bc. Jan Zhouf je příznivec Pirátů na Praze 9 a kandidátem do zastupitelstva MČ Praha 9 ve volebním obvodu č. 2 (Střížkov a část Hrdlořez).
+Bc. Jan Zhouf je příznivec Pirátů na Praze 9 a kandidátem do zastupitelstva MČ Praha 9 ve <a href="/komunalni-volby-2018/strizkov/" target="_self"><u>volebním obvodu č. 2 (Střížkov a část Hrdlořez)</u></a>.
 </p><p style='text-align: justify;'>
 Jan je studentem magisterského studia informatiky na VŠE v Praze. Celý život prožil na Praze 9. Jeho cílem je zaměřit se na problémy související s nákupem technologií a dopravou.
 </p><p style='text-align: justify;'>

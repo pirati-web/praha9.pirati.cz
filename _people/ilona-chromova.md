@@ -15,7 +15,7 @@ age: 43
 profiles:
   #facebook: https://www.facebook.com/
 ---
-<p style='text-align: justify;'>Mgr. Ilona Chromová je příznivkyní Pirátů na Praze 9 a kandidátkou do zastupitelstva MČ Praha 9 ve volebním obvodu č. 3 (Vysočany a část Libně).
+<p style='text-align: justify;'>Mgr. Ilona Chromová je příznivkyní Pirátů na Praze 9 a kandidátkou do zastupitelstva MČ Praha 9 ve <a href="/komunalni-volby-2018/vysocany/" target="_self"><u>volebním obvodu č. 3 (Vysočany a část Libně)</u></a>.
 </p><p style='text-align: justify;'>
 Ilona vystudovala VŠ UJEP v Ústí nad Labem, obor Vychovatelství pro speciálně pedagogické instituce, v současné době studuje obor Andragogika na VŠ UJAK v Praze. Po mateřské dovolené nastoupila do firmy Hartmann Rico, kde kontrolovala kvalitu výrobků připravených k expedici.
 </p><p style='text-align: justify;'>

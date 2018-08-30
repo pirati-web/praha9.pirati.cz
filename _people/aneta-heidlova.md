@@ -16,7 +16,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/Estrella888
 ---
-<p style='text-align: justify;'>Bc. Aneta Heidlová je členkou předsednictva MS Pirátů na Praze 9 a lídr kandidátky do zastupitelstva MČ Praha 9 ve volebním obvodu č. 2 (Střížkov a část Hrdlořez).
+<p style='text-align: justify;'>Bc. Aneta Heidlová je členkou předsednictva MS Pirátů na Praze 9 a lídr kandidátky do zastupitelstva MČ Praha 9 ve <a href="/komunalni-volby-2018/strizkov/" target="_self"><u>volebním obvodu č. 2 (Střížkov a část Hrdlořez)</u></a>.
 </p><p style='text-align: justify;'>
 Aneta vystudovala VŠ UJEP v Ústí nad Labem, obor Aplikovaná informatika. V průběhu studia se zúčastnila mezinárodního projektu INWEST, konkrétně na části RFID, kde měla na starost databázovou část. Zajímala se o testování, databáze, kódování a šifrování a počítačové sítě.
 </p><p style='text-align: justify;'>

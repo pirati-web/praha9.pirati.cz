@@ -14,7 +14,7 @@ profiles:
   #facebook: https://www.facebook.com/
 ---
 <p style='text-align: justify;'>
-Petr Pomykal je příznivec Pirátů na Praze 9 a dvojkou kandidátky do zastupitelstva MČ Praha 9 ve volebním obvodu č. 2 (Střížkov a část Hrdlořez).
+Petr Pomykal je příznivec Pirátů na Praze 9 a dvojkou kandidátky do zastupitelstva MČ Praha 9 ve <a href="/komunalni-volby-2018/strizkov/" target="_self"><u>volebním obvodu č. 2 (Střížkov a část Hrdlořez)</u></a>.
 </p><p style='text-align: justify;'>
 Petr vystudoval Střední průmyslovou školu strojní v Mostě. Pracoval několik let jako projektant, vedoucí obchodních týmů u velkých nadnárodních společností a ředitel poboček bankovních institucí. V devadesátých letech byl členem hnutí Brontosaurus, které se zaměřovalo na životní prostředí, kulturní a společenský život.
 </p><p style='text-align: justify;'>

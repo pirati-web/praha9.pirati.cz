@@ -17,7 +17,7 @@ img: people/vit-chrom.jpg
 profiles:
   #facebook: https://www.facebook.com/
 ---
-<p style='text-align: justify;'>Bc. Vít Chrom je příznivec Pirátů na Praze 9 a kandidát do zastupitelstva MČ Praha 9 ve volebním obvodu č. 1 (Prosek a Krocínka).
+<p style='text-align: justify;'>Bc. Vít Chrom je příznivec Pirátů na Praze 9 a kandidát do zastupitelstva MČ Praha 9 ve <a href="/komunalni-volby-2018/prosek/" target="_self"><u>volebním obvodu č. 1 (Prosek a Krocínka)</u></a>.
 </p><p style='text-align: justify;'>
 Bc. Vít Chrom se narodil na Praze 9 a žije zde téměř 50 let. Po ukončení studia na Střední policejní škole v oboru bezpečnostně právním, pracoval několik let v působnosti Městského obvodu Praha 9, jako policista na různých pozicích. Při zaměstnání dokončil vysokoškolské vzdělání na ČVUT a nyní dokončuje magisterské studium na ČZU, obor Veřejná správa a regionální rozvoj.
 </p><p style='text-align: justify;'>
