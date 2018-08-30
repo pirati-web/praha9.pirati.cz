@@ -1,7 +1,7 @@
 ---
 uid: zivotni-prostredi
 garant: kornelia.gottmannova
-title: Veřejný prostor a zeleň
+title: Více stromů, méně veder
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/volebni-rozcestnik.png
