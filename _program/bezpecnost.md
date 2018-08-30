@@ -1,16 +1,16 @@
 ---
-uid: rizeni-a-organizacni-struktura-mesta
-garant: vojtech.jirsa
-title: Řízení a organizační struktura města
+uid: bezpecnost
+garant: ilona.chromova
+title: Bezpečné město
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/volebni-rozcestnik.png
-perex: Veřejná správa je nezbytná k zajištění chodu města, veřejné infrastruktury a veřejných služeb. Musí však fungovat účelně a ve prospěch všech obyvatel města.
-description: Veřejná správa je nezbytná k zajištění chodu města, veřejné infrastruktury a veřejných služeb. Musí však fungovat účelně a ve prospěch všech obyvatel města.
-keywords: veřejná správa, služby, řízení města
-order: 3
+perex: Bezpečnost je nezbytná pro bezpečnost lidí.
+description: Bezpečnost je nezbytná pro bezpečnost lidí.
+keywords: bezpečnost
+order: 5
 redirect_from:
-  - /komunalni-volby-2018/program/rizeni-a-organizacni-struktura-mesta/
+  - /komunalni-volby-2018/program/bezpecnost/
 ---
 
 **Veřejná správa je nezbytná k zajištění chodu města, veřejné infrastruktury a veřejných služeb. Musí však fungovat účelně a ve prospěch všech obyvatel města.**

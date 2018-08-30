@@ -1,18 +1,16 @@
 ---
-uid: kultura-a-volny-cas
-garant: jan.hrubes
-title: Kultura a volný čas
+uid: kultura-sport
+garant: vaclav.vislous
+title: Kultura a sport
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/volebni-rozcestnik.png
 perex: Život není jen o práci, ale i o volném čase. Chceme město plné různorodých událostí, aby si každý vybral, co se mu líbí.
 description: Život není jen o práci, ale i o volném čase. Chceme město plné různorodých událostí, aby si každý vybral, co se mu líbí, a mohl objevovat nové věci. Kultura též dokáže nenásilným způsobem otevírat palčivá společenská témata a působit tak jako kultivátor veřejného prostoru. Budeme pokračovat v cestě vytyčené schválenou strategií pro kulturu a kreativitu.
 keywords: kultura, sport
-order: 8
+order: 7
 redirect_from:
-  - /komunalni-volby-2018/program/kultura-a-sport/
-  - /komunalni-volby-2018/program/kultura-a-volny-cas/
-  - /komunalni-volby-2018/program/radnice/kultura-a-sport/
+  - /komunalni-volby-2018/program/kultura-sport/
 ---
 
 **Život není jen o práci, ale i o volném čase. Chceme město plné různorodých událostí, aby si každý vybral, co se mu líbí, a mohl objevovat nové věci. Kultura též dokáže nenásilným způsobem otevírat palčivá společenská témata a působit tak jako kultivátor veřejného prostoru. Budeme pokračovat v cestě vytyčené schválenou strategií pro kulturu a kreativitu.**

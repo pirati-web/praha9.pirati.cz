@@ -1,16 +1,16 @@
 ---
-uid: vzdelavani
-garant: ivana.bohmova
-title: Vzdělávání
+uid: skolstvi
+garant: petr.daubner
+title: Dostupné a kvalitní školství
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/volebni-rozcestnik.png
 perex: Věříme, že kvalitní vzdělání je cestou k dobře fungující společnosti, proto si zaslouží velkou pozornost.
 description: Věříme, že kvalitní vzdělání je cestou k dobře fungující společnosti, proto si zaslouží velkou pozornost.
 keywords: vzdělávání, škola, školka, mateřská škola
-order: 7
+order: 2
 redirect_from:
-  - /komunalni-volby-2018/program/vzdelavani/
+  - /komunalni-volby-2018/program/skolstvi/
 ---
 
 **Věříme, že kvalitní vzdělání je cestou k dobře fungující společnosti, proto si zaslouží velkou pozornost. Chceme, aby se město Pardubice jako zřizovatel většiny mateřských a základních škol aktivně zajímalo o potřeby dětí, rodičů i pedagogů a bylo partnerem pro řešení aktuálních problémů.**

@@ -1,16 +1,16 @@
 ---
-uid: otevrenost-a-zapojeni-obcanu
-garant: filip.varecha
-title: Otevřenost a zapojení občanů
+uid: otevrena-radnice
+garant: aneta.heidlova
+title: Otevřená profesionální radnice
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/volebni-rozcestnik.png
 perex: Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají, a město se musí snažit jim jít naproti a být transparentní.
 description: Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají, a město se musí snažit jim jít naproti a být transparentní.
 keywords: participace, participativní rozpočet, transparentnost, občané, open data
-order: 1
+order: 4
 redirect_from:
-  - /komunalni-volby-2018/program/otevrenost-a-zapojeni-obcanu/
+  - /komunalni-volby-2018/program/otevrena-radnice/
 ---
 
 **Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají, a město se musí snažit jim jít naproti a být transparentní. Aktivní zapojení občanů do chodu města umožní dělat kvalitnější rozhodnutí a omezit plýtvání financemi. Především ale buduje společnost sousedů, kterým na dění ve městě záleží.**

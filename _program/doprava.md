@@ -1,14 +1,14 @@
 ---
 uid: doprava
-garant: vojtech.jirsa
-title: Doprava
+garant: ondrej.kalis
+title: Plynulá doprava
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
 img: miscellaneous/volebni-rozcestnik.png
 perex: Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD, na kole nebo autem.
 description: Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD, na kole nebo autem.
 keywords: doprava, město, pěšky, mhd, autem, na kole
-order: 5
+order: 3
 redirect_from:
   - /komunalni-volby-2018/program/doprava/
 ---

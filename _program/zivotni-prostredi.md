@@ -1,6 +1,6 @@
 ---
-uid: verejny-prostor-a-zelen
-garant: jakub.kutilek
+uid: zivotni-prostredi
+garant: kornelia.gottmannova
 title: Veřejný prostor a zeleň
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
