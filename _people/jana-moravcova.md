@@ -15,6 +15,9 @@ age: 49
 profiles:
   facebook: 
 ---
+<p style='text-align: justify;'>
+Denisa Malá, Dis. je příznivkyní Pirátů na Praze 9.
+</p>
 
 
 
