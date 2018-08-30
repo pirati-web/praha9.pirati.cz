@@ -9,8 +9,8 @@ category:
 description: pracovnice MP Praha
 img: people/ilona-chromova.jpg
 age: 43
-mail:
-  - ilona.chromova@pirati.cz
+#mail:
+#  - ilona.chromova@pirati.cz
  
 profiles:
   #facebook: https://www.facebook.com/

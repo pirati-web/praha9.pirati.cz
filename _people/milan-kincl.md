@@ -8,8 +8,8 @@ category:
 description: zámečník
 #img: people/.jpg
 age: 46
-mail:
-  - M.KINCL@seznam.cz
+#mail:
+#  - M.KINCL@seznam.cz
  
 profiles:
   facebook: 
