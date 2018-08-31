@@ -41,7 +41,7 @@ redirect_from:
 <dl class="c-program-key-point-list">
     <dt>Doprava do školy, a to pěšky, MHD i autem, musí být bezpečná pro všechny účastníky provozu, zejména pro děti.</dt>
     <dd>Ve spolupráci s magistrátem a s odborníky na bezpečnost dopravy prověříme riziková místa v okolí škol na Praze 9 a zahájíme kroky k jejich odstranění. Tam, kde ještě nejsou, zvýšíme bezpečnost chodců pomocí prvků na vedlejších ulicích: zvýšené křižovatky, chodníkové přejezdy, nebo ochranné ostrůvky. Zlepšíme viditelnost přechodů.</dd>
-    <dd>Současně podpoříme nejbezpečnější formy dopravy dětí do školy např. organizační podporou společné docházky a podporou zkvalitňování MHD.</dt>
+    <dd>Současně podpoříme nejbezpečnější formy dopravy dětí do školy např. organizační podporou společné docházky a podporou zkvalitňování MHD.</dd>
 </dl>
 
 ## Parkování chytře a jednoduše
@@ -50,5 +50,5 @@ redirect_from:
     <dt>Parkování jednoduše.</dt>
     <dd>Zjednodušíme systém parkovacích zón. Otevřeme data o využití parkovacích míst. To umožní vznik aplikací, které uživatele snadno navedou na volné parkovací místo.</dd>
 	<dt>Zaparkuje u vás návštěva i řemeslník.</dt>
-    <dd>Místní získají každý rok určitý počet hodin parkování zdarma pro návštěvy ve vybrané oblasti. Nebudete tedy muset platit drahé parkování řemeslníkovi nebo složitě vymýšlet, kam poslat zaparkovat návštěvu.</dt>
+    <dd>Místní získají každý rok určitý počet hodin parkování zdarma pro návštěvy ve vybrané oblasti. Nebudete tedy muset platit drahé parkování řemeslníkovi nebo složitě vymýšlet, kam poslat zaparkovat návštěvu.</dd>
 </dl>
