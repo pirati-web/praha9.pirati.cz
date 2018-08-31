@@ -15,49 +15,40 @@ redirect_from:
 
 **Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD, na kole nebo autem. Podporujeme výstavbu obchvatů, ale odmítáme alibistické tvrzení, že bez obchvatů nejde nic zlepšit. Jde to a víme jak!**
 
-## Pěšky a na kole
+## Městskou dopravou snadno a pohodlně
 
 <dl class="c-program-key-point-list">
-    <dt>Rodiče se nebudou bát pustit svoje dítě do školy.</dt>
-    <dd>Zvýšíme bezpečnost chodců pomocí prvků na vedlejších ulicích: zvýšené křižovatky, chodníkové přejezdy, nebo ochranné ostrůvky. Zlepšíme viditelnost přechodů (například přechod na Masarykově náměstí).</dd>
-    <dt>Umožníme obousměrný provoz cyklistů</dt>
-    <dd> ve většině jednosměrek. Doděláme infrastrukturu na Dašické, 17. listopadu, Jana Palacha a Chrudimské, propojíme Polabiny a Rosice. Vybudujeme část Labské stezky a stezky podle Chrudimky.</dd>
-    <dt>Osadíme kvalitní stojany na kola</dt>
-    <dd>všude u obchodů, úřadů, služeb apod.</dd>
+    <dt>Rozvoj výstavby podmíníme odpovídající kapacitou městské dopravy.</dt>
+    <dd>Ve Vysočanech má vzniknout zástavba až pro 50 000 nových obyvatel - to nelze zvládnout se stávající dopravní infrastrukturou. Proto podpoříme rozvoj kolejové infrastruktury na Praze 9 a novou výstavbu podmíníme prokázáním dostatečné kapacity MHD.</dd>
+    <dt>Spojení z Proseka k metru a tramvajím na Palmovce</dt>
+    <dd>je zásadní a není přípustné jeho omezení. Budeme aktivně prosazovat zachování tohoto spojení v současných nebo kratších intervalech, ideálně s využitím ekologických parciálních trolejbusů.</dd>
+    <dd>Ve spolupráci s magistrátem budeme aktivně prosazovat preferenční opatření, aby bylo cestování tramvajemi, autobusy i trolejbusy rychlé a pohodlné.</dd>
 </dl>
 
-## MHD
+## Pěší a cyklisté jsou ve městě podstatní
 
 <dl class="c-program-key-point-list">
-    <dt>Zavedeme přestupní jízdenky</dt>
-    <dd>a budeme prosazovat integraci v rámci kraje, celkově zlevníme lítačky a zavedeme jízdné zdarma pro doprovod dětí do šesti let (včetně).</dd>
-    <dt>Zlepšíme vedení linek a jejich jízdní řády</dt>
-    <dd>ve spolupráci s DPMP a experty v oblasti modelování. Linky se budou doplňovat, ne jezdit ve stejném směru za sebou. Zrevidujeme prázdninové jízdní řády.</dd>
-    <dt>Zvýšíme plynulost a dochvilnost MHD</dt>
-    <dd>pomocí inteligentního řízení dopravy. MHD by neměla stát v kolonách.</dd>
-    <dt>Prosadíme železniční zastávku Pardubice, centrum</dt>
-    <dd>v prostoru za Kávovinami. Jako součást Ostřešanské spojky výrazně zkrátí cestu z centra města do Hradce Králové nebo Chrudimi.</dd>
+    <dt>Budeme podporovat bezpečné a komfortní podmínky pro chodce a cyklisty</dt>
+    <dd>, včetně propojení mezi lokalitami a návaznosti na ostatní městské části.</dd>
+    <dt>Budeme klást důraz na rozvoj nových cyklostezek a údržbu stávajících.</dt>
+	<dd>Odstraníme problémová místa na dnešních pěších i cyklistických stezkách a prověříme směry, kde chybí bezpečné spojení pro cyklisty oddělené od automobilové dopravy.</dd>
+    <dt>Osadíme kvalitní stojany na kola všude u obchodů, úřadů, služeb apod.</dt>
+    <dd>Pohyb pěšky a na kole musí být příjemným způsobem dopravy i odpočinku. K tomu je třeba zajistit ideální podmínky v celé Praze 9.</dd>
 </dl>
 
-## Autem
+## Do školy bezpečně všemi způsoby
 
 <dl class="c-program-key-point-list">
-    <dt>Prověříme napojení Kyjevské a rychlodráhy</dt>
-    <dd>v prostoru nadjezdu u nemocnice. Město zaspalo a teď šije řešení horkou jehlou.</dd>
-    <dt>Vybudujeme Parkovací dům</dt>
-    <dd>pro odstavení vozidel lidí, kteří potřebují do centra (například lokality: u nádraží, 17.listopadu, u Rychlodráhy).</dd>
-    <dt>Zvýšíme dostupnost parkovacích míst.</dt>
-    <dd>Na základě analýzy obsazenosti nastavíme cenu tak, abyste vždy našli volné místo k zaparkování. Zavedeme inteligentní parkování - volné místo najdete např. v mobilní aplikaci.</dd>
-    <dt>Budeme prosazovat zákaz kamionů na Dašické.</dt>
-    <dd>V souvislosti s dobudováním úseku D35 Opatovice – Časy. Nákladní doprava tak zmizí nejen z Dašické, ale také z přednádraží, rychlodráhy a ul. Na Drážce.</dd>
-    <dt>Parkovací lístek ze záchytného parkoviště</dt>
-    <dd>bude sloužit jako jízdenka na MHD.</dd>
-    <dt>Aktivně pomůžeme s přípravou obchvatů.</dt>
-    <dd>Zapojíme se do výkupu pozemků. Podporujeme realizaci nového ramene mimoúrovňové křižovatky u Globusu.</dd>
+    <dt>Doprava do školy, a to pěšky, MHD i autem, musí být bezpečná pro všechny účastníky provozu, zejména pro děti.</dt>
+    <dd>Ve spolupráci s magistrátem a s odborníky na bezpečnost dopravy prověříme riziková místa v okolí škol na Praze 9 a zahájíme kroky k jejich odstranění. Tam, kde ještě nejsou, zvýšíme bezpečnost chodců pomocí prvků na vedlejších ulicích: zvýšené křižovatky, chodníkové přejezdy, nebo ochranné ostrůvky. Zlepšíme viditelnost přechodů.</dd>
+    <dd>Současně podpoříme nejbezpečnější formy dopravy dětí do školy např. organizační podporou společné docházky a podporou zkvalitňování MHD.</dt>
 </dl>
 
-{% comment %}
-## Přehledná mapa našich záměrů
+## Parkování chytře a jednoduše
 
-Projděte si <a href="https://drive.google.com/open?id=12ZdsIK1_ScKE6PpIylp-4YccnOgcsr_n&usp=sharing" target="_blank" title="Mapka pirátských záměrů">mapku našich záměrů</a>.
-{% endcomment %}
+<dl class="c-program-key-point-list">
+    <dt>Parkování jednoduše.</dt>
+    <dd>Zjednodušíme systém parkovacích zón. Otevřeme data o využití parkovacích míst. To umožní vznik aplikací, které uživatele snadno navedou na volné parkovací místo.</dd>
+	<dt>Zaparkuje u vás návštěva i řemeslník.</dt>
+    <dd>Místní získají každý rok určitý počet hodin parkování zdarma pro návštěvy ve vybrané oblasti. Nebudete tedy muset platit drahé parkování řemeslníkovi nebo složitě vymýšlet, kam poslat zaparkovat návštěvu.</dt>
+</dl>
