@@ -7,7 +7,7 @@ leader:
   age: 46
   profession: inženýrka chemie a lektorka
   party: Piráti
-  description: Kandidátka na starostku Prahy 9, Lídr na Vysočanech a Libni<br><a href="/clenove/kornelia-gottmanova/"><u>Více..</u></a>
+  description:<a href="/clenove/kornelia-gottmanova/"><u>Více..</u></a>
 head: 
   - uid: petr.karel
     age: 54
