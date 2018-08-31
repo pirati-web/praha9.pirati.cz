@@ -17,7 +17,7 @@ redirect_from:
 
 ## Městskou dopravou snadno a pohodlně
 
-<dl class="c-program-key-point-list">
+<dl class="c-program-key-point-list" style="text-align:justify;">
     <dt>Rozvoj výstavby podmíníme odpovídající kapacitou městské dopravy.</dt>
     <dd>Ve Vysočanech má vzniknout zástavba až pro 50 000 nových obyvatel - to nelze zvládnout se stávající dopravní infrastrukturou. Proto podpoříme rozvoj kolejové infrastruktury na Praze 9 a novou výstavbu podmíníme prokázáním dostatečné kapacity MHD.</dd>
     <dt>Spojení z Proseka k metru a tramvajím na Palmovce</dt>
@@ -27,7 +27,7 @@ redirect_from:
 
 ## Pěší a cyklisté jsou ve městě podstatní
 
-<dl class="c-program-key-point-list">
+<dl class="c-program-key-point-list" style="text-align:justify;">
     <dt>Budeme podporovat bezpečné a komfortní podmínky pro chodce a cyklisty</dt>
     <dd>, včetně propojení mezi lokalitami a návaznosti na ostatní městské části.</dd>
     <dt>Budeme klást důraz na rozvoj nových cyklostezek a údržbu stávajících.</dt>
@@ -38,7 +38,7 @@ redirect_from:
 
 ## Do školy bezpečně všemi způsoby
 
-<dl class="c-program-key-point-list">
+<dl class="c-program-key-point-list" style="text-align:justify;">
     <dt>Doprava do školy, a to pěšky, MHD i autem, musí být bezpečná pro všechny účastníky provozu, zejména pro děti.</dt>
     <dd>Ve spolupráci s magistrátem a s odborníky na bezpečnost dopravy prověříme riziková místa v okolí škol na Praze 9 a zahájíme kroky k jejich odstranění. Tam, kde ještě nejsou, zvýšíme bezpečnost chodců pomocí prvků na vedlejších ulicích: zvýšené křižovatky, chodníkové přejezdy, nebo ochranné ostrůvky. Zlepšíme viditelnost přechodů.</dd>
     <dd>Současně podpoříme nejbezpečnější formy dopravy dětí do školy např. organizační podporou společné docházky a podporou zkvalitňování MHD.</dd>
@@ -46,7 +46,7 @@ redirect_from:
 
 ## Parkování chytře a jednoduše
 
-<dl class="c-program-key-point-list">
+<dl class="c-program-key-point-list" style="text-align:justify;">
     <dt>Parkování jednoduše.</dt>
     <dd>Zjednodušíme systém parkovacích zón. Otevřeme data o využití parkovacích míst. To umožní vznik aplikací, které uživatele snadno navedou na volné parkovací místo.</dd>
 	<dt>Zaparkuje u vás návštěva i řemeslník.</dt>
