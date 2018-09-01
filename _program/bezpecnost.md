@@ -34,7 +34,7 @@ redirect_from:
 
 <dl class="c-program-key-point-list">
     <dt>Zdokonalíme integrovaný záchranný systém.</dt>
-    <dd>Zvýšíme vzájemnou komunikaci složek IZS. Jsme pro pravidelné nácviky a cvičení rizikových situací.</dt>
+    <dd>Zvýšíme vzájemnou komunikaci složek IZS. Jsme pro pravidelné nácviky a cvičení rizikových situací.</dd>
     <dt>Zapojíme občany do prevence kriminality.</dt>
     <dd>Záleží nám na tom, aby občané Prahy 9 předcházeli kriminalitě, proto zajistíme besedy na školách, nízkoprahových centrech, klubech seniorů.</dd>
 </dl>
