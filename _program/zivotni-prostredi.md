@@ -20,9 +20,12 @@ redirect_from:
 <dl class="c-program-key-point-list">
 	<dt>Zachování a rozvoj zelených ploch.</dt>
 	<dd>Budeme bojovat proti zastavování zelených ploch. Naopak se zasadíme o jejich rozvoj. Strom jako klimatizace. Na vytipovaných místech doplníme vodní prvky (pítka a kašny).</dd>
-	<dd>V ulicích zajistíme prostor pro stromy, keře či květinové výsadby, a to jednak v rámci rekonstrukcí, jednak koordinací ukládání podzemních inženýrských sítí.</dd>
-	<dd>Při rekonstrukcích vždy zvážíme zachování stávající zeleně.</dd>
-	<dd>Budeme systematicky pečovat o městskou zeleň. Připravíme komplexní plány údržby i včasné a citlivé obnovy, především pro významná stromořadí a parky.</dd>
+	<dt>V ulicích zajistíme prostor pro stromy, keře či květinové výsadby</dt>
+	<dd>, a to jednak v rámci rekonstrukcí, jednak koordinací ukládání podzemních inženýrských sítí.</dd>
+	<dt>Při rekonstrukcích vždy zvážíme</dt>
+	<dd>zachování stávající zeleně.</dd>
+	<dt>Budeme systematicky pečovat o městskou zeleň.</dt>
+	<dd>Připravíme komplexní plány údržby i včasné a citlivé obnovy, především pro významná stromořadí a parky.</dd>
 </dl>
 
 ## Participace při obnově a revitalizaci
@@ -30,7 +33,8 @@ redirect_from:
 <dl class="c-program-key-point-list">
 	<dt>Revitalizujeme zanedbaná veřejná prostranství a parky.</dt>
 	<dd>Provedeme audit a revizi městského mobiliáře.</dd>
-    <dd>Ulice jsou pro nás víc než jen silnice a chodníky. Při návrzích úprav budeme vyžadovat spolupráci architektů, odborníků na dopravu, zeleň a občanů.</dd>
+    <dt>Ulice jsou pro nás víc než jen silnice a chodníky.</dt>
+	<dd>Při návrzích úprav budeme vyžadovat spolupráci architektů, odborníků na dopravu, zeleň a občanů.</dd>
     <dt>Participace a architektonické soutěže.</dt>
     <dd>Do přípravy úprav veřejných prostranství zapojíme veřejnost. Pro významná prostranství formulujeme za účasti veřejnosti zadání architektonických soutěží. Všechny záměry budeme přehledně zveřejňovat a diskutovat s odbornou i laickou veřejností ve všech fázích přípravy.</dd>
 </dl>
