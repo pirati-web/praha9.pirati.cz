@@ -46,7 +46,8 @@ redirect_from:
 <dl class="c-program-key-point-list">
     <dt>Veřejná kontrola radnice.</dt>
 	<dd>Skutečná možnost kontroly hospodaření a smluv. Konec výmluv na GDPR pro poskytování informací na portálu Prahy 9.</dd>
-	<dd>Město nebude informace tajit, ale zveřejňovat. Zavedeme transparentní účty města. Prosadíme otevřená výběrová řízení, aby městské firmy řídili odborníci, ne političtí trafikanti. Zprůhledníme úřední procesy.</dd>
+	<dt>Město nebude informace tajit, ale zveřejňovat.</dt>
+	<dd>Zavedeme transparentní účty města. Prosadíme otevřená výběrová řízení, aby městské firmy řídili odborníci, ne političtí trafikanti. Zprůhledníme úřední procesy.</dd>
 	<dt>Zveřejníme majetková přiznání politiků.</dt>
 	<dd>Každý bude moci kontrolovat, že zastupitelé nezískávají v souvislosti se svou funkcí neoprávněné výhody.</dd>
 </dl>
