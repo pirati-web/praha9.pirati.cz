@@ -18,7 +18,8 @@ redirect_from:
 ## Dostupné školství
 
 <dl class="c-program-key-point-list">
-	<dd>Zajistíme dostatek míst ve školkách a školách pro všechny obyvatele Devítky. Nejbližší škola se musí stát první volbou pro děti i jejich rodiče.</dd>
+	<dt>Zajistíme dostatek míst ve školkách a školách</dt>
+	<dd>pro všechny obyvatele Devítky. Nejbližší škola se musí stát první volbou pro děti i jejich rodiče.</dd>
     <dd>Výstavbu nových škol propojíme s rezidenční výstavbou a souvisejícím demografickým výhledem.</dd>
     <dd>Výstavbu i provozování školských i volnočasových zařízení budeme provádět transparentně, dohlédneme aby smlouvy s dodavateli i provozovateli byly kvalitní, jasné a vypověditelné.</dd>
 	<dd>Budeme podporovat využití školních kapacit mimo výuku pro místní společenský život. </dd>
