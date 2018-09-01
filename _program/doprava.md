@@ -23,6 +23,7 @@ redirect_from:
     <dt>Spojení z Proseka k metru a tramvajím na Palmovce</dt>
     <dd>je zásadní a není přípustné jeho omezení. Budeme aktivně prosazovat zachování tohoto spojení v současných nebo kratších intervalech, ideálně s využitím ekologických parciálních trolejbusů.</dd>
     <dd>Ve spolupráci s magistrátem budeme aktivně prosazovat preferenční opatření, aby bylo cestování tramvajemi, autobusy i trolejbusy rychlé a pohodlné.</dd>
+	<dd>Provedeme audit dopravního značení a semaforů abychom zklidnili a zároveň zrychlili průjezd aut přes Devítku.</dd>
 </dl>
 
 ## Pěší a cyklisté jsou ve městě podstatní

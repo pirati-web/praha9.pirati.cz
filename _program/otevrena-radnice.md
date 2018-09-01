@@ -30,22 +30,23 @@ redirect_from:
     <dd>Řízení města není jednoduché. Budeme aktivně seznamovat občany s tím, jak jednotlivé procesy a postupy fungují (např. tvorba územního plánu a jeho změny).</dd>
 </dl>
 
-## Transparentní radnice
+## Uživatelsky přívětivý úřad
 
 <dl class="c-program-key-point-list">
-    <dt>Transparentní řízení města.</dt>
-    <dd>Stav a vývoj jednotlivých městských projektů musí být snadno dohledatelný. Jedině tak mohou občané kontrolovat, co se ve městě děje. Zavedeme moderní postupy projektového řízení, které odpovídají třetímu tisíciletí.</dd>
-    <dt>Otevřené jednání zastupitelstva.</dt>
-    <dd>Zastupitelstvo je nejdůležitější orgán města. Občané se na něj ale nemohou připravit předem a často musí dlouhé hodiny čekat na slovo. Zajistíme, aby podklady pro jednání byly s předstihem dostupné na internetu. Pro důležitá rozhodnutí a otázky občanů vyhradíme pevnou hodinu v programu jednání.</dd>
-    <dt>Rozdělování dotací a grantů.</dt>
-    <dd>Dotace a granty příspěvkovým organizacím města musí mít jasné, férové a stabilní podmínky.</dd>
-    <dt>Otevřená data.</dt>
-    <dd>Radnice disponuje spoustou užitečných informací. Zpřístupníme je ve strojově čitelné podobě. Díky tomu budou moci vzniknout např. užitečné mobilní aplikace třetích stran.</dd>
+    <dt>Úřad má sloužit občanům.</dt>
+	<dd>Z jedné internetové stránky půjde vše vyřídit nebo se objednat na kamenný úřad bez front. Co úředník potřebuje, to si sám zjistí. Pomocí internetu umožníme občanům hodnotit služby a dávat podněty úředníkům a politikům. </dd>
+    <dt>Chceme kompetentní úředníky.</dt>
+    <dd>Pomocí školení a optimalizace personální politiky chceme zvýšit kvalitu služeb a kompetence úředníků.</dd>
+	<dt>Skutečná participace občanů</dt>
+	<dd>na chodu a rozvoji města. Respekt k občanovi</dd>
 </dl>
 
-## Něco navíc
+## Otevřená radnice
 
 <dl class="c-program-key-point-list">
-    <dt>Koordinátor participace.</dt>
-    <dd>Participativní procesy jsou administrativně náročné. Zasadíme se o to, aby někdo byl za tuto agendu přímo odpovědný a zajistíme tak, že participace bude mít kontinuitu.</dd>
+    <dt>Veřejná kontrola radnice.</dt>
+	<dd>Skutečná možnost kontroly hospodaření a smluv. Konec výmluv na GDPR pro poskytování informací na portálu Prahy 9.</dd>
+	<dd>Město nebude informace tajit, ale zveřejňovat. Zavedeme transparentní účty města. Prosadíme otevřená výběrová řízení, aby městské firmy řídili odborníci, ne političtí trafikanti. Zprůhledníme úřední procesy.</dd>
+	<dt>Zveřejníme majetková přiznání politiků.</dt>
+	<dd>Každý bude moci kontrolovat, že zastupitelé nezískávají v souvislosti se svou funkcí neoprávněné výhody.</dd>
 </dl>

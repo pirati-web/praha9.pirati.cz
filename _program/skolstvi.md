@@ -1,6 +1,6 @@
 ---
 uid: skolstvi
-garant: petr.daubner
+garant: kornelia.gottmannova
 title: Dostupné a kvalitní školství
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
@@ -15,44 +15,31 @@ redirect_from:
 
 **Věříme, že kvalitní vzdělání je cestou k dobře fungující společnosti, proto si zaslouží velkou pozornost. Chceme, aby se město Pardubice jako zřizovatel většiny mateřských a základních škol aktivně zajímalo o potřeby dětí, rodičů i pedagogů a bylo partnerem pro řešení aktuálních problémů.**
 
-## Dostupnost
+## Dostupné školství
 
 <dl class="c-program-key-point-list">
-    <dt>Garance míst ve školách.</dt>
-    <dd>Pardubické děti nesmí bojovat o místa v místních mateřských a základních školách. K zajištění dostatečných kapacit patří kromě reakce na aktuální nedostatky především sledování demografického vývoje a dlouhodobé plánování. S okolními obcemi budeme jednat o podmínkách vzdělávání jejich dětí v pardubických školách.</dd>
-    <dt>Možnost využít vzdělávání od dvou let.</dt>
-    <dd>Reagujeme na poptávku po péči o nejmenší. Zajistíme dostatek míst i vhodné podmínky, jako například snížení počtu dvouletých dětí na jednoho pedagoga.</dd>
-    <dt>Možnost výběru</dt>
-    <dd>považujeme za důležitou. Proto podporujeme vznik dětských skupin, mateřských center, lesních školek i škol jiných zřizovatelů.</dd>
-    <!-- <dt>Bezpečná cesta do školy</dt>
-    <dd>TODO</dd> -->
+	<dd>Zajistíme dostatek míst ve školkách a školách pro všechny obyvatele Devítky. Nejbližší škola se musí stát první volbou pro děti i jejich rodiče.</dd>
+    <dd>Výstavbu nových škol propojíme s rezidenční výstavbou a souvisejícím demografickým výhledem.</dd>
+    <dd>Výstavbu i provozování školských i volnočasových zařízení budeme provádět transparentně, dohlédneme aby smlouvy s dodavateli i provozovateli byly kvalitní, jasné a vypověditelné.</dd>
+	<dd>Budeme podporovat využití školních kapacit mimo výuku pro místní společenský život. </dd>
 </dl>
 
-## Transparentnost
+## Kvalitní školství
 
 <dl class="c-program-key-point-list">
-    <dt>Smysluplné přerozdělování financí z dotací.</dt>
-    <dd>Budeme hlídat rozdělování peněz čerpaných pro rozvoj vzdělávání, tak, aby skutečně sloužily dětem v našich školách.</dd>
-    <dt>Kvalitní ředitelé dělají kvalitní školy.</dt>
-    <dd>Postaráme se o transparentní výběrová řízení, zabráníme prodlužování funkcí ze setrvačnosti a trafikám. </dd>
+    <dt>Kvalita školy</dt>
+    <dd>jako instituce se odvíjí od kvality jejího řízení, která je značné míry daná osobností ředitele.Proto podpoříme ředitele s vizí pro rozvoj školy a učitelského sboru, stanovíme transparentní kritéria pro výběr a hodnocení ředitelů a budeme podporovat kontinuální vzdělávání ředitelů v manažerských kompetencích a v leadershipu.</dd>
+    <dt>Role pedagoga</dt>
+    <dd>se proměňuje z nositele know-how na průvodce světem informací. Podpoříme kontinuální vzdělávání pedagogů s respektem k jejich individuální cestě. Budeme podporovat netarifní složky platů učitelů a vychovatelů.</dd>
+    <dd>Budeme podporovat <b>„ukončení souboje“</b> tradičních a moderních metod výuky a rozvíjet široké spektrum kompetencí žáků smysluplných pro život. Umožníme zařazení alternativních metod do výuky v tradičních třídách a podpoříme vznik tříd s alternativní výukou. Nebudeme bránit vzniku škol s alternativním přístupem k výuce. Budeme podporovat dialog mezi školami a pedagogy s různými přístupy.</dd>
 </dl>
 
-## Město jako partner
+## Rodiče jako partner
 
 <dl class="c-program-key-point-list">
-    <dt>Nabídneme pomocnou ruku.</dt>
-    <dd>Pomůžeme školám s byrokracií či obtížemi s inkluzivním vzděláváním (zajištění odborných pracovníků, důraz na prevenci), mateřským školám s podmínkami pro péči o dvouleté.</dd>
-    <dt>Budeme s vámi mluvit.</dt>
-    <dd>Chceme slyšet, jaké obtíže řeší rodiče, děti i školy. Zprovozníme přehledný informační portál s možností zpětné vazby či sdílení dobré praxe. Budeme organizovat pravidelná setkávání a účastnit se jich.</dd>
-</dl>
-
-## Pestrost, výběr, inovace
-
-<dl class="c-program-key-point-list">
-    <dt>Jsme aktuální.</dt>
-    <dd>Chceme, aby se děti uměly uplatnit v současném světě. Budeme prosazovat mediální výchovu s důrazem na bezpečnost na internetu či výuku kritického myšlení.</dd>
-    <dt>Pestrá nabídka vzdělávání.</dt>
-    <dd>Podpoříme zavádění nových směrů vzdělávání jako jsou Montessori, Waldorf nebo Začít spolu. Chceme, aby si mohl každý vybrat, co mu vyhovuje.</dd>
-    <dt>Účast dětí na rozhodování</dt>
-    <dd>je skvělou cestou, jak vést děti k zájmu o dění v okolí. Podpoříme vznik žákovských samospráv a budeme se s nimi setkávat.</dd>
+    <dt>Chceme zapojit rodiče</dt> 
+    <dd>do vzdělávacího procesu jejich dětí. Škola by měla být centrem místní komunity.</dd>
+    <dd>Budeme systematicky sledovat poptávku žáků a jejich rodičů po vzdělávání v rámci pražských škol a pracovat s touto zpětnou vazbou s řediteli.</dd>
+    <dd>Umožníme rodičům a žákům výběr vhodné školy na základě relevantních informací.</dd>
+	<dd>Budeme podporovat posílení role Školské rady při řízení školy.</dd>
 </dl>

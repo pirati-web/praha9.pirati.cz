@@ -15,21 +15,23 @@ redirect_from:
 
 **Bezpečnost je základem k zajištění chodu moderního města, veřejné infrastruktury a veřejných služeb. Musí však fungovat účelně a ve prospěch všech obyvatel města.**
 
-## Smysluplná opatření místo šikany
+## Vrátíme do ulic pořádek a bezpečí
 
 <dl class="c-program-key-point-list">
-    <dd>Podpoříme efektivní regulaci hazardu, která jej odstraní z okolí sociálně vyloučených lokalit a zároveň nezpůsobí bujení zdraví škodlivého nezdaněného nelegálního hraní.</dd>
-    <dd>Noční hluk a kriminalitu v centru omezíme osvětou a důsledným vymáháním stávajících pravidel.</dd>
-    <dd>Vyřešíme problémy lidí bez domova zavedením sociálních programů podle zkušeností a praxe z jiných měst. Umožníme jim dostat se z ulice a vrátit se do společnosti.</dd>
+    <dt>Zvýšíme počet<dt>
+	<dd>pěších policistů v ulicích. Pěší policista zajistí dodržování bezpečnosti pro školáky, dbá na veřejný pořádek ve večerních a nočních hodinách a řeší vozidla parkující na chodnících a veřejné zeleni.</dd>
+	<dt>
+	<dd>Provedeme audit kamerového systému, jeho případné rozšíření musí být účelné. Posílíme prevenci kriminality na rizikových místech.</dd>
+	<dd>Podpoříme efektivní regulaci hazardu, která eliminuje herny a výherní automaty.</dd>
+    <dd>Omezíme noční hluk a kriminalitu. Pravidla musí platit pro všechny.</dd>
+    <dd>Vyřešíme problémy lidí bez domova zavedením řešení dle nejlepší praxe z jiných měst Evropy i Česka.</dd>
 </dl>
 
-## Nasměrujeme peníze tam, kde jsou potřeba
+## Prevence
 
 <dl class="c-program-key-point-list">
-    <dt>Zkrotíme zakázky</dt>
-    <dd>na městský kamerový systém, protože již do něj bylo investováno velmi mnoho bez vyhodnocení účelnosti investice.</dd>
-    <dt>Zajistíme více strážníků</dt>
-    <dd>na problémových místech dle statistik a vybavení vozů městské policie vnějšími i vnitřními kamerami a přenosnými přístroji na měření hluku. Zahájíme pilotní projekt kamer umístěných na oděvu strážníků.</dd>
-    <dd>Podpoříme kvalitní programy prevence kriminality mládeže a programy zaměřené na elektronickou bezpečnost mládeže na jednotlivých městských částech.</dd>
-    <dd>Podpoříme profesionální i dobrovolné hasiče stanovením jasných podmínek pro obnovu techniky.</dd>
+    <dt>Zdokonalíme integrovaný záchranný systém.</dt>
+    <dd>Zvýšíme vzájemnou komunikaci složek IZS. Jsme pro pravidelné nácviky a cvičení rizikových situací.</dt>
+    <dt>Zapojíme občany do prevence kriminality.</dt>
+    <dd>Záleží nám na tom, aby občané Prahy 9 předcházeli kriminalitě, proto zajistíme besedy na školách, nízkoprahových centrech, klubech seniorů.</dd>
 </dl>
