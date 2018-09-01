@@ -18,12 +18,16 @@ redirect_from:
 ## Vrátíme do ulic pořádek a bezpečí
 
 <dl class="c-program-key-point-list">
-    <dt>Zvýšíme počet pěších policistů v ulicích.<dt>
-	<dd>Pěší policista zajistí dodržování bezpečnosti pro školáky, dbá na veřejný pořádek ve večerních a nočních hodinách a řeší vozidla parkující na chodnících a veřejné zeleni.</dd>
-	<dd>Provedeme audit kamerového systému, jeho případné rozšíření musí být účelné. Posílíme prevenci kriminality na rizikových místech.</dd>
-	<dd>Podpoříme efektivní regulaci hazardu, která eliminuje herny a výherní automaty.</dd>
-    <dd>Omezíme noční hluk a kriminalitu. Pravidla musí platit pro všechny.</dd>
-    <dd>Vyřešíme problémy lidí bez domova zavedením řešení dle nejlepší praxe z jiných měst Evropy i Česka.</dd>
+    <dt>Zvýšíme počet pěších policistů v ulicích,<dt>
+	<dd>kteří zajistí dodržování bezpečnosti pro školáky, dbá na veřejný pořádek ve večerních a nočních hodinách a řeší vozidla parkující na chodnících a veřejné zeleni.</dd>
+	<dt>Provedeme audit kamerového systému</dt>
+	<dd>, jeho případné rozšíření musí být účelné. Posílíme prevenci kriminality na rizikových místech.</dd>
+	<dt>Podpoříme efektivní regulaci hazardu</dt>
+	<dd>, která eliminuje herny a výherní automaty.</dd>
+    <dt>Omezíme noční hluk a kriminalitu.</dt>
+	<dd>Pravidla musí platit pro všechny.</dd>
+    <dt>Vyřešíme problémy lidí bez domova</dt>
+	<dd>zavedením řešení dle nejlepší praxe z jiných měst Evropy i Česka.</dd>
 </dl>
 
 ## Prevence
