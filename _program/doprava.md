@@ -22,8 +22,10 @@ redirect_from:
     <dd>Ve Vysočanech má vzniknout zástavba až pro 50 000 nových obyvatel - to nelze zvládnout se stávající dopravní infrastrukturou. Proto podpoříme rozvoj kolejové infrastruktury na Praze 9 a novou výstavbu podmíníme prokázáním dostatečné kapacity MHD.</dd>
     <dt>Spojení z Proseka k metru a tramvajím na Palmovce</dt>
     <dd>je zásadní a není přípustné jeho omezení. Budeme aktivně prosazovat zachování tohoto spojení v současných nebo kratších intervalech, ideálně s využitím ekologických parciálních trolejbusů.</dd>
-    <dd>Ve spolupráci s magistrátem budeme aktivně prosazovat preferenční opatření, aby bylo cestování tramvajemi, autobusy i trolejbusy rychlé a pohodlné.</dd>
-	<dd>Provedeme audit dopravního značení a semaforů abychom zklidnili a zároveň zrychlili průjezd aut přes Devítku.</dd>
+    <dt>Ve spolupráci s magistrátem</dt>
+	<dd>budeme aktivně prosazovat preferenční opatření, aby bylo cestování tramvajemi, autobusy i trolejbusy rychlé a pohodlné.</dd>
+	<dt>Provedeme audit</dt>
+	<dd>dopravního značení a semaforů abychom zklidnili a zároveň zrychlili průjezd aut přes Devítku.</dd>
 </dl>
 
 ## Pěší a cyklisté jsou ve městě podstatní
@@ -42,7 +44,8 @@ redirect_from:
 <dl class="c-program-key-point-list" style="text-align:justify;">
     <dt>Doprava do školy, a to pěšky, MHD i autem, musí být bezpečná pro všechny účastníky provozu, zejména pro děti.</dt>
     <dd>Ve spolupráci s magistrátem a s odborníky na bezpečnost dopravy prověříme riziková místa v okolí škol na Praze 9 a zahájíme kroky k jejich odstranění. Tam, kde ještě nejsou, zvýšíme bezpečnost chodců pomocí prvků na vedlejších ulicích: zvýšené křižovatky, chodníkové přejezdy, nebo ochranné ostrůvky. Zlepšíme viditelnost přechodů.</dd>
-    <dd>Současně podpoříme nejbezpečnější formy dopravy dětí do školy např. organizační podporou společné docházky a podporou zkvalitňování MHD.</dd>
+    <dt>Současně podpoříme</dt>
+	<dd>nejbezpečnější formy dopravy dětí do školy např. organizační podporou společné docházky a podporou zkvalitňování MHD.</dd>
 </dl>
 
 ## Parkování chytře a jednoduše
