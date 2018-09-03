@@ -4,6 +4,7 @@ name:     Petr Pomykal
 fullname: Petr Pomykal
 category:
   - kandidat-obec
+  - priznivci
 description: správce nemovitostí
 img: people/petr-pomykal.jpg
 age: 55
