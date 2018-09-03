@@ -13,7 +13,7 @@ redirect_from:
   - /komunalni-volby-2018/program/skolstvi/
 ---
 
-**Věříme, že kvalitní vzdělání je cestou k dobře fungující společnosti, proto si zaslouží velkou pozornost. Chceme, aby se město Pardubice jako zřizovatel většiny mateřských a základních škol aktivně zajímalo o potřeby dětí, rodičů i pedagogů a bylo partnerem pro řešení aktuálních problémů.**
+**Věříme, že kvalitní vzdělání je cestou k dobře fungující společnosti, proto si zaslouží velkou pozornost. Chceme, aby se Praha 9 jako zřizovatel většiny mateřských a základních škol aktivně zajímalo o potřeby dětí, rodičů i pedagogů a bylo partnerem pro řešení aktuálních problémů.**
 
 ## Dostupné školství
 
@@ -39,7 +39,7 @@ redirect_from:
 	<dd>„ukončení souboje“ tradičních a moderních metod výuky a rozvíjet široké spektrum kompetencí žáků smysluplných pro život. Umožníme zařazení alternativních metod do výuky v tradičních třídách a podpoříme vznik tříd s alternativní výukou. Nebudeme bránit vzniku škol s alternativním přístupem k výuce. Budeme podporovat dialog mezi školami a pedagogy s různými přístupy.</dd>
 </dl>
 
-## Rodiče jako partner
+## Rodiče jako partneři
 
 <dl class="c-program-key-point-list">
     <dt>Chceme zapojit rodiče</dt> 
