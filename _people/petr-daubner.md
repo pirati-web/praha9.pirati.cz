@@ -10,7 +10,7 @@ description: učitel na gymnáziu
 img: people/petr-daubner.jpg
 age: 45
 mail:
-  - petr.daubner@pirati.cz
+  - dauby@seznam.cz
  
 profiles:
   facebook: 
