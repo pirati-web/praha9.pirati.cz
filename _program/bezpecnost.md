@@ -19,7 +19,7 @@ redirect_from:
 
 <dl class="c-program-key-point-list">
     <dt>Zvýšíme počet pěších policistů v ulicích</dt>
-	<dd>- ti zajistí dodržování bezpečnosti pro školáky, dbá na veřejný pořádek ve večerních a nočních hodinách a řeší vozidla parkující na chodnících a veřejné zeleni.</dd>
+	<dd>- ti zajistí dodržování bezpečnosti pro školáky, dbají na veřejný pořádek ve večerních a nočních hodinách a řeší vozidla parkující na chodnících a veřejné zeleni.</dd>
 	<dt>Provedeme audit kamerového systému</dt>
 	<dd>- jeho případné rozšíření musí být účelné. Posílíme prevenci kriminality na rizikových místech.</dd>
 	<dt>Podpoříme efektivní regulaci hazardu</dt>
