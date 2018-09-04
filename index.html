@@ -5,8 +5,8 @@ rbar:
   - fb
 description: >
   Piráti od roku 2018 zakotvili i na Praze 9. Prosazujeme transparentní
-  veřejnou správu bez klientelismu a pochybných zakázek. Usilujeme o Pardubice,
-  které jsou moderní, přátelské a především ochotné naslouchat svým občanům.
+  veřejnou správu bez klientelismu a pochybných zakázek. Usilujeme o Prahu 9,
+  která je moderní, přátelská a především ochotná naslouchat svým občanům.
   Sledujte co je nového a buďte u toho.
 ---
 
@@ -23,8 +23,13 @@ description: >
     <section class="o-section o-section--spaceBot">
       <div class="o-section-inner o-section-inner--leftBlock">
         <header class="o-section-header">
-          <h1 class="o-section__heading t-h1-super">Aktuální témata</h1>
+          <h1 class="o-section__heading t-h1-super">Piráti Praha 9</h1>
+          <p>Piráti od roku 2018 zakotvili i na Praze 9. Prosazujeme transparentní
+  veřejnou správu bez klientelismu a pochybných zakázek. Usilujeme o Prahu 9,
+  která je moderní, přátelská a především ochotná naslouchat svým občanům.
+  Sledujte co je nového a buďte u toho.</p>
         </header>
+        <h2>Aktuálně od Pirátů z Prahy 9</h2>
         {% for article in site.posts limit: 6 %}
           {% include articles/horizontal-article.html article=article %}
         {% endfor %}
