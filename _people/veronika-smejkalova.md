@@ -7,7 +7,7 @@ category:
   - priznivci
   - kandidat-obec
 description: manažerka správy majetků
-#img: people/t-.jpg
+img: people/veronika-smejkalova.jpg
 age: 48
 #mail:
 #  - veronika.smejkalova@pirati.cz
@@ -22,6 +22,6 @@ Veronika vystudovala Vysokou školu ekonomickou (VŠE) v Praze, obor mezinárodn
 </p><p style='text-align: justify;'>
 Ve volném čase ráda cestuje, zajímá se o literaturu, hudbu, film a divadlo. Hovoří plynně anglicky a německy. V devadesátých letech byla členkou hnutí Brontosaurus, které se zaměřovalo na záchranu unikátních památek a ochranu životního prostředí. 
 </p><p style='text-align: justify;'>
-Kandiduje na pirátské kandidátce ve volebním obvodě Hrdlořezy na Praze 9, kde také se svojí rodinou žije. Pro kandidaturu pod hlavičkou Pirátů se rozhodla díky sympatiím k programu strany a zapálena nadšením týmu vysočanských Pirátů.  Ráda by se angažovala v oblasti školství, čistota a bezpečnost města, rozvoj zeleně a transparentnost správy obecního majetku.
+Veronika žije s rodinou od roku 2010 v Hrdlořezích, na sídlišti Zelené Město. Pro kandidaturu pod hlavičkou Pirátů se rozhodla díky sympatiím k programu strany a zapálena nadšením týmu vysočanských Pirátů.  Ráda by se angažovala v oblasti školství, čistota a bezpečnost města, rozvoj zeleně a transparentnost správy obecního majetku.
 </p>
 ---
