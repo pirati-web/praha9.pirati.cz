@@ -14,8 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://praha9.pirati.cz" # the base hostname & protocol for your site
 
 administrator:
-  email: jan.suchanek@gmail.com
-  #vislaus@gmail.com # mail kam pujdou chybove vystupy
+  email: vislaus@gmail.com # mail kam pujdou chybove vystupy
 
 theme: jekyll-theme-pirati
 
