@@ -9,7 +9,7 @@ authorId: kornelia.gottmannova
 image: articles/2018/2018-09-09-devitka-na-prahu-zmeny.jpg
 ---
 
-(článek je převzatý z Pirátských listů pro Prahu 9, které v tištěné verzi vyjdou 1. září 2018)
+(článek je převzatý z Pirátských listů pro Prahu 9, které v tištěné verzi vyšly 1. září 2018)
 
 <p style='text-align: justify;'>
 Líbí se mi jeden starý příběh. U silnice seděl nemocný člověk. Na krvi z jeho otevřených ran hodovalo hejno masařek. Jednomu pocestnému se nemocného zželelo a odehnal nenasytné mouchy. Nemocný se k němu obrátil a řekl: „Děkuji, ale nedělej to. Za chvíli přiletí další, budou hladové a budou mě trápit ještě víc.“
