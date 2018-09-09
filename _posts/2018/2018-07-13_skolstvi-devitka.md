@@ -6,7 +6,7 @@ layout: post
 title: Školství na devítce
 author: Kornélia Gottmannová
 authorId: kornelia.gottmannova
-image: assets/img/miscellaneous/vzdelavani-a-veda-01.png
+image: articles/2018/2018-07-13_skolstvi-devitka.jpg
 ---
 
 <p style='text-align: justify;'>
