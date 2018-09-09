@@ -23,7 +23,7 @@ redirect_from:
     <dt>Participace ve školách.</dt>
     <dd>Zapojíme děti do rozhodování o chodu jejich školy. Přirozenou formou se tak budou učit, co znamená být aktivním občanem.</dd>
     <dt>Místní referenda, průzkumy a občanská setkání.</dt>
-    <dd>Chceme z Pardubic udělat město, které naslouchá svým občanům nejen před volbami. U každého velkého rozhodnutí se proto budeme již od začátku ptát na váš názor. Vše budeme plánovat tak, abyste se skutečně mohli zúčastnit.</dd>
+    <dd>Chceme z Prahy 9 udělat město, které naslouchá svým občanům nejen před volbami. U každého velkého rozhodnutí se proto budeme již od začátku ptát na váš názor. Vše budeme plánovat tak, abyste se skutečně mohli zúčastnit.</dd>
     <dt>Zpětná vazba od občanů.</dt>
     <dd>Vidíte problém ve svém okolí, ale město ho neřeší? Dotáhneme stávající systém hlášení problémů tak, aby byl skutečně funkční a uživatelsky přívětivý, a zajistíme, abyste na každý podnět dostali odpověď.</dd>
     <dt>Podaná ruka.</dt>
