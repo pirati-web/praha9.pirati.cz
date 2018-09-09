@@ -11,16 +11,15 @@ image: articles/2018/2018-09-08-skolstvi-devitka.jpg
 <p style='text-align: justify;'>
 Nová vláda se mi nelíbí. A co se mi nelíbí ještě víc, že už zcela nepokrytě odsouvá školství na druhou kolej. Doufám, že se ANO a ČSSD nebudou chovat stejně i v komunální politice.
 </p><p style='text-align: justify;'>
-Máte děti ve školkách nebo na základních školách na Praze 9? Já ano. A bohužel musím potvrdit obavy Mikuláš Torrent Ferjenčík. Pod vedením ODS se se na Praze 9 investovalo především do budov (teda do renovací, na základech nové školy na Elektře se ještě nekoplo) a pomůcek, kterých využití je diskutabilní. O manažerském vedením odboru školství nelze vůbec hovořit. Strategie vzdělávání neexistuje. A pokud dáte dítě do státního školského zařízení, musíte se modlit, abyste dostali dobrého učitele nebo spíše učitelku. A těch je na našich školách na devítce stále méně. Odcházejí jinam a to nejenom za vyšší mzdou. 
+Máte děti ve školkách nebo na základních školách na Praze 9? Já ano. A bohužel musím potvrdit obavy Mikuláš Torrent Ferjenčík. Pod vedením ODS se na Praze 9 investovalo především do budov (teda do renovací, na základech nové školy na Elektře se ještě nekoplo) a pomůcek, kterých využití je diskutabilní. O manažerském vedením odboru školství nelze vůbec hovořit. Strategie vzdělávání neexistuje. A pokud dáte dítě do státního školského zařízení, musíte se modlit, abyste dostali dobrého učitele nebo spíše učitelku. A těch je na našich školách na devítce stále méně. Odcházejí jinam a to nejenom za vyšší mzdou. 
 </p><p style='text-align: justify;'>
-Tři roky se intenzivně věnuji situaci v českém školství. Vím, že problémů je víc a některé je potřeba řešit na úrovni parlamentní a ministerské. Ovšem zřizovatelem mateřských a základních škol je městská část a má z tohoto titulu nemalé pravomoci. Druhá věc je, jak je uplatňuje. Několik osobních zkušeností:
-</p><p style='text-align: justify;'>
-- Většina rodičů neví, co je školská rada a neví, že rodiče mají právo ze zákona ovlivňovat chod školy. A že ve školské radě sedí také zástupci ze zastupitelstva městské části. Škola tyto informace nejenom dostatečně nešíří, ale dokonce tají. "Hlavně žádné srocování rodičů." To je opravdu citát od jedné paní ředitelky. 
-</p><p style='text-align: justify;'>
-- Směrnice, podle které se volby do školských rad v roce 2018 konaly, je platná pro rok 2008. Od té doby to nikoho nezajímalo. 
-</p><p style='text-align: justify;'>
-- Pokud dáte vedení školy zpětnou vazbu (například, pokud škola není schopna zajistit náhradu za nemocnou učitelku a vy trváte na tom, že by dítě první měsíc v první třídě mělo mít jednu učitelku, ne každý den někoho jiného), dovíte se, že můžete dát dítě na jinou školu nebo si dodělat pedagogické vzdělání a učit sám. To nebyl "jeden výkřik", ale připravená odpověď od několika členů vedení školy.
-</p><p style='text-align: justify;'>
+Tři roky se intenzivně věnuji situaci v českém školství. Vím, že problémů je víc a některé je potřeba řešit na úrovni parlamentní a ministerské. Ovšem zřizovatelem mateřských a základních škol je městská část a má z tohoto titulu nemalé pravomoci. Druhá věc je, jak je uplatňuje. Několik osobních zkušeností:</p>
+<ul class="dashed">
+<li>Většina rodičů neví, co je školská rada a neví, že rodiče mají právo ze zákona ovlivňovat chod školy. A že ve školské radě sedí také zástupci ze zastupitelstva městské části. Škola tyto informace nejenom dostatečně nešíří, ale dokonce tají. "Hlavně žádné srocování rodičů." To je opravdu citát od jedné paní ředitelky.</li>
+<li>Směrnice, podle které se volby do školských rad v roce 2018 konaly, je platná pro rok 2008. Od té doby to nikoho nezajímalo.</li>
+<li>Pokud dáte vedení školy zpětnou vazbu (například, pokud škola není schopna zajistit náhradu za nemocnou učitelku a vy trváte na tom, že by dítě první měsíc v první třídě mělo mít jednu učitelku, ne každý den někoho jiného), dozvíte se, že můžete dát dítě na jinou školu nebo si dodělat pedagogické vzdělání a učit sám. To nebyl "jeden výkřik", ale připravená odpověď od několika členů vedení školy.</li>
+</ul>
+<p style='text-align: justify;'>
 Tyto příklady ukazují na několik základních nedostatků školství na Praze 9:
 </p>
 <ul class="dashed">
