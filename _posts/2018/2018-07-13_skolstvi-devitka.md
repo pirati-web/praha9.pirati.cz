@@ -1,14 +1,13 @@
 ---
-date: 2018-07-13
+date: 2018-09-09
 category: blog
 #tags: školství informace
 layout: post
 title: Školství na devítce
 author: Kornélia Gottmannová
 authorId: kornelia.gottmannova
-image: articles/2018/2018-07-13_skolstvi-devitka.jpg
+image: articles/2018/2018-09-09-skolstvi-devitka.jpg
 ---
-
 <p style='text-align: justify;'>
 Nová vláda se mi nelíbí. A co se mi nelíbí ještě víc, že už zcela nepokrytě odsouvá školství na druhou kolej. Doufám, že se ANO a ČSSD nebudou chovat stejně i v komunální politice.
 </p><p style='text-align: justify;'>
