@@ -1,12 +1,12 @@
 ---
-date: 2018-09-01
+date: 2018-09-09
 category: blog
 #tags: majetek pošta
 layout: post
 title: Devítka na Prahu změny
 author: Kornélia Gottmannová
 authorId: kornelia.gottmannova
-image: articles/2018/2018-09-01-devitka-na-prahu-zmeny.jpg
+image: articles/2018/2018-09-09-devitka-na-prahu-zmeny.jpg
 ---
 
 (článek je převzatý z Pirátských listů pro Prahu 9, které v tištěné verzi vyjdou 1. září 2018)
