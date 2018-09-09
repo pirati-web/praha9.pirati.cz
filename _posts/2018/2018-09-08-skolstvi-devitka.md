@@ -17,7 +17,7 @@ Tři roky se intenzivně věnuji situaci v českém školství. Vím, že probl�
 <ul class="dashed">
 <li><b>Většina rodičů neví, co je to školská rada.</b> Neví ani to, že rodiče mají právo ze zákona ovlivňovat chod školy. A že ve školské radě sedí také zástupci ze zastupitelstva městské části. Škola tyto informace nejenom dostatečně nešíří, ale dokonce tají. "Hlavně žádné srocování rodičů." To je opravdu citát od jedné paní ředitelky.</li>
 <li><b>Směrnice, podle které se volby do školských rad letos konaly, je platná pro rok 2008.</b> Od té doby to nikoho nezajímalo.</li>
-<li>Pokud dáte vedení školy zpětnou vazbu (například, pokud škola není schopna zajistit náhradu za nemocnou učitelku a vy trváte na tom, že by dítě první měsíc v první třídě mělo mít jednu učitelku, ne každý den někoho jiného), dozvíte se, že <b>můžete dát dítě na jinou školu nebo si dodělat pedagogické vzdělání a učit sám.</b> To nebyl "jeden výkřik", ale připravená odpověď od několika členů vedení školy.</li>
+<li><b>Pokud dáte vedení školy zpětnou vazbu</b> (například, pokud škola není schopna zajistit náhradu za nemocnou učitelku a vy trváte na tom, že by dítě první měsíc v první třídě mělo mít jednu učitelku, ne každý den někoho jiného), <b>dozvíte se, že můžete dát dítě na jinou školu nebo si dodělat pedagogické vzdělání a učit sám.</b> To nebyl "jeden výkřik", ale připravená odpověď od několika členů vedení školy.</li>
 </ul>
 <p style='text-align: justify;'>
 Tyto příklady ukazují na několik základních nedostatků školství na Praze 9:
