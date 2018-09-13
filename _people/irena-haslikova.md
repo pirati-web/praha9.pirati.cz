@@ -1,6 +1,6 @@
 ---
 uid: irena.haslikova
-name:     Irena	Hašlíková
+name: Irena Hašlíková
 titles:
   before: MUDr.
 category:

@@ -1,6 +1,6 @@
 ---
 uid: hana.erbanova
-name:     Hana	Erbanová
+name: Hana Erbanová
 titles:
   before: Ing.
 category:

@@ -1,7 +1,6 @@
 ---
 uid: milan.kincl
-name:     Milan	Kincl
-fullname: Milan	Kincl
+name: Milan Kincl
 category:
   - priznivci
   - kandidat-obec

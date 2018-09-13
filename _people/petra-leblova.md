@@ -1,7 +1,6 @@
 ---
 uid: petra.leblova
-name:     Petra	Léblová
-fullname: Petra	Léblová
+name: Petra Léblová
 category:
   - priznivci
   - kandidat-obec
