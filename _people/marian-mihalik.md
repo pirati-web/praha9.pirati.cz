@@ -1,6 +1,6 @@
 ---
 uid: marian.mihalik
-name:     Marian Mihalík
+name: Marian Mihalík
 titles:
   before: Ing.
 category:

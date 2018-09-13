@@ -1,6 +1,6 @@
 ---
 uid: denisa.mala
-name:     Denisa Malá
+name: Denisa Malá
 titles:
   after: DiS.
 category:

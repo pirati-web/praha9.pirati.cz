@@ -1,6 +1,6 @@
 ---
 uid: marek.hladky
-name:     Marek Hladký
+name: Marek Hladký
 fullname: Marek Hladký
 category:
   - kandidat-obec

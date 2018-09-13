@@ -1,6 +1,6 @@
 ---
 uid: vanda.sovova
-name:     Vanda Sovová
+name: Vanda Sovová
 titles:
   before: Ing.
 category:

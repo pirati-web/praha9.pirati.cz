@@ -1,6 +1,6 @@
 ---
 uid: vit.chrom
-name:     Vít Chrom
+name: Vít Chrom
 titles:
   before: Bc.
 age: 49

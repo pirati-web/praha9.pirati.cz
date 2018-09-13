@@ -1,6 +1,6 @@
 ---
 uid: ilona.chromova
-name:     Ilona Chromová
+name: Ilona Chromová
 titles:
   before: Mgr.
 category:

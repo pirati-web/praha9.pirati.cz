@@ -1,6 +1,6 @@
 ---
 uid: jakub.pistek
-name:     Jakub Pištěk
+name: Jakub Pištěk
 titles:
   before: Ing.
 category:

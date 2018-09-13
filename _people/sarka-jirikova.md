@@ -1,7 +1,6 @@
 ---
 uid: sarka.jirikova
-name:     Šárka Jiříková
-fullname: Šárka Jiříková
+name: Šárka Jiříková
 category:
   - priznivci
   - kandidat-obec

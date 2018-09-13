@@ -1,6 +1,6 @@
 ---
 uid: renata.reilova
-name:     Renata Reilová
+name: Renata Reilová
 titles:
   before: Ing.
 category:

@@ -1,6 +1,6 @@
 ---
 uid: margita.kinclova
-name:     Margita Kinclová
+name: Margita Kinclová
 fullname: Margita Kinclová
 category:
   - priznivci

@@ -1,6 +1,6 @@
 ---
 uid: claudie.laburdova
-name:     Claudie Laburdová
+name: Claudie Laburdová
 fullname: Claudie Laburdová
 category:
   - priznivci

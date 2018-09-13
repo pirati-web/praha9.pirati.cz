@@ -1,6 +1,6 @@
 ---
 uid: vaclav.vislous
-name:     Václav	Vislous
+name: Václav Vislous
 titles:
   after: MSc.
 category:

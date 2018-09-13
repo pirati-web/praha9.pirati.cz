@@ -1,6 +1,6 @@
 ---
 uid: jana.moravcova
-name:     Jana Moravcová
+name: Jana Moravcová
 titles:
   before: Mgr.
 category:

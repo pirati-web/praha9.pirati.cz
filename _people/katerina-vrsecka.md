@@ -1,6 +1,6 @@
 ---
 uid: katerina.vrsecka
-name:     Kateřina Vršecká
+name: Kateřina Vršecká
 titles:
   before: Ing.
 category:

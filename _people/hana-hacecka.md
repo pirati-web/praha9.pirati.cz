@@ -1,6 +1,6 @@
 ---
 uid: hana.hacecka
-name:     Hana Hačecká
+name: Hana Hačecká
 titles:
   before: Ing.
 category:

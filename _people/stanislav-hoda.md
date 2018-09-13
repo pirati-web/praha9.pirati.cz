@@ -1,7 +1,6 @@
 ---
 uid: stanislav.hoda
-name:     Stanislav Hoda
-fullname: Stanislav Hoda
+name: Stanislav Hoda
 category:
   - kandidat-obec
   - priznivci

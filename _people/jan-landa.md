@@ -1,6 +1,6 @@
 ---
 uid: jan.landa
-name:     Jan Landa
+name: Jan Landa
 fullname: Jan Landa
 category:
   - priznivci

@@ -1,6 +1,6 @@
 ---
 uid: jan.zhouf
-name:     Jan Zhouf
+name: Jan Zhouf
 titles:
   before: Bc.
 category:

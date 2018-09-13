@@ -1,6 +1,6 @@
 ---
 uid: kornelia.gottmannova
-name:     Kornélia Gottmannová
+name: Kornélia Gottmannová
 titles:
   before: Ing.
 category:

@@ -1,6 +1,6 @@
 ---
 uid: alexej.sevruk
-name:     Alexej Sevruk
+name: Alexej Sevruk
 titles:
   before: Mgr.
 category:

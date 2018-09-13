@@ -1,6 +1,6 @@
 ---
 uid: petr.karel
-name:     Petr Karel
+name: Petr Karel
 titles:
   before: Ing.
 category:

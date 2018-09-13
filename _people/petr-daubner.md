@@ -1,6 +1,6 @@
 ---
 uid: petr.daubner
-name:     Petr Daubner
+name: Petr Daubner
 titles:
   before: Mgr.
 category:

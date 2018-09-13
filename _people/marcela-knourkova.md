@@ -1,6 +1,6 @@
 ---
 uid: marcela.knourkova
-name:     Marcela Kňourková
+name: Marcela Kňourková
 titles:
   before: Bc.
 category:

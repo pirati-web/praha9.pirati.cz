@@ -1,6 +1,6 @@
 ---
 uid: kamila.viktorinova
-name:     Kamila Viktorinová
+name: Kamila Viktorinová
 titles:
   before: Bc.
 category:

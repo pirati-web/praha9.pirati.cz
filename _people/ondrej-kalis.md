@@ -1,6 +1,6 @@
 ---
 uid: ondrej.kalis
-name:     Ondřej	Kališ
+name: Ondřej Kališ
 titles:
   before: Ing.
 category:

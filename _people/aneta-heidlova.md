@@ -1,6 +1,6 @@
 ---
 uid: aneta.heidlova
-name:     Aneta Heidlová
+name: Aneta Heidlová
 titles:
   before: Bc.
 category:

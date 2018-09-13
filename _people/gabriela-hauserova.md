@@ -1,6 +1,6 @@
 ---
 uid: gabriela.hauserova
-name:     Gabriela Hauserová
+name: Gabriela Hauserová
 titles:
   before: MUDr.
 category:

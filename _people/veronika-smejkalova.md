@@ -1,6 +1,6 @@
 ---
 uid: veronika.smejkalova
-name:     Veronika Šmejkalová
+name: Veronika Šmejkalová
 titles:
   before: Ing.
 category:

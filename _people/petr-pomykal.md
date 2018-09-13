@@ -1,6 +1,6 @@
 ---
 uid: petr.pomykal
-name:     Petr Pomykal
+name: Petr Pomykal
 fullname: Petr Pomykal
 category:
   - kandidat-obec
