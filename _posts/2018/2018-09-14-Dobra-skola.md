@@ -6,7 +6,7 @@ layout: post
 title: Dobrá škola
 author: Kornélia Gottmannová
 authorId: kornelia.gottmannova
-image:  /assets/img/miscellaneous/Deti skola zari.jpg 
+image:  /assets/img/miscellaneous/Skolstvi-obrazek-web.jpg
 ---
 <p style='text-align: justify;'>
 Učitelské povolání se v naší rodině objevuje už po několik generací, a tak mi problematika školství byla vždy velmi blízká. Sama už víc než 10 let pracuji jako lektorka a zabývám se školením komunikace, týmovým leadershipem a osobním rozvojem jednotlivců. K intenzivnímu zájmu o kvalitu základního školství mě přivedly především moje děti a řešení problémů s nedostatkem učitelů na jejich základní škole.
