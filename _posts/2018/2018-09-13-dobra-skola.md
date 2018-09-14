@@ -6,7 +6,7 @@ layout: post
 title: Dobrá škola
 author: Kornélia Gottmannová
 authorId: kornelia.gottmannova
-image:  articles/2018/2018-09-13-dobra-skola.jpg
+image: articles/2018/2018-09-13-dobra-skola.jpg
 ---
 <p style='text-align: justify;'>
 Učitelské povolání se v naší rodině objevuje už po několik generací, a tak mi problematika školství byla vždy velmi blízká. Sama už víc než 10 let pracuji jako lektorka a zabývám se školením komunikace, týmovým leadershipem a osobním rozvojem jednotlivců. K intenzivnímu zájmu o kvalitu základního školství mě přivedly především moje děti a řešení problémů s nedostatkem učitelů na jejich základní škole.
@@ -42,3 +42,4 @@ Velmi významným a potřebným krokem je i zapojení rodičů do vzdělávacíh
 </p><p style='text-align: justify;'>
 Tento výčet opatření rozhodně není vyčerpávající a pro ozdravení školství na Praze 9 je toho potřeba udělat ještě mnohem více. Například zajistit dostatečné množství míst pro děti ve školkách a školách při dramatickém nárůstu populace v naší městské části. Ale o tom zase příště.</p>
 
+---
