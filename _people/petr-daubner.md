@@ -7,7 +7,7 @@ category:
   - clenove
   - kandidat-obec
 description: učitel na gymnáziu
-img: /assets/img/people/petr-daubner-new.jpg
+img: people/petr-daubner.jpg
 age: 45
 mail:
   - dauby@seznam.cz
