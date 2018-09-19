@@ -32,7 +32,7 @@ redirect_from:
 
 <dl class="c-program-key-point-list">
     <dt>Kvalita školy</dt>
-    <dd>jako instituce se odvíjí od kvality jejího řízení, která je značné míry daná osobností ředitele.Proto podpoříme ředitele s vizí pro rozvoj školy a učitelského sboru, stanovíme transparentní kritéria pro výběr a hodnocení ředitelů a budeme podporovat kontinuální vzdělávání ředitelů v manažerských kompetencích a v leadershipu.</dd>
+    <dd>jako instituce se odvíjí od kvality jejího řízení, která je značné míry daná osobností ředitele. Proto podpoříme ředitele s vizí pro rozvoj školy a učitelského sboru, stanovíme transparentní kritéria pro výběr a hodnocení ředitelů a budeme podporovat kontinuální vzdělávání ředitelů v manažerských kompetencích a v leadershipu.</dd>
     <dt>Role pedagoga</dt>
     <dd>se proměňuje z nositele know-how na průvodce světem informací. Podpoříme kontinuální vzdělávání pedagogů s respektem k jejich individuální cestě. Budeme podporovat netarifní složky platů učitelů a vychovatelů.</dd>
     <dt>Budeme podporovat</dt>

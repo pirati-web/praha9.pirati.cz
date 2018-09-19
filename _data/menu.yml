@@ -37,6 +37,7 @@ main:
     match: clenove
   - link: /podporte-nas/
     name: Podpořte nás
+    match: podporte-nas
   - link: /kontakt/
     name: Kontakt
     match: kontakt
