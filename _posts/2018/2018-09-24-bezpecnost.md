@@ -14,8 +14,6 @@ Podle zákona o obecní policii je starosta Městské části Praha 9 vrchním v
 </p><p style='text-align: justify;'>
 Městská policie je do velké míry represivní složka, ale každý jistě uzná, že je v dnešní dobu nezbytná. Městskou policii zřizuje a ruší zastupitelstvo hlavního města Prahy. Městská policie je tedy zároveň i další službou pro nás, pro občany, a měla by tak vystupovat. 
 </p><p style='text-align: justify;'>
-Městská policie hl. města Prahy má jednotlivá obvodní ředitelství, každé ředitelství má svého ředitele, zástupce, jiné funkcionáře a strážníky. Tito ředitelé jsou podřízení řediteli Městské policie hl. m. Prahy. 
-</p><p style='text-align: justify;'>
 Možná jste se strážníky již jednali, možná jste byli spokojeni, možná nikoliv. Je pochopitelné, že ten, kdo dostal za okno řidiče "parkovačku" nebo když platil pokutu za jiný přestupek, nemusí mít na městskou policii pozitivní názor. Avšak je třeba si uvědomit, že jednání strážníků v případě protiprávního jednání udržuje pořádek a řád pro všechny obyvatele. 
 </p><p style='text-align: justify;'>
 Zároveň asi nikdo nebude zpochybňovat fakt, že jeden z dalších klíčových úkolů městské policie, tedy zajištění bezpečnosti, by měl být samozřejmostí. Denně se bezpečnost dotýká každého z nás. Pocit bezpečí je pro nás podobně důležitý, jako čerstvý vzduch. Dokud ho máme, tak jej nepotřebujeme příliš řešit, ale pokud o něj přijdeme, jde o závažný problém. 
