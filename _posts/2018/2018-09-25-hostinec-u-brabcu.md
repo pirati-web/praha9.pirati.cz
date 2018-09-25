@@ -9,18 +9,17 @@ authorId: Kornélia Gottmannová
 image: articles/2018/2018-09-25-hostinec-u-brabcu.jpg
 ---
 <p style='text-align: justify;'>
-HOSTINEC U BRABCŮ - PETICE A PARTICIPACE
 Dnes na zasedání zastupitelstva jsem se velmi dobře bavila. Naši radní si pletou petici s participací 😂 Úsměv mi ale zamrzl na tváři, když mi došlo, jak hluboké je přesvědčení našich radních o své neomylnosti a nadřazenosti 😥
 </p><p style='text-align: justify;'>
-Jednalo se o hostinec U Brabců. Orgány státní správy a samosprávy rozhodly o demolici historické budovy hostince. Nespokojení občané si ztěžovali, nebyli vyslyšeni, tak se rozhodli zorganizovat petici za zachování hostince. Na velký tlak veřejnosti došlo ke zrušení demolice a zahájila se rekonstrukce budovy.
+Jednalo se o hostinec U Brabců. Orgány státní správy a samosprávy rozhodly o demolici historické budovy hostince. Nespokojení občané si stěžovali a nebyli vyslyšeni, tak se rozhodli zorganizovat petici za zachování hostince. Na velký tlak veřejnosti došlo ke zrušení demolice a zahájila se rekonstrukce budovy.
 </p><p style='text-align: justify;'>
 Toto bylo dnes našimi radními prezentováno jako pozitivní příklad participace občanů na řízení města a vstřícný postoj radnice 😯 Co by na to asi řekli organizátoři petice? 🤔
 </p><p style='text-align: justify;'>
 Jak by participace měla vypadat doopravdy? Například veřejnou diskusí o budoucí podobě centra starého Proseka ještě před rozhodnutím o demolici. K tomu ale bohužel nedošlo. Proč?
 </p><p style='text-align: justify;'>
-Protože naši radní ví všechno nejlépe a diskuse s obyvateli často nikam nevedou. Lidé přece nevědí co chtějí a jejich jediné právo je jít k volbám a pak už nechat naše chytré radní všechno zařídit. Dnes opět z úst našich radních zazněly hrdá slova:
+Protože naši radní ví všechno nejlépe a diskuse s obyvateli často nikam nevedou. Lidé přece nevědí co chtějí. Jejich jediné právo je jít k volbám a pak už nechat naše chytré radní všechno zařídit. Dnes opět z úst našich radních zazněla hrdá prohlášení:
 </p><p style='text-align: justify;'>
-<b>"Participativní rozpočet je podvod na voliče."</b>
+<b>"Participativní rozpočet je podvodem na voliče."</b>
 </p><p style='text-align: justify;'>
 <b>"My, co tady sedíme, víme, že lidé nejsou schopni se domluvit."</b>
 </p><p style='text-align: justify;'>
