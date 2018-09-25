@@ -33,6 +33,7 @@ Jak dlouho ze sebe ještě necháme dělat hlupáky?
 Nebo si to představujete jinak?
 </p><p style='text-align: justify;'>
 Pirátka Nela z Prahy 9
-</p>
+</p><p style='text-align: justify;'>
+<i>Zdroj Fotografie: ŠJů, Wikimedia Commons</i></p>
 
 ---
