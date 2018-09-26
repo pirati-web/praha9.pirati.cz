@@ -10,7 +10,7 @@ description: technický konzultant
 img: people/petr-karel.jpg
 age: 54
 mail:
-  - watermeter@seznam.cz
+  - petr.karel@pirati.cz
  
 profiles:
   facebook: 
