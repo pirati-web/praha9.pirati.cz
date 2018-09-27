@@ -5,7 +5,7 @@ category: blog
 layout: post
 title: Hostinec U Brabců - Petice a participace
 author: Kornélia Gottmannová
-authorId: Kornélia Gottmannová
+authorId: kornelia.gottmannova
 image: articles/2018/2018-09-25-hostinec-u-brabcu.jpg
 ---
 <p style='text-align: justify;'>
