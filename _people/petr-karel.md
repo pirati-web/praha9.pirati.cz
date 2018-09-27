@@ -22,5 +22,4 @@ Petr vystudoval VŠCHT Praha a 12 let byl projektantem měření a regulace a sy
 Protože změny v Metropolitním plánu nemohly z pohledu Pirátů zůstat bez odezvy, tak za MS Praha 9 vypracoval řadu připomínek, které byly za pomoci občanů uplatněny. Petr se zasazuje o rozumný rozvoj na Devítce. Soustředit se chce na potenciál brownfieldů a záchranu zelených ploch v zastavěných stabilizovaných lokalitách.
 </p>
 
-
 ---
