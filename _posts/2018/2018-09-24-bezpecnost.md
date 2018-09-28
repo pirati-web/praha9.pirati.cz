@@ -10,13 +10,13 @@ image: articles/2018/2018-09-24-bezpecnost.jpg
 ---
 <p style='text-align: justify;'>
 Bezpečnost patří mezi priority Pirátů Prahy 9. 
-Podle zákona o obecní policii je starosta Městské části Praha 9 vrchním velitelem městské policie daného obvodu, tak jako primátor je velitelem celé Městské policie hl. m. Prahy. 
+Podle zákona o obecní policii je starosta městské části Praha 9 vrchním velitelem městské policie daného obvodu, tak jako primátor je velitelem celé Městské policie hl. m. Prahy. 
 </p><p style='text-align: justify;'>
-Městská policie je represivní složka, ale každý jistě uzná, že je pro dnešní dobu nezbytná. Městskou policii zřizuje a ruší zastupitelstvo města, v našem případě je to hlavní město Praha. To znamená, že Městská policie je tu pro nás, pro občany, a měla by tak vystupovat.
+Městská policie je represivní složka, ale každý jistě uzná, že je pro dnešní dobu nezbytná. Městskou policii zřizuje a ruší zastupitelstvo města, v našem případě je to hlavní město Praha. To znamená, že městská policie je tu pro nás, pro občany, a měla by tak vystupovat.
 </p><p style='text-align: justify;'>
-Městská policie hl. města Prahy má jednotlivá obvodní ředitelství, každé ředitelství má svého ředitele, zástupce, jiné funkcionáře a strážníky. Tito ředitelé jsou podřízení řediteli Městské policie hl. m. Prahy. Možná jste se strážníky již jednali, možná jste byli spokojení, možná nikoliv. Je pochopitelné, že ten, kdo dostal za okno řidiče "parkovačku" nebo když platil pokutu za jiný přestupek, nemusí mít na městkou policii pozitivní názor. Avšak je třeba si uvědomit, že strážníci musí jednat v případě zjištění protiprávního jednání. 
+Městská policie hl. města Prahy má jednotlivá obvodní ředitelství, každé ředitelství má svého ředitele, zástupce, jiné funkcionáře a strážníky. Tito ředitelé jsou podřízení řediteli Městské policie hl. m. Prahy. Možná jste se strážníky již jednali, možná jste byli spokojení, možná nikoliv. Je pochopitelné, že ten, kdo dostal za okno řidiče "parkovačku" nebo když platil pokutu za jiný přestupek, nemusí mít na městskou policii pozitivní názor. Avšak je třeba si uvědomit, že strážníci musí jednat v případě zjištění protiprávního jednání. 
 </p><p style='text-align: justify;'>
-Strážníci řeší přestupky ve veřejném pořádku, dopravní přestupky, přestupky občanského soužití apod. Jistě mi dá každý za pravdu, že bezpečnost by měla být samozřejmostí. Denně se bezpečnost dotýká každého z nás. Je důležité cítit se bezpečně při cestě do práce, do školy, na nákupech. Nebát se nechat někde zaparkované auto aniž bychom se báli, že nám ho někdo vykrade nebo dokonce ukradne. 
+Strážníci řeší přestupky proti veřejném pořádku, dopravní přestupky, přestupky proti občanskému soužití apod. Jistě mi dá každý za pravdu, že bezpečnost by měla být samozřejmostí. Denně se bezpečnost dotýká každého z nás. Je důležité cítit se bezpečně při cestě do práce, do školy, na nákupech. Nebát se nechat někde zaparkované auto, aniž bychom museli mít strach, že nám ho někdo vykrade nebo dokonce odcizí. 
 </p><p style='text-align: justify;'>
 Jelikož jsme Piráti z Prahy 9, hovoříme o městské policii v naší městské části. Starostovi MČ Praha 9 by mělo záležet na bezpečnosti lidí v katastrálním území Prahy 9, proto je pro nás prioritou, aby strážníci nepřehlíželi přestupky. Když projíždějí ulicí, měli by si všímat vozidel zaparkovaných na chodnících, trávníku apod. Slušní řidiči si nedovolí špatně zaparkovat, troufalí to neřeší, protože se jim nic nestane?! Špatný přístup.
 </p><p style='text-align: justify;'>
