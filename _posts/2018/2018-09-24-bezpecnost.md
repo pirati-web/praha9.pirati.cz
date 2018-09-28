@@ -16,11 +16,11 @@ Městská policie je represivní složka, ale každý jistě uzná, že je pro d
 </p><p style='text-align: justify;'>
 Městská policie hl. města Prahy má jednotlivá obvodní ředitelství, každé ředitelství má svého ředitele, zástupce, jiné funkcionáře a strážníky. Tito ředitelé jsou podřízení řediteli Městské policie hl. m. Prahy. Možná jste se strážníky již jednali, možná jste byli spokojení, možná nikoliv. Je pochopitelné, že ten, kdo dostal za okno řidiče "parkovačku" nebo když platil pokutu za jiný přestupek, nemusí mít na městkou policii pozitivní názor. Avšak je třeba si uvědomit, že strážníci musí jednat v případě zjištění protiprávního jednání. 
 </p><p style='text-align: justify;'>
-Strážníci řeší přestupky ve veřejném pořádku, dopravní přestupky, přestupky občanského soužití apod. Jistě mi dá každý za pravdu, že bezpečnost by měla být samozřejmostí. Denně se bezpečnost dotýká každého z nás. Je důležité cítit se bezpečně při cestě do práce, do školy, na nákupech. Nebát se nechat někde zaparkované auto, aniž bychom se báli, že nám ho někdo vykrade nebo dokonce ukradne. 
+Strážníci řeší přestupky ve veřejném pořádku, dopravní přestupky, přestupky občanského soužití apod. Jistě mi dá každý za pravdu, že bezpečnost by měla být samozřejmostí. Denně se bezpečnost dotýká každého z nás. Je důležité cítit se bezpečně při cestě do práce, do školy, na nákupech. Nebát se nechat někde zaparkované auto aniž bychom se báli, že nám ho někdo vykrade nebo dokonce ukradne. 
 </p><p style='text-align: justify;'>
 Jelikož jsme Piráti z Prahy 9, hovoříme o městské policii v naší městské části. Starostovi MČ Praha 9 by mělo záležet na bezpečnosti lidí v katastrálním území Prahy 9, proto je pro nás prioritou, aby strážníci nepřehlíželi přestupky. Když projíždějí ulicí, měli by si všímat vozidel zaparkovaných na chodnících, trávníku apod. Slušní řidiči si nedovolí špatně zaparkovat, troufalí to neřeší, protože se jim nic nestane?! Špatný přístup.
 </p><p style='text-align: justify;'>
-Ale není to jen o špatném parkování, pozornost by strážníci měli věnovat také zakládání černých skládek, bezdomovcům, drogově závislím a vandalismu. Myslíme si, že strážníci v Praze 9 by měli v tomto ohledu zlepšit přístup, měli by se více věnovat veřejnému pořádku a také prevenci kriminality.
+Ale není to jen o špatném parkování, pozornost by strážníci měli věnovat také zakládání černých skládek, bezdomovcům, drogově závislým a vandalismu. Myslíme si, že strážníci v Praze 9 by měli v tomto ohledu zlepšit přístup, měli by se více věnovat veřejnému pořádku a také prevenci kriminality.
 </p><p style='text-align: justify;'>
 Prevence kriminality je velmi důležitá.
 </p><p style='text-align: justify;'>
