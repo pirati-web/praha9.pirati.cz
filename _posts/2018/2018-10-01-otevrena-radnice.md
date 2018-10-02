@@ -8,9 +8,6 @@ author: Václav Vislous
 authorId: Václav Vislous
 image: articles/2018/2018-10-01-otevrena-radnice.jpg
 ---
-
-(článek je převzatý z Pirátských listů pro Prahu 9, které v tištěné verzi vyšly 1. září 2018)
-
 <p style='text-align: justify;'>
 Na jaře tohoto roku se na radnici Prahy 9 začaly dít zvláštní věci. Zmizely stovky dokumentů, záznamů a zápisů a jsou k dispozici jen na vyžádání. Zeptali jsme se na to na zasedání zastupitelstva při interpelacích. Radnice své jednání krátce před volbami zdůvodňuje požadavky, vyplývajícími z implementace nařízení známého jako GDPR. 
 </p><p style='text-align: justify;'>
@@ -25,7 +22,8 @@ Další netransparentní oblastí hospodaření radnice jsou jednoznačně měst
 Zvláštní epizodou byl pokus na začátku roku o bleskový prodej (na podání nabídek byl jen 15 pracovních dní) podílu městské části ve společnosti Devátá energetická, s.r.o., která zajišťuje mj. distribuci tepelné energie na části území Prahy 9. Protože však doposud k této věci nebyla publikována žádná další informace, lze předpokládat, že z nějakého důvodu z této akce sešlo.
 </p><p style='text-align: justify;'>
 Všechny tyto věci působí dojmem, že vládnoucí koalice záměrně přiškrtila rozpočet radnice tak, aby na úřadě nebyly dostatečné kapacity na zpracování a zveřejňování informací. Vládnoucí koalice se tak totiž může na jednu stranu ohánět ódami o úsporách, ale reálně šlo jen o to, aby nikdo neměl potuchy o tom, co se vaří v kuchyni.
+</p><p style='text-align: justify;'>
+<i>(článek je převzatý z Pirátských listů pro Prahu 9, které v tištěné verzi vyšly 1. září 2018)</i>
 </p>
-
 
 ---

@@ -8,9 +8,6 @@ author: Petr Karel
 authorId: Petr Karel
 image: articles/2018/2018-10-02-mrakodrapy-nad-rokytkou.jpg
 ---
-
-(článek je převzatý z Pirátských listů pro Prahu 9, které v tištěné verzi vyšly 1. září 2018)
-
 <p style='text-align: justify;'>
 Jedno z nějvětších překvapení, na které jsme při zpracování připomínek pro Metropolitní plán narazili, byla výrazná změna výškové regulace v oblasti Nové Harfy. Ta na pomezí Vysočan, Harfy a Nové Harfy, tedy v blízkosti Rezidence Eliška, vytváří souvislé území o rozloze 18 hektarů, které umožňuje zastavení území po obou březích Rokytky do výšky až 100 metrů (27 nadzemních podlaží).
 </p><p style='text-align: justify;'>
@@ -27,6 +24,8 @@ Plocha k zastavění 27 podlažními věžemi je vlevo od rezidence Eliška.
 </p><p style='text-align: justify;'>
 <img src="https://praha9.pirati.cz/assets/img/articles/2018/2018-10-02-mrakodrapy-nad-rokytkou-3.jpg">
 Možné umístění 27 podlažních budov dle Metropolitní plánu (50 % plochy čtverců).
+</p><p style='text-align: justify;'>
+<i>(článek je převzatý z Pirátských listů pro Prahu 9, které v tištěné verzi vyšly 1. září 2018)</i>
 </p>
 
 
