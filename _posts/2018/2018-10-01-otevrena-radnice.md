@@ -17,7 +17,7 @@ Dalším příkladem, který demonstruje přístup vedení Prahy 9 k otevřenost
 </p><p style='text-align: justify;'>
 Pokud se vám aplikace přece jen otevře, narazíte na další problém. Tím je, že lze kontrolovat jen vzorek dat, nejnovější z nich však až z roku 2016. Jinými slovy tedy ani v srpnu 2018 nebylo možné zkontrolovat nic z loňského roku. Tentýž problém trápí i sesterský systém registru smluv, který se redakci po měsících marných pokusů nepodařilo spustit vůbec. Použitelnost těchto instrumentů vyvolává vážné pochybnosti o účelnosti investic do jejich zavedení.
 </p><p style='text-align: justify;'>
-Další netransparentní oblastí hospodaření radnice jsou jednoznačně městské společnosti. Jedna z nich - Devátá rozvojová, s.r.o. - pro jistotu již od roku 2014 nepublikuje v online registru Ministerstva Spravedlnosti žádné výsledky svého hospodaření, ačkoli ji to zákon přímo ukládá. Lze tedy pouze spekulovat, co se v této společnosti reálně děje. 
+Další netransparentní oblastí hospodaření radnice jsou jednoznačně městské společnosti. Jedna z nich - Devátá rozvojová, s.r.o. - pro jistotu již od roku 2014 nepublikuje v online registru Ministerstva spravedlnosti žádné výsledky svého hospodaření, ačkoli ji to zákon přímo ukládá. Lze tedy pouze spekulovat, co se v této společnosti reálně děje. 
 </p><p style='text-align: justify;'>
 Zvláštní epizodou byl pokus na začátku roku o bleskový prodej (na podání nabídek byl jen 15 pracovních dní) podílu městské části ve společnosti Devátá energetická, s.r.o., která zajišťuje mj. distribuci tepelné energie na části území Prahy 9. Protože však doposud k této věci nebyla publikována žádná další informace, lze předpokládat, že z nějakého důvodu z této akce sešlo.
 </p><p style='text-align: justify;'>
