@@ -5,7 +5,7 @@ category: blog
 layout: post
 title: Za maskou otevřené radnice jen temný stín
 author: Václav Vislous
-authorId: Václav Vislous
+authorId: vaclav.vislous
 image: articles/2018/2018-10-01-otevrena-radnice.jpg
 ---
 <p style='text-align: justify;'>
