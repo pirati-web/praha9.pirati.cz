@@ -1,9 +1,9 @@
 ---
-date: 2018-09-24
+date: 2018-10-044
 category: blog
-#tags: mrakodrapy rokytka metropolitni plan
+#tags: metropolitni plan namesti osn radnice
 layout: post
-title: Mrakodrapy nad Rokytkou
+title: Metropolitní plán a Náměstí OSN
 author: Petr Karel
 authorId: petr.karel
 image: articles/2018/2018-10-04-Metroplan-uvod.jpg
