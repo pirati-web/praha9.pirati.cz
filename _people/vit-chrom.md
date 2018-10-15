@@ -8,7 +8,6 @@ category:
   - priznivci
   - kandidat-obec
 description: pracovník MP Praha
-img: people/vit-chrom.jpg
 #age: 
 #mail:
  # - vit-chrom@pirati.cz
