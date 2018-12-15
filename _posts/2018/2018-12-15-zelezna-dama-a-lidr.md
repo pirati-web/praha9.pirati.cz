@@ -6,7 +6,7 @@ layout: post
 title: Železná dáma a lídr Gottmannová
 image: articles/2018/2018-12-15-zelezna-dama-a-lidr.jpg
 ---
-Železná dáma a lídr Gottmannová nebráníme se konstruktivní spolupráci s ostatními stranami na programových shodách, především co se týče školství, digitalizace a územního rozvoje
+Železná dáma a lídr Gottmannová: "Nebráníme se konstruktivní spolupráci s ostatními stranami na programových shodách, především co se týče školství, digitalizace a územního rozvoje."
 
 *Piráti Prahy 9, kteří si v komunálních volbách vysloužili nejvíce hlasů hned po vítězné ODS, měli své poslední dostaveníčko ve stylové restauraci U Pecků v pondělí 3. prosince. Přišlo celkem 23 pirátů, sympatizantů a dokonce také tři zástupci koaliční strany Praha sobě. Povolební situace se již dále neřešila, nýbrž se přešlo k záležitostem, které je potřeba řešit nikoli bezbřehou rétorikou, ale skutečnými činy.*
 
