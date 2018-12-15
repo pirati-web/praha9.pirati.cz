@@ -3,7 +3,7 @@ date: 2018-12-15
 category: blog
 #tags: metropolitni plan namesti osn radnice
 layout: post
-title: Železná dáma a lídr Gottmannová: nebráníme se konstruktivní spolupráci s ostatními stranami na programových shodách, především co se týče školství, digitalizace a územního rozvoje
+title: Železná dáma a lídr Gottmannová nebráníme se konstruktivní spolupráci s ostatními stranami na programových shodách, především co se týče školství, digitalizace a územního rozvoje
 author: IVAN BŘEŠŤÁK
 image: articles/2018/2018-12-15-zelezna-dama-a-lidr.jpg
 ---
