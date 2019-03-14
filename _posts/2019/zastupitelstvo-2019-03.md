@@ -1,0 +1,69 @@
+---
+date: 2019-03-14
+category: blog
+#tags: zastupistelstvo
+layout: post
+title: Zprávy z jednání zastupitelstva
+author: Kornélia Gottmannová
+authorId: kornelia.gottmannova
+image: assets/img/miscellaneous/radnice.jpg
+---
+
+<p style='text-align: justify;'>
+V úterý 5. 3. se odehrálo další jednání zastupitelstva na Praze 9. A jak jsme si při něm vedli? 
+
+#### Jednací řád
+
+<ul class="dashed">
+<li>Anetě Heidlové se pozměňovacím návrhem podařilo prosadit ukládání hlasových záznamů ze zastupitelstva ze dvou na čtyři roky. Vedle větší kontroly zastupitelů to především znamená, že lidé mají možnost před dalšími komunálními volbami zhodnotit působení zastupitelstva za celé volební období.</li>
+<li>Aneta také upozornila na fakt, že podle nového jednacího řádu nemá radnice povinnost zveřejňovat písemné odpovědi na interpelace občanů. Abychom ale pouze nekritizovali, nabídli jsme radnici pomoc v rámci komise pro digitalizaci. Nové řešení by mělo zajistit jak transparentnost vedení radnice, tak chránit osobní data podle GDPR.</li>
+</ul>
+
+#### Rozpočet 
+
+<ul class="dashed">
+<li>Praze 9 hrozí, že tento rok skončí se schodkem v rozpočtu. Václav Vislous přišel s několika návrhy na jeho zlepšení a získání dalších financí. Jedním z jejich je například zavedení participativního rozpočtu (tedy možnost občanů spolurozhodovat o tom, kde budou peníze radnice investovány) - díky němu by Praha 9 mohla získat z magistrátu až 5 milionů Kč.</li>
+<li>Nabídli jsme radnici spolupráci v rámci dalších komisí tak, aby se nám podařilo finanční situaci Prahy 9 opět zlepšit.</li>
+</ul>
+
+#### Byty
+
+<ul class="dashed">
+<li>Kamila Viktorinová se obrátila na radní s otázkou , zda má Praha 9 vytvořenou strategii pro nakládání s bytovým fondem městské části. Paní radní Těmínová zodpovědná za tuto oblast ani další členové rady dle všeho neporozuměli otázce. Reálně žádná strategie ani plán pro nakládání s bytovým fondem neexistuje - rada došla k závěru, že současný stav je uspokojivý a žádného plánu do budoucna není třeba. S tím musíme zásadně nesouhlasit - v době, kdy čeká městskou část nová výstavba a do budoucna budou třeba služební byty pro učitele a strážníky, aby bylo možné požadavky rostoucí populace pokrýt, považujeme přístup radnice za značně nezodpovědný.</li>
+<li>Vznesli jsme také námitky k nastaveným parametrům a transparentnosti privatizace.</li>
+</ul>
+
+#### Transformace střediska sociálních služeb na ústav 
+
+<ul class="dashed">
+<li>Náš zastupitel Petr Karel upozornil na obavy klientů střediska, kterých se změny mají týkat. Upozornili jsme radnici na to, že by měla s klienta střediska lépe komunikovat a především je ujistit, že tato změna pro ně neznamená žádné negativní důsledky.</li>
+</ul>
+
+#### Spolupráce ve školství
+
+<ul class="dashed">
+<li>Kornélia Gottmannová se snaží prosadit zlepšení situace nejen na Praze 9, ale v rámci návrhů legislativních změn a úprav celého školského systému.</li>
+<li>Za tím účelem se snažíme spolupracovat i s radnicí, jmenovitě s radním Davídkem a vedoucím odboru školství Martinem Odehnalem v rámci školské komise.</li>
+<li>Plánujeme za tímto účelem setkání zastupitelů a rodičů na půdě radnice, kde v rámci otevřené diskuse chceme probrat situaci ve školství na Praze 9.</li>
+</ul>
+
+#### Shrnutí posledních čtyř měsíců práce na zastupitelstvu
+
+</p><p style='text-align: justify;'>
+Po volbách na podzim 2018 jsme se rozhodli vystupovat jako konstruktivní opozice bez potřeby osobních útoků a spoluprací s ostatními stranami pomoci občanům Prahy 9. Profesionálním přístupem jsme chtěli chceme prosadit náš program i z postavení opozice. Za tímto účelem jsme se aktivně zapojili do činnosti jednotlivých komisí - např. v komisi územního rozvoje se změny územního plánu schvalovaly na základě konsenzu, v případě rozpočtové komise byly některé naše připomínky zapracovány do návrhu rozpočtu.
+
+</p><p style='text-align: justify;'>
+Ve výsledku se náš věcný přístup a dobrá odborná příprava projevily v tom, že máme možnost spolurozhodovat o některých zásadních otázkách tam, kde vládnoucí koalice a opozice mají shodný nebo podobný program. Situace ovšem není vždy ideální - velmi špatně zejména vnímáme komunikaci radnice s občany. Koaliční zastupitelé mají tendenci reagovat na požadavky občanů velmi defenzivně a osobně. Často také nediskutují s občany své kroky předem a nedostatečně je následně vysvětlují. 
+
+</p><p style='text-align: justify;'>
+Jak daleko takový přístup  může zajít jsme byli svědky během jednání zastupitelstva, kdy došlo k otevřenému konfliktu mezi interpelujícím občanem a starostou a tajemníkem. Rychle jsme situaci vyřešili díky právu na vyhlášení pauzy, čímž jsme dokázali vyhrocenou situaci uklidnit a obě strany sporu nám následně za náš zásah poděkovaly.
+
+</p><p style='text-align: justify;'>
+Doporučili jsme proto radním, aby se pokoušeli lépe naslouchat a pochopit často oprávněné, emotivně laděné požadavky a připomínky občanů. 
+
+</p><p style='text-align: justify;'>
+Celkově jako Piráti hodnotíme dosavadní spolupráci s koalicí pozitivně a do budoucna se díváme s lehkým optimismem. Pokud by spolupráce pokračovala tímto způsobem, věříme, že by se nám mohlo podařit prosadit některé z našich programových priorit navzdory tomu, že jsme v opozici. To bychom považovali za dostatečný úspěch. Nicméně důležité je, aby z této spolupráce nejvíce těžili občané Prahy 9 a my netrávili čas vzájemným bojem, ale především společnou prací pro městskou část. Samozřejmě budeme dále jako opozice pečlivě dohlížet na to, aby radnice postupovala dle zákona a aby nebyl dáván prostor jakýmkoliv postranním zájmům.
+
+</p>
+
+---
