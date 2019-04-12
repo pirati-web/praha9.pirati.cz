@@ -6,7 +6,7 @@ layout: post
 title: Setkání rodičů na radnici Prahy 9
 author: Kornélia Gottmannová
 authorId: kornelia.gottmannova
-image: posts/Setkání-rodicu.jpg
+image: articles/Setkání-rodicu.jpg
 ---
 <p style='text-align: justify;'>
 V&nbsp;úterý 9.&nbsp;4.&nbsp;2019 proběhlo první setkání rodičů z&nbsp;Vysočan s&nbsp;radním a zastupiteli, kteří se věnují školské problematice. Cílem bylo otevřít diskusi a přizvat rodiče k&nbsp;řešení problémů našich vysočanských škol. Přišlo asi 40 rodičů. Jsem velmi ráda, že tuto historickou událost symbolicky uvedl starosta Prahy&nbsp;9 Jan Jarolím a vyzval všechny zúčastněné k&nbsp;otevřené a konstruktivní diskusi. 
