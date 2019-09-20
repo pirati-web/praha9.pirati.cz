@@ -10,7 +10,7 @@ description: Bezpečnost je základem k zajištění chodu moderního města, ve
 keywords: bezpečnost
 order: 5
 redirect_from:
-  - /komunalni-volby-2018/program/bezpecnost/
+  - /volby2018/program/bezpecnost/
 ---
 
 **Bezpečnost je základem k zajištění chodu moderního města, veřejné infrastruktury a veřejných služeb. Musí však fungovat účelně a ve prospěch všech obyvatel města.**

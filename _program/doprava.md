@@ -10,7 +10,7 @@ description: Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestován
 keywords: doprava, město, pěšky, mhd, autem, na kole
 order: 3
 redirect_from:
-  - /komunalni-volby-2018/program/doprava/
+  - /volby2018/program/doprava/
 ---
 
 **Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD, na kole nebo autem. Podporujeme výstavbu obchvatů, ale odmítáme alibistické tvrzení, že bez obchvatů nejde nic zlepšit. Jde to a víme jak!**

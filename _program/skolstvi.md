@@ -10,7 +10,7 @@ description: Věříme, že kvalitní vzdělání je cestou k dobře fungující
 keywords: vzdělávání, škola, školka, mateřská škola
 order: 2
 redirect_from:
-  - /komunalni-volby-2018/program/skolstvi/
+  - /volby2018/program/skolstvi/
 ---
 
 **Věříme, že kvalitní vzdělání je cestou k dobře fungující společnosti, proto si zaslouží velkou pozornost. Chceme, aby se Praha 9 jako zřizovatel většiny mateřských a základních škol aktivně zajímalo o potřeby dětí, rodičů i pedagogů a bylo partnerem pro řešení aktuálních problémů.**

@@ -10,7 +10,7 @@ description: Občané mají mít právo rozhodovat o věcech, které se jich oso
 keywords: participace, participativní rozpočet, transparentnost, občané, open data
 order: 4
 redirect_from:
-  - /komunalni-volby-2018/program/otevrena-radnice/
+  - /volby2018/program/otevrena-radnice/
 ---
 
 **Občané mají mít právo rozhodovat o věcech, které se jich osobně týkají, a město se musí snažit jim jít naproti a být transparentní. Aktivní zapojení občanů do chodu města umožní dělat kvalitnější rozhodnutí a omezit plýtvání financemi. Především ale buduje společnost sousedů, kterým na dění ve městě záleží.**

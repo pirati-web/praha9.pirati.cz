@@ -16,20 +16,20 @@ main:
   - link: /aktuality/
     name: Aktuálně
     match: aktuality
-  - link: /komunalni-volby-2018/
-    name: Volby 2018
-    match: komunalni-volby-2018
+  - link: /volby2018/
+    name: Program
+    match: volby2018
     submenu:
-      - link: /komunalni-volby-2018/
+      - link: /volby2018/
         name: Volby 2018
-        match: komunalni-volby-2018
-      - link: /komunalni-volby-2018/prosek/
+        match: volby2018
+      - link: /volby2018/prosek/
         name: Obvod č. 1
         match: prosek
-      - link: /komunalni-volby-2018/strizkov/
+      - link: /volby2018/strizkov/
         name: Obvod č. 2
         match: strizkov        
-      - link: /komunalni-volby-2018/vysocany/
+      - link: /volby2018/vysocany/
         name: Obvod č. 3
         match: vysocany
   - link: /clenove/
@@ -53,8 +53,8 @@ bottom:
     links:
       - link: /clenove/
         name: Členové
-      - link: /komunalni-volby-2018/
-        name: Volby 2018
+      - link: /volby2018/
+        name: Program
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
