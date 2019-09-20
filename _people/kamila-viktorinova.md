@@ -9,7 +9,7 @@ category:
   - zastupitel
 ordZas: 4
 ordKom: 4
-description: Zastupitelka P9, Bytová a Soc-zdrav komise, Komise kultury a sportu
+description: Zastupitelka Prahy 9, Komise bytová, sociálně-zdravotní a kultury a sportu
 img: people/kamila-viktorinova.jpg
 mail:
   - kamila.viktorinova@pirati.cz

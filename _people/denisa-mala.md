@@ -8,7 +8,7 @@ category:
   - mistopredseda_ms
   - predsednictvo
 ordPre: 4
-description: Místopředsedkyně místního sdružení P9
+description: Místopředsedkyně místního sdružení Praha 9
 img: people/denisa-mala.jpg
 age: 41
 mail:

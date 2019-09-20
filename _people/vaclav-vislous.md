@@ -12,7 +12,7 @@ category:
 ordZas: 1
 ordPre: 3
 ordKom: 2
-description: Předseda zastupitelského klubu P9, Finanční výbor, Rozpočtová komise, Komise pro digitalizaci
+description: Předseda zastupitelského klubu Prahy 9, Finanční výbor, Komise rozpočtová a pro digitalizaci
 img: people/vaclav-vislous.jpg
 mail:
   - vaclav.vislous@pirati.cz
