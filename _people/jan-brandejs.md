@@ -7,9 +7,9 @@ category:
   - clenove
   - mistopredseda_ms
 
-description: VŠ pedagog
+description: projektový manažer v IT
 img: people/jan-brandejs.jpg
-age: 30
+age: 29
 mail:
   - jan.brandejs@pirati.cz
  
