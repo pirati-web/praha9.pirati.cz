@@ -7,7 +7,7 @@ category:
   - kandidat-obec
   - mistopredseda_ms
   - predsednictvo
-description: office manager
+description: místopředsedkyně místního sdružení
 img: people/denisa-mala.jpg
 age: 41
 mail:

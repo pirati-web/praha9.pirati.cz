@@ -6,7 +6,7 @@ titles:
 category:
   - clenove
 
-description: dopravní inženýr
+description: 
 img: people/ondrej-kalis.jpg
 mail:
   - ondrej.kalis@pirati.cz

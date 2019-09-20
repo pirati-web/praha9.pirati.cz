@@ -6,7 +6,7 @@ titles:
 category:
   - clenove
   - zastupitel
-description: učitelka a zástupkyně v MŠ
+description: zastupitelka
 img: people/kamila-viktorinova.jpg
 mail:
   - kamila.viktorinova@pirati.cz
@@ -14,7 +14,7 @@ mail:
 profiles:
   facebook: 
 ---
-<p style='text-align: justify;'>Bc. Kamila Viktorinová je členkou Pirátů na Praze 9.
+<p style='text-align: justify;'>Bc. Kamila Viktorinová je členkou Pirátů na Praze 9. Na Radnici Prahy 9 působí v Bytové komisi, Komisi pro kulturu a sport a Sociálně-zdravontí komisi.
 </p><p style='text-align: justify;'>
 Kamila vystudovala Univerzitu Karlovu v oboru pedagogiky. Dnes je zástupkyní ředitelky mateřské školy a učitelka. Její hlavní snahou je zvyšovat kvalitu vzdělávání na Praze 9 a vytvářet preventivní programy, podporující bezpečí našich dětí.
 </p><p style='text-align: justify;'>

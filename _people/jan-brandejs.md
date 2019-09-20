@@ -6,7 +6,7 @@ titles:
 category:
   - mistopredseda_ms
   - predsednictvo
-description: projektový manažer v IT
+description: místopředseda místního sdružení
 img: people/jan-brandejs.jpg
 mail:
   - jan.brandejs@pirati.cz

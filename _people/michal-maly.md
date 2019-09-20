@@ -6,7 +6,7 @@ titles:
 category:
   - clenove
 
-description: student
+description: 
 img: people/michal-maly.jpg
 mail:
   - michal.maly@pirati.cz

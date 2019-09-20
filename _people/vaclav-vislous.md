@@ -8,16 +8,13 @@ category:
   - predseda_zk
   - mistopredseda_ms
   - predsednictvo  
-description: projektový manažer
+description: předseda zastupitelského klubu
 img: people/vaclav-vislous.jpg
 mail:
   - vaclav.vislous@pirati.cz
- 
-profiles:
-  #facebook: https://www.facebook.com/
 ---
 <p style='text-align: justify;'>
-Václav Vislous, MSc. je člen Pirátů, předseda Zastupitelského klubu Pirátů na Praze 9 a místopředseda Místního sdružení Pirátů na Praha 9.
+Václav Vislous, MSc. je člen Pirátů, předseda Zastupitelského klubu Pirátů na Praze 9 a místopředseda Místního sdružení Pirátů na Praha 9. Na Radnici Prahy 9 působí ve Finančním výboru, Rozpočtové komisi a Komisi pro digitalizaci. Na Magistrátu hl. m. Prahy působí v Pracovní skupině k dobíjecí infrastruktuře.
 </p><p style='text-align: justify;'>
 Václav vystudoval ekonomii na Univerzitě Karlově v Praze a manažerskou a finanční ekonomii na francouzské HEC Paris. Své zkušenosti s manažerským poradenstvím dnes uplatňuje jako manažer rodinného podniku. 
 </p><p style='text-align: justify;'>
