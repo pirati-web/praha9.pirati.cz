@@ -7,7 +7,8 @@ category:
   - kandidat-obec
   - mistopredseda_ms
   - predsednictvo
-description: místopředsedkyně místního sdružení
+ordPre: 4
+description: Místopředsedkyně místního sdružení P9
 img: people/denisa-mala.jpg
 age: 41
 mail:

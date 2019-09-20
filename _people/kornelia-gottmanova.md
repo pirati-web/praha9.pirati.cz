@@ -6,10 +6,14 @@ titles:
 category:
   - predseda_ms
   - mistopredseda_zk
+  - komise
   - zastupitel
   - predsednictvo
   - kontaktni_osoba
-description: předsedkyně místního sdružení
+ordZas: 2
+ordPre: 1
+ordKom: 1
+description: Předsedkyně MS Praha 9, Zastupitelka P9, Předsedkyně Školské komise, Komise Úz. rozvoje
 img: people/kornelia-gottmannova.jpg
 mail:
   - kornelia.gottmannova@pirati.cz

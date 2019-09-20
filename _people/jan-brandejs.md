@@ -6,7 +6,8 @@ titles:
 category:
   - mistopredseda_ms
   - predsednictvo
-description: místopředseda místního sdružení
+ordPre: 2
+description: Místopředseda místního sdružení P9
 img: people/jan-brandejs.jpg
 mail:
   - jan.brandejs@pirati.cz

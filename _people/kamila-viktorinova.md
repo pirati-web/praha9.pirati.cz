@@ -5,8 +5,11 @@ titles:
   before: Bc.
 category:
   - clenove
+  - komise
   - zastupitel
-description: zastupitelka
+ordZas: 4
+ordKom: 4
+description: Zastupitelka P9, Bytová a Soc-zdrav komise, Komise kultury a sportu
 img: people/kamila-viktorinova.jpg
 mail:
   - kamila.viktorinova@pirati.cz

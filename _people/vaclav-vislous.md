@@ -5,10 +5,14 @@ titles:
   after: MSc.
 category:
   - zastupitel
+  - komise
   - predseda_zk
   - mistopredseda_ms
   - predsednictvo  
-description: předseda zastupitelského klubu
+ordZas: 1
+ordPre: 3
+ordKom: 2
+description: Předseda zastupitelského klubu P9, Finanční výbor, Rozpočtová komise, Komise pro digitalizaci
 img: people/vaclav-vislous.jpg
 mail:
   - vaclav.vislous@pirati.cz
