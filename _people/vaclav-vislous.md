@@ -4,10 +4,10 @@ name: Václav Vislous
 titles:
   after: MSc.
 category:
-  - clenove
   - zastupitel
   - predseda_zk
   - mistopredseda_ms
+  - predsednictvo  
 description: projektový manažer
 img: people/vaclav-vislous.jpg
 mail:

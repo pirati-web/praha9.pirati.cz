@@ -4,10 +4,10 @@ name: Kornélia Gottmannová
 titles:
   before: Ing.
 category:
-  - clenove
   - predseda_ms
   - mistopredseda_zk
   - zastupitel
+  - predsednictvo
 description: inženýrka chemie a lektorka
 img: people/kornelia-gottmannova.jpg
 mail:

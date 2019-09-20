@@ -4,9 +4,9 @@ name: Denisa Malá
 titles:
   after: DiS.
 category:
-  - clenove
   - kandidat-obec
   - mistopredseda_ms
+  - predsednictvo
 description: office manager
 img: people/denisa-mala.jpg
 age: 41

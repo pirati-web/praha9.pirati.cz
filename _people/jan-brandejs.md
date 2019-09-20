@@ -4,9 +4,8 @@ name: Jan Brandejs
 titles:
   before: 
 category:
-  - clenove
   - mistopredseda_ms
-
+  - predsednictvo
 description: projektový manažer v IT
 img: people/jan-brandejs.jpg
 mail:
