@@ -4,7 +4,6 @@ name: Petr Daubner
 titles:
   before: Mgr.
 category:
-  - clenove
   - zastupitel
 description: učitel na gymnáziu
 img: people/petr-daubner.jpg

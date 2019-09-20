@@ -11,6 +11,5 @@ groups:
   - name: Členové
     category: clenove
     sort: ordPce	
-  - name: Aktivní příznivci a příznivkyně
-    category: priznivci
+
 ---

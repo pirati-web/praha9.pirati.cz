@@ -4,18 +4,18 @@ name: Ondřej Kališ
 titles:
   before: Ing.
 category:
-  - priznivci
+  - clenove
   - kandidat-obec
 description: dopravní inženýr
 img: people/ondrej-kalis.jpg
-age: 29
+age: 30
  
 profiles:
   #facebook: https://www.facebook.com/
 ---
-<p style='text-align: justify;'>Ing. Ondřej Kališ je příznivec Pirátů na Praze 9 a trojkou na kandidátce do zastupitelstva MČ Praha 9 ve <a href="/komunalni-volby-2018/prosek/" target="_self"><u>volebním obvodu č. 1 (Prosek a Krocínka)</u></a>.
+<p style='text-align: justify;'>Ing. Ondřej Kališ je člen Pirátů na Praze 9.
 </p><p style='text-align: justify;'>
-Ondřej se narodil před 29 lety v Praze, kde vystudoval gymnázium a následně Fakultu dopravní ČVUT. Od roku 2006 žije v Praze 9 na Proseku. 
+Ondřej se narodil v Praze, kde vystudoval gymnázium a následně Fakultu dopravní ČVUT. Od roku 2006 žije v Praze 9 na Proseku. 
 </p><p style='text-align: justify;'>
 Od mládí se aktivně zajímal o veřejnou dopravu. V roce 2008 spoluzaložil dopravní sdružení, jehož cílem se postupně stala propagace a popularizace veřejné dopravy a spolupráce s obcemi, které chtějí přispět ke zlepšení dopravní obslužnosti, a v neposlední řadě také hledání a podpora mladých zájemců o dopravu. 
 </p><p style='text-align: justify;'>

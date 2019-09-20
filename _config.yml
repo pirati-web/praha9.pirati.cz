@@ -86,8 +86,8 @@ organization:
   name: Česká pirátská strana - MS Praha 9
   shortName: Piráti Praha 9
   email: praha9@pirati.cz
-  contactUid: aneta.heidlova
-  phone: +420 778 111 466 
+  contactUid: kornelia.gottmannova
+  phone: +420 777 065 665
   address: |
     Na Moráni 3
     120 00 Praha 2
@@ -123,14 +123,14 @@ facebook:
   appId: 1526197851008996
 
 twitter:
-  profile: piratipraha11
+  profile: piratipraha9
   loadSDK: true
 
 instagram:
   profilePage: https://www.instagram.com/piratipraha9
 
-#forum:
-#  page: https://forum.pirati.cz/
+forum:
+  page: https://forum.pirati.cz/viewforum.php?f=1010
 
 github:
   url: https://github.com/pirati-web/praha9.pirati.cz

@@ -33,7 +33,7 @@ main:
         name: Obvod č. 3
         match: vysocany
   - link: /clenove/
-    name: Naši členové
+    name: Naši lidé
     match: clenove
   - link: /podporte-nas/
     name: Podpořte nás

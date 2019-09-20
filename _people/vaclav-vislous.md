@@ -8,7 +8,7 @@ category:
   - zastupitel
   - predseda_zk
   - mistopredseda_ms
-description: manažer
+description: projektový manažer
 img: people/vaclav-vislous.jpg
 age: 31
 mail:
