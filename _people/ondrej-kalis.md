@@ -8,8 +8,8 @@ category:
   - kandidat-obec
 description: dopravní inženýr
 img: people/ondrej-kalis.jpg
-age: 30
- 
+ mail:
+  - ondrej.kalis@pirati.cz
 profiles:
   #facebook: https://www.facebook.com/
 ---

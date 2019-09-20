@@ -9,7 +9,6 @@ category:
 
 description: projektový manažer v IT
 img: people/jan-brandejs.jpg
-age: 29
 mail:
   - jan.brandejs@pirati.cz
  

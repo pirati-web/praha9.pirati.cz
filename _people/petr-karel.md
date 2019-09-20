@@ -8,7 +8,6 @@ category:
   - zastupitel
 description: technický konzultant
 img: people/petr-karel.jpg
-age: 54
 mail:
   - petr.karel@pirati.cz
  

@@ -8,7 +8,6 @@ category:
 
 description: student
 img: people/michal-maly.jpg
-age: 22
 mail:
   - michal.maly@pirati.cz
  

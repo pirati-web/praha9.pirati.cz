@@ -8,7 +8,6 @@ category:
   - zastupitel
 description: učitelka a zástupkyně v MŠ
 img: people/kamila-viktorinova.jpg
-age: 41
 mail:
   - kamila.viktorinova@pirati.cz
  

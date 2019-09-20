@@ -7,7 +7,6 @@ category:
   - zastupitel
 description: učitel na gymnáziu
 img: people/petr-daubner.jpg
-age: 46
 mail:
   - petr.daubner@pirati.cz
  

@@ -10,7 +10,6 @@ category:
   - zastupitel
 description: inženýrka chemie a lektorka
 img: people/kornelia-gottmannova.jpg
-age: 47
 mail:
   - kornelia.gottmannova@pirati.cz
  

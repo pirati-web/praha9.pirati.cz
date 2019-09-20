@@ -10,7 +10,6 @@ category:
   - mistopredseda_ms
 description: projektový manažer
 img: people/vaclav-vislous.jpg
-age: 31
 mail:
   - vaclav.vislous@pirati.cz
  

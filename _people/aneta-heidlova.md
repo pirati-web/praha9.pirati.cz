@@ -9,7 +9,6 @@ category:
 categories: kontaktni_osoba
 description: IT tester
 img: people/aneta-heidlova.jpg
-age: 31
 mail:
   - aneta.heidlova@pirati.cz
  
