@@ -7,10 +7,10 @@ viewMode: grouped # or alltogether
 groups:
   - name: Zastupitelé Městské části Praha 9 za Pirátskou stranu
     category: zastupitel
-	sort: ordZas
+
   - name: Předsednictvo Místního sdružení Pirátské strany Praha 9
     category: predsednictvo
-	sort: ordPre
+
   - name: Další členové Místního sdružení Pirátské strany Praha 9
     category: clenove
 
