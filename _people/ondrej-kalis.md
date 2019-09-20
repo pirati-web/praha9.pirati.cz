@@ -5,13 +5,12 @@ titles:
   before: Ing.
 category:
   - clenove
-  - kandidat-obec
+
 description: dopravní inženýr
 img: people/ondrej-kalis.jpg
- mail:
+mail:
   - ondrej.kalis@pirati.cz
-profiles:
-  #facebook: https://www.facebook.com/
+
 ---
 <p style='text-align: justify;'>Ing. Ondřej Kališ je člen Pirátů na Praze 9.
 </p><p style='text-align: justify;'>
