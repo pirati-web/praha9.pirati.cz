@@ -5,7 +5,7 @@ titles:
   before: Ing.
 category:
   - clenove
-  - kandidat-obec
+  - zastupitel
 description: technický konzultant
 img: people/petr-karel.jpg
 age: 54
@@ -15,7 +15,7 @@ mail:
 profiles:
   facebook: 
 ---
-<p style='text-align: justify;'>Ing. Petr Karel je člen předsednictva MS Pirátů na Praze 9 a dvojka kandidátky do zastupitelstva MČ Praha 9 ve <a href="/komunalni-volby-2018/vysocany/" target="_self"><u>volebním obvodu č. 3 (Vysočany a část Libně)</u></a>.
+<p style='text-align: justify;'>Ing. Petr Karel je člen Pirátů a zastupitel na MČ Praha 9.
 </p><p style='text-align: justify;'>
 Petr vystudoval VŠCHT Praha a 12 let byl projektantem měření a regulace a systémů ASŘTP. Působil i jako hlavní metrolog a manažer v PVK. Své zkušenosti uplatňuje v územním rozvoji, aktuálně připomínkováním Metropolitního plánu.
 </p><p style='text-align: justify;'>

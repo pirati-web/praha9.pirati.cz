@@ -5,18 +5,18 @@ titles:
   before: Mgr.
 category:
   - clenove
-  - kandidat-obec
+  - zastupitel
 description: učitel na gymnáziu
 img: people/petr-daubner.jpg
-age: 45
+age: 46
 mail:
-  - dauby@seznam.cz
+  - petr.daubner@pirati.cz
  
 profiles:
   facebook: 
 ---
 <p style='text-align: justify;'>
-Mgr. Petr Daubner je místopředseda MS Pirátů na Praze 9 a lídr na kandidátce do zastupitelstva MČ Praha 9 ve <a href="/komunalni-volby-2018/prosek/" target="_self"><u>volebním obvodu č. 1 (Prosek a Krocínka)</u></a>.
+Mgr. Petr Daubner je člen Pirátů a zastupitel na MČ Praha 9.
 </p><p style='text-align: justify;'>
 Petr vystudoval Přírodovědeckou a Filosofickou fakultu Univerzity Karlovy v Praze. Nejdříve učil na základní škole, od roku 2007 působí jako učitel dějepisu a zeměpisu na Gymnáziu Špitálská v Praze-Vysočanech. Je autorem internetové učebnice dějepisu pro střední školy.
 </p><p style='text-align: justify;'>

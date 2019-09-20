@@ -1,13 +1,16 @@
 ---
 layout: members
 title: Členové
-description: Seznam členů a příznivců Pirátské strany v Pardubicích. Chcete si přidat? Přijďte na sraz, nebo nám dejte vědět.
-keywords: členové, členky, tým, příznivci
+description: Seznam zastupitelů, členů a příznivců Pirátské strany na Praze 9
+keywords: zastupitelé, zastupitelky, členové, členky, tým, příznivci
 viewMode: grouped # or alltogether
 groups:
+  - name: Zastupitelky a zastupitelé
+    category: zastupitel
+    sort: ordPce
   - name: Členové
     category: clenove
-    sort: ordPce
+    sort: ordPce	
   - name: Aktivní příznivci a příznivkyně
     category: priznivci
 ---

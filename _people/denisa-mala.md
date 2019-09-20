@@ -4,18 +4,20 @@ name: Denisa Malá
 titles:
   after: DiS.
 category:
-  - priznivci
+  - clenove
   - kandidat-obec
+  - mistopredseda_ms
 description: office manager
 img: people/denisa-mala.jpg
-age: 40
-#mail:
-#  - denisa1mala@gmail.com
+age: 41
+mail:
+  - denisa.mala@pirati.cz
+  
 profiles:
   facebook: 
 ---
 <p style='text-align: justify;'>
-Denisa Malá, Dis. je příznivkyní Pirátů na Praze 9 a kandidátkou do zastupitelstva MČ Praha 9 ve <a href="/komunalni-volby-2018/vysocany/" target="_self"><u>volebním obvodu č. 3 (Vysočany a část Libně)</u></a>.
+Denisa Malá, Dis. je členkou Pirátů a místopředsedkyní Místního sdružení Pirátů na Praze 9.
 </p>
 
 
