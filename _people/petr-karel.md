@@ -9,7 +9,7 @@ category:
   - komise
 ordZas: 3
 ordKom: 2
-description: Zastupitel Prahy 9, Kontrolní výbor, Komise ŽP&dopravy, územního rozvoje a soc-zdravotní
+description: Zastupitel Prahy 9, Kontrolní výbor, Komise ŽP a dopravy, územního rozvoje a sociálně-zdravotní
 img: people/petr-karel.jpg
 mail:
   - petr.karel@pirati.cz

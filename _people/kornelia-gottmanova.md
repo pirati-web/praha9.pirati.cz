@@ -13,7 +13,7 @@ category:
 ordZas: 2
 ordPre: 1
 ordKom: 1
-description: Předsedkyně MS Praha 9, Zastupitelka Prahy 9, Předsedkyně Školské komise, Komise Úz. rozvoje
+description: Předsedkyně MS Praha 9, Předsedkyně Školské komise, Komise územního rozvoje
 img: people/kornelia-gottmannova.jpg
 mail:
   - kornelia.gottmannova@pirati.cz
