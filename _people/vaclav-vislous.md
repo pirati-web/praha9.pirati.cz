@@ -16,6 +16,8 @@ description: Předseda zastupitelského klubu P9, Finanční výbor, Rozpočtov�
 img: people/vaclav-vislous.jpg
 mail:
   - vaclav.vislous@pirati.cz
+mob:
+- +420 777 954 389
 ---
 <p style='text-align: justify;'>
 Václav Vislous, MSc. je člen Pirátů, předseda Zastupitelského klubu Pirátů na Praze 9 a místopředseda Místního sdružení Pirátů na Praha 9. Na Radnici Prahy 9 působí ve Finančním výboru, Rozpočtové komisi a Komisi pro digitalizaci. Na Magistrátu hl. m. Prahy působí v Pracovní skupině k dobíjecí infrastruktuře.

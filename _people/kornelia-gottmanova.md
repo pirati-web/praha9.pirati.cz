@@ -17,6 +17,8 @@ description: Předsedkyně MS Praha 9, Zastupitelka P9, Předsedkyně Školské 
 img: people/kornelia-gottmannova.jpg
 mail:
   - kornelia.gottmannova@pirati.cz
+mob:
+- +420 777 065 665
  
 profiles:
 facebook: 
