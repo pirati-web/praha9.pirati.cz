@@ -10,7 +10,10 @@ groups:
 
   - name: Předsednictvo Místního sdružení Pirátské strany Praha 9
     category: predsednictvo
-
+	
+  - name: Zástupci ve Výborech a Komisích Prahy 9
+    category: komise
+	
   - name: Další členové Místního sdružení Pirátské strany Praha 9
     category: clenove
 
