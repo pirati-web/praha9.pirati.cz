@@ -8,6 +8,7 @@ category:
   - mistopredseda_zk
   - zastupitel
   - predsednictvo
+  - kontaktni_osoba
 description: předsedkyně místního sdružení
 img: people/kornelia-gottmannova.jpg
 mail:
