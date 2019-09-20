@@ -5,10 +5,9 @@ description: Seznam zastupitelů, členů a příznivců Pirátské strany na Pr
 keywords: zastupitelé, zastupitelky, členové, členky, tým, příznivci
 viewMode: grouped # or alltogether
 groups:
-  - name: Zastupitelky a zastupitelé
+  - name: Zastupitelé Městské části Praha 9
     category: zastupitel
-    sort: ordPce
-  - name: Členové
+  - name: Členové Místního sdružení Praha 9
     category: clenove
     sort: ordPce	
 
