@@ -7,15 +7,15 @@ viewMode: grouped # or alltogether
 groups:
   - name: Zastupitelé Městské části Praha 9 za Pirátskou stranu
     category: zastupitel
-#	sort: ordZas
+    sort: ordZas
   - name: Předsednictvo Místního sdružení Pirátské strany Praha 9
     category: predsednictvo
-#	sort: ordPre	
+    sort: ordPre	
   - name: Zástupci ve Výborech a Komisích Prahy 9
     category: komise
-#	sort: ordKom
+    sort: ordKom
   - name: Další členové Místního sdružení Pirátské strany Praha 9
     category: clenove
-#	sort: uid
+    sort: uid
 
 ---
