@@ -1,12 +1,14 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
+layout: post
 title: Petice za školství 21. století
 date: 2019-09-28
-author: kornelia.gottmannova
+author: Kornélia Gottmannová
+authorId: kornelia.gottmannova
 image: /assets/img/posts/abc-alphabet-blackboard-265076.jpg
-tags: skolstvi
+#tags: skolstvi
 ---
+
 1. Dosažení široké politické dohody pro vytvoření stabilního a funkčního školského systému nezávislého na dané politické garnituře.
 2. Zajištění dostatku míst v předškolních a školních zařízení dle současného demografického vývoje.
 3. Zvýšení společenského a ekonomického statusu učitele (130 % platu vysokoškolsky vzdělaného člověka v regionu). Dle čl. 18 listiny základních práv a svobod a zákona č. 85/1990 Sb. o právu petičním.
