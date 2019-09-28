@@ -7,14 +7,9 @@ author: Kornélia Gottmannová
 image: /assets/img/posts/abc-alphabet-blackboard-265076.jpg
 tags: skolstvi
 ---
-1. Dosažení široké politické dohody pro vytvoření stabilního a
-   funkčního školského systému nezávislého na dané politické
-   garnituře.
-2. Zajištění dostatku míst v předškolních a školních zařízení
-   dle současného demografického vývoje.
-3. Zvýšení společenského a ekonomického statusu učitele
-   (130 % platu vysokoškolsky vzdělaného člověka v regionu).
-   Dle čl. 18 listiny základních práv a svobod a zákona č. 85/1990 Sb. o právu petičním.
+1. Dosažení široké politické dohody pro vytvoření stabilního a funkčního školského systému nezávislého na dané politické garnituře.
+2. Zajištění dostatku míst v předškolních a školních zařízení dle současného demografického vývoje.
+3. Zvýšení společenského a ekonomického statusu učitele (130 % platu vysokoškolsky vzdělaného člověka v regionu). Dle čl. 18 listiny základních práv a svobod a zákona č. 85/1990 Sb. o právu petičním.
 
 Petice je určená pro předsedy parlamentních stran a předsedy poslaneckých klubů parlamentu a členy regionálních samospráv, odpovědných za školství.
 
