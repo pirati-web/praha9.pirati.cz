@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: Petice za školství 21. století
-date: '2019-09-28 02:00pm'
+date: 2019-09-28
 author: kornelia.gottmannova
 image: /assets/img/posts/abc-alphabet-blackboard-265076.jpg
 tags: skolstvi
