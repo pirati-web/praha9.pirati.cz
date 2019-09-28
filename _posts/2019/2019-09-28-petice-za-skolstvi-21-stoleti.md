@@ -5,7 +5,7 @@ title: Petice za školství 21. století
 date: 2019-09-28
 author: Kornélia Gottmannová
 authorId: kornelia.gottmannova
-image: /assets/img/posts/abc-alphabet-blackboard-265076.jpg
+image: posts/abc-alphabet-blackboard-265076.jpg
 #tags: skolstvi
 ---
 
