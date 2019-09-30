@@ -55,7 +55,7 @@ collections:
 
   program:
     output: true
-    permalink: /komunalni-volby-2018/program/:path/
+    permalink: /volby2018/program/:path/
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
@@ -83,7 +83,7 @@ defaults:   # defaults values for collection scope
       keywords: program, volby, 2018, komunální volby
 
 organization:
-  name: Česká pirátská strana - MS Praha 9
+  name: MS Piráti Praha 9
   shortName: Piráti Praha 9
   email: praha9@pirati.cz
   contactUid: kornelia.gottmannova
