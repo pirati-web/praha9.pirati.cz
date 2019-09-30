@@ -9,6 +9,7 @@ category:
   - predseda_zk
   - mistopredseda_ms
   - predsednictvo  
+  - kontaktni_osoba
 ordZas: 1
 ordPre: 3
 ordKom: 2
