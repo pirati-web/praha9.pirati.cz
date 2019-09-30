@@ -16,6 +16,12 @@ main:
   - link: /aktuality/
     name: Aktuálně
     match: aktuality
+  - link: /pridejte-se/
+    name: Přidejte se
+    match: pridejte-se
+  - link: /clenove/
+    name: Naši lidé
+    match: clenove
   - link: /volby2018/
     name: Program
     match: volby2018
@@ -32,33 +38,29 @@ main:
       - link: /volby2018/vysocany/
         name: Obvod č. 3
         match: vysocany
-  - link: /clenove/
-    name: Naši lidé
-    match: clenove
-  - link: /pridejte-se/
-    name: Přidejte se
-    match: pridejte-se
   - link: /kontakt/
     name: Kontakt
     match: kontakt
 
 bottom:
   - class: small-12 medium-4
-    title: Připoj se
+    title: Podpořte nás
     links:
+      - link: /pridejte-se/
+        name: Přidejte se
       - link: /kontakt/
-        name: Dej nám vědět
+        name: Napište nám
   - class: small-12 medium-4
-    title: Makáme
+    title: Pracujeme
     links:
       - link: /clenove/
-        name: Členové
+        name: Naši lidé
       - link: /volby2018/
         name: Program
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
-    title: Otevřenost
+    title: Transparentnost
     links:
       - link: https://ucet.pirati.cz
         name: Transparentní účet
