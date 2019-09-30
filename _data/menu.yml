@@ -35,9 +35,9 @@ main:
   - link: /clenove/
     name: Naši lidé
     match: clenove
-  - link: /podporte-nas/
-    name: Podpořte nás
-    match: podporte-nas
+  - link: /pridejte-se/
+    name: Přidejte se
+    match: pridejte-se
   - link: /kontakt/
     name: Kontakt
     match: kontakt
