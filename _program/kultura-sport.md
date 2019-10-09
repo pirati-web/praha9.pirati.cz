@@ -1,6 +1,6 @@
 ---
 uid: kultura-sport
-garant: vaclav.vislous
+garant: kamila.viktorinova
 title: Kultura a sport
 campaignCategoryUid: magistrat
 campaignGroupUid: volby-2018
