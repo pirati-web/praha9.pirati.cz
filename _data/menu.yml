@@ -22,9 +22,9 @@ main:
   - link: /clenove/
     name: Naši lidé
     match: clenove
-  - link: /volby2018/
-    name: Program
-    match: volby2018
+  - link: /volby/
+    name: Volby 2018
+    match: volby
     submenu:
       - link: /volby2018/
         name: Volby 2018
@@ -56,7 +56,7 @@ bottom:
       - link: /clenove/
         name: Naši lidé
       - link: /volby/
-        name: Program
+        name: Volby 2018
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
