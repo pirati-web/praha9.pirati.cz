@@ -21,7 +21,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Autor ID", name: "authorId", widget: "string", required: true}      
       - {label: "Obrázek", name: "image", widget: "image", required: false}
       - {label: "Obsah", name: "body", widget: "markdown", required: true}
-      - {label: "Tagy", name: "tags", widget: "text", required: true}
+      - {label: "Tagy", name: "tags", widget: "text", required: false}
     card: {type: "image", image: "image", text: "title", required: true}
   - name: "posts-2018" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Články 2018" # Used in the UI, ie.: "New Post"
