@@ -1,12 +1,12 @@
 ---
 date: 2019-09-25
 category: blog
+#tags: zastupistelstvo
 layout: post
-title: Zprávy ze 6. Zastupitelstva MČ Praha 9
+title: Zprávy ze Zastupitelstva Devítky
 author: Václav Vislous
-authorID: vaclav.vislous
-tags: zastupitelstvo
-image: miscellaneous/zastupko.JPG
+authorId: vaclav.vislous
+image: miscellaneous/zastupko.jpg
 ---
 
 <p style='text-align: justify;'>V úterý 24.9. se odehrálo další jednání zastupitelstva na Praze&nbsp;9. A opět jsme nelenili.</p>
