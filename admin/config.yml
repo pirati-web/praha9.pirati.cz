@@ -13,10 +13,10 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true # AlBucilow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Category", name: "category", widget: "hidden", default: "CLANKY"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Category", name: "category", widget: "hidden", default: "blog"}
       - {label: "Titulek", name: "title", widget: "string", tagname: "h1", required: true}
-      - {label: "Publikovano", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma", required: true}
+      - {label: "Publikovano", name: "date", widget: "datetime", format: "YYYY-MM-DD", required: true}
       - {label: "Autor", name: "author", widget: "string", required: true}
       - {label: "Obrázek", name: "image", widget: "image", required: false}
       - {label: "Obsah", name: "body", widget: "markdown", required: true}
@@ -28,10 +28,10 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true # AlBucilow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Category", name: "category", widget: "hidden", default: "CLANKY"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Category", name: "category", widget: "hidden", default: "blog"}
       - {label: "Titulek", name: "title", widget: "string", tagname: "h1", required: true}
-      - {label: "Publikovano", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma", required: true}
+      - {label: "Publikovano", name: "date", widget: "datetime", format: "YYYY-MM-DD", required: true}
       - {label: "Autor", name: "author", widget: "string", required: true}
       - {label: "Obrázek", name: "image", widget: "image", required: false}
       - {label: "Obsah", name: "body", widget: "markdown", required: true}
@@ -43,10 +43,10 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true # AlBucilow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Category", name: "category", widget: "hidden", default: "CLANKY"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Category", name: "category", widget: "hidden", default: "blog"}
       - {label: "Titulek", name: "title", widget: "string", tagname: "h1", required: true}
-      - {label: "Publikovano", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma", required: true}
+      - {label: "Publikovano", name: "date", widget: "datetime", format: "YYYY-MM-DD", required: true}
       - {label: "Autor", name: "author", widget: "string", required: true}
       - {label: "Obrázek", name: "image", widget: "image", required: false}
       - {label: "Obsah", name: "body", widget: "markdown", required: true}
@@ -58,10 +58,10 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: false # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Category", name: "category", widget: "hidden", default: "CLANKY"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Category", name: "category", widget: "hidden", default: "blog"}
       - {label: "Titulek", name: "title", widget: "string", tagname: "h1", required: true}
-      - {label: "Publikovano", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma", required: true}
+      - {label: "Publikovano", name: "date", widget: "datetime", format: "YYYY-MM-DD", required: true}
       - {label: "Autor", name: "author", widget: "string", required: true}
       - {label: "Plakatek", name: "image", widget: "image", required: false, tagname: ""}
       - {label: "Obsah", name: "body", widget: "markdown", required: true}
@@ -73,10 +73,10 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: false # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Category", name: "category", widget: "hidden", default: "CLANKY"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Category", name: "category", widget: "hidden", default: "blog"}
       - {label: "Titulek", name: "title", widget: "string", tagname: "h1", required: true}
-      - {label: "Publikovano", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma", required: true}
+      - {label: "Publikovano", name: "date", widget: "datetime", format: "YYYY-MM-DD", required: true}
       - {label: "Autor", name: "author", widget: "string", required: true}
       - {label: "Plakatek", name: "image", widget: "image", required: false, tagname: ""}
       - {label: "Obsah", name: "body", widget: "markdown", required: true}
