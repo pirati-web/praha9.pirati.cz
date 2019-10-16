@@ -4,7 +4,7 @@ backend:
   branch: master              # Branch to update
   base_url: https://piraweboauth.herokuapp.com
 
-media_folder: "posts"
+media_folder: "/assets/img/posts"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "posts-2019" # Used in routes, ie.: /admin/collections/:slug/edit
