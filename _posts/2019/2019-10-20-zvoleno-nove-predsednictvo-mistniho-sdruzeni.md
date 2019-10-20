@@ -9,7 +9,7 @@ image: /assets/img/posts/71184363_941121589556171_1350951206695993344_n.jpg
 ---
 Dne 20. srpna bylo dokončeno hlasování nového předsednictva místního sdružení. Post předsedy obhájila [Kornélia Gottmannová](https://praha9.pirati.cz/clenove/kornelia-gottmanova/). Dalšími místopředsedy se stali [Jan Brandejs](https://praha9.pirati.cz/clenove/jan-brandejs/), [Václav Vislous](https://praha9.pirati.cz/clenove/vaclav-vislous/) a [Denisa Malá](https://praha9.pirati.cz/clenove/denisa-mala/). Celou rozpravu před hlasováním si můžete přečíst [zde](https://forum.pirati.cz/viewtopic.php?f=1012&t=48002).
 
-Co si nové předsednictvo vytklo za cíl dosáhnout v následujícím volebním období?
+Co si nové předsednictvo vytklo za cíl dosáhnout v následujícím funkčním období?
 
 * zlepšit organizaci naší práce, schůzek a zavést částečnou profesionalizaci
 * zlepšení a propracování práce s nováčky, lepší zapojení našich členů
