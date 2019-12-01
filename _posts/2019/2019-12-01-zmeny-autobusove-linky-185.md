@@ -26,7 +26,7 @@ Druhý důvod je, že i kdyby dnes jedna linka na Prosek teoreticky stačila, ta
 
 Třetí velmi zásadní důvod je ten, že na Palmovku vede pět tramvajových tratí. Tyto tratě je občas nutné opravovat a udržovat, což vyžaduje výluky a stává se, že jsou i na dvou tratích současně. Nezajistit tedy na Palmovce žádný prostor pro ukončení náhradní dopravy, je tedy opět nedomyšlené, a může vést k obrovským komplikacím pro zajištění náhradní dopravy za tramvaje.
 
-Rozhodli jsme se proto navrhnout několik možných řešení úpravy linek, na nichž se podíleli členové našeho rezortního týmu pro dopravu:
+Členové našeho rezortního týmu pro dopravu tedy navrhli několik dalších řešení, které by bylo možné s ohledem na stávající stav implementovat:
 
 ## A) Varianta jako dosud se zachováním 182
 
@@ -71,4 +71,6 @@ V úseku Nádr. Libeň - Střížkov jezdí alespoň ve špičkách linka 182 (l
 
 <img src="https://praha9.pirati.cz/assets/img/posts/Prosek_var4_komplexní.jpg" alt="Komplexní řešení"/>
 
-Každá z námi navrhovaných variant má svá pozitiva a negativa. Nicméně požadujeme za zásadní, že změny dotýkající se obyvatel Prahy 9 řeší dříve, než bezprostředně před nahlášenými změnami, a přímo s nimi v rámci diskusí pro veřejnost. Je samozřejmé, že mnozí mohou mít na řešení situace různé názory, ale je potřeba, aby se diskuse otevřela, představily se argumenty a nastínily se další možnosti vývoje. Vedle toho, že nový stav by neměl znamenat zhoršení oproti minulosti, chceme zajistit, aby se při vytváření jizdních řádů pamatovaly i na dlouhodobý pohled a jednotlivá řešení měla širší koncepci.  
+Každá z námi navrhovaných variant má svá pozitiva a negativa. Nicméně požadujeme za zásadní, že změny dotýkající se obyvatel Prahy 9 se řeší dříve, než bezprostředně před nahlášenými změnami, a přímo s nimi v rámci diskusí pro veřejnost. Je samozřejmé, že mnozí mohou mít na řešení situace různé názory, ale je potřeba, aby se diskuse otevřela, představily se argumenty a nastínily se další možnosti vývoje. Vedle toho, že nový stav by neměl znamenat zhoršení oproti minulosti, chceme zajistit, aby se při vytváření jizdních řádů pamatovalo také na dlouhodobý pohled a změny řádů linek nejsou vedeny ve prospěch pouze jedné městské části (v tomto případě Prahy 8, ale berou v potaz potřeby obyvatel i z přilehlých oblastí).
+
+Jednotlivé varianty jsme představili kolegům na magistrátu. O dalším vývoji v této situaci vás budeme informovat.
