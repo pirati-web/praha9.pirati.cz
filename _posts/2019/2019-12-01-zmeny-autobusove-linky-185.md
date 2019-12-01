@@ -5,7 +5,7 @@ title: Změny autobusové linky 185
 date: 2019-12-01
 author: Ondřej Kališ
 authorId: ondrej.kalis
-image: posts/Bus_185.jpg
+image: posts/bus_185.jpg
 ---
 
 V pátek 15. listopadu, tedy 15 dní před realizací byly konečně veřejnosti představeny úplné informace o změnách, které již 1. prosince vstoupí v platnost. Jedním z nejzásadnějších je zrušení linky 185 v úseku Letňany - Palmovka.  Zatímco v některých místních částech (např. tentokrát ve Vinoři), běžně probíhají alespoň projednání s veřejností, na Proseku a Střížkově, pro které znamenají změny od 1. prosince čisté zhoršení dopravy, a to velmi výrazné, nikdo nepřišel, aby místním vše vysvětlil. Rozhodli jsme se tedy jednat a navrhnout vlastní řešení, které chceme konzultovat s magistrátem a ROPIDem.
