@@ -5,7 +5,7 @@ title: Změny autobusové linky 185
 date: 2019-12-01
 author: Ondřej Kališ
 authorId: ondrej.kalis
-image: posts/IMG_20191127_154537_801.png
+image: posts/Bus_185.jpg
 ---
 
 V pátek 15. listopadu, tedy 15 dní před realizací byly konečně veřejnosti představeny úplné informace o změnách, které již 1. prosince vstoupí v platnost. Jedním z nejzásadnějších je zrušení linky 185 v úseku Letňany - Palmovka.  Zatímco v některých místních částech (např. tentokrát ve Vinoři), běžně probíhají alespoň projednání s veřejností, na Proseku a Střížkově, pro které znamenají změny od 1. prosince čisté zhoršení dopravy, a to velmi výrazné, nikdo nepřišel, aby místním vše vysvětlil. Rozhodli jsme se tedy jednat a navrhnout vlastní řešení, které chceme konzultovat s magistrátem a ROPIDem.
@@ -32,7 +32,7 @@ Spojení z Vinoře a Kbel na Vysočanskou, kterým tyto MČ v minulosti argument
 
 * Jednoduché a poměrně rychlé řešení.
 * Velmi se podobá současnému stavu, na který jsou lidé zvyklí, zachovává dnes existující spojení.
-* Na rozdíl od současnosti, kdy 185+302 tvoří pevný svazek a mají stejný interval jako 140 nově nebude možný přesný proklad, to bude nepříjemné hlavně odpoledne, v ranní špičce žádná z linek nejezdí podle JŘ a je podstatné, aby v této trase jezdil dostatečný počet spojů a ne jen z jednoho směru.
+* Na rozdíl od současnosti, kdy 185+302 tvoří pevný svazek a mají stejný interval jako 140 nově nebude možný přesný proklad, bude nepříjemná situace především odpoledne, v ranní špičce žádná z linek nejezdí podle JŘ a je podstatné, aby v této trase jezdil dostatečný počet spojů a ne jen z jednoho směru.
 
 ## B) Vedení linky 152 na Palmovku
 
