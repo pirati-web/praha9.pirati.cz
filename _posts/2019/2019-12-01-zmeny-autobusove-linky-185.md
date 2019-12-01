@@ -24,7 +24,7 @@ Rozhodli jsme se proto navrhnout několik možných řešení úpravy linek, na 
 
 ## A) Varianta jako dosud se zachováním 182
 
-Tuto variantu jsme navrhli proto, aby změna nutně neznamenala, že Kbely a Vinoř přijdou o linku 182, která jezdí hlouběji do města na Harfu, Spojovací atd.
+Tuto variantu jsme navrhli proto, aby změna nutně neznamenala, že Kbely a Vinoř přijdou o linku 182, která jezdí hlouběji do města na Harfu a Spojovací.
 
 Jako náhrada za spoje, které byly převedeny na linku 182 by byla na Palmovku odkloněna 375, což nic nestojí (vzdálenost na Palmovku a na Českomoravskou je stejná).
 
@@ -40,10 +40,10 @@ Varianta ponechává stav od 1. prosince a na Palmovku je vedena 152 místo Čes
 
 * Jednoduché a rychle realizovatelné řešení.
 * Nulový nárůst nákladů (dochází jen k odklonu jedné linky, nevzroste délka)
-* Oblast Sídliště Prosek a Střížkova získá po letech zpět linku na Palmovku (někdejší 187), proti jejímuž zrušení byla v roce 2008 silná nevole, dokonce snad vznikla i nějaká petice za její obnovení.
+* Oblast Sídliště Prosek a Střížkova získá po letech zpět linku na Palmovku (někdejší 187), proti jejímuž zrušení byla v roce 2008 silná nevole, dokonce měla vzniknout petice za její obnovení.
 * Z oblasti Sídliště Prosek získají místní rychlejší spojení na metro B k centru a k jihozápadu města a na tramvaje - není důvod se obávat přetížení linky 177 na Vysočanskou, protože rozdíl cestovní doby je takový, že ve špičce nikdo od centra nebude jezdit metrem až na Vysočanskou, z Vysočanské pojede reálně ten, kdo směřuje od Černého Mostu.
 * Možnost proložení s linkou 140 díky stejným intervalům.
-* Tento návrh nevyřeší spojení z Nového Proseka a Letňanské; na druhou stranu je pravda, že zde jezdí na Vysočanskou opravdu hodně linek a Střížkov nyní přichází o posilovou linku 182, takže by vhodné nabídnout Střížkovu zlepšení propojení.
+* Tento návrh nevyřeší spojení z Nového Proseka a Letňanské; na druhou stranu je pravda, že zde jezdí na Vysočanskou opravdu hodně linek a Střížkov nyní přichází o posilovou linku 182, takže by bylo vhodné nabídnout Střížkovu zlepšení propojení.
 
 ## C) Komplexní řešení
 
@@ -57,4 +57,4 @@ V úseku Nádr. Libeň - Střížkov jezdí alespoň ve špičkách linka 182 (l
 * Zlepšení spojení do oblasti zast. Českolipská, kde je už roky velká poptávka, ale oblast je obsloužena jen linkou 201, která zajišťuje spojení v podstatě jenom na nedaleké metro Střížkov, takto by se místní dostali bez přestupu i na Palmovku a také do Kobylis a Bohnic.
 * Mimoděk díky odklonu 201 vznikne častější přímé spojení z Proseka na Bulovku.
 * Při odklonu 152 ze Sídl. Prosek bude ovšem nutné zde zajistit náhradu, což je poměrně obtížné a o moc lepší řešení než krátká linka 182 se nenabízí.
-* Sídl. Prosek tím páděm na druhou stranu nezíská zpět spojení na Palmovku, naopak pokud nebude 183 celotýdenně, může se zde doprava ještě zhoršit.
+* Sídl. Prosek tím pádem na druhou stranu nezíská zpět spojení na Palmovku, naopak pokud nebude 183 celotýdenně, může se zde doprava ještě zhoršit.
