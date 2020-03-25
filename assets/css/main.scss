@@ -1,6 +1,7 @@
 @import 'pirati';
 @import 'layouts/_kandidatka';
 
+
 .pce-hero {
     padding: 4rem 1rem;
     text-align: center;
@@ -65,109 +66,11 @@
     top: 0;
     width: 100%;
     height: 100%;
-    display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
 }
 
-.pce-im-teaser-big {
-    position: relative;
-    overflow: hidden;
-}
 
-.pce-im-teaser-big .pce-im-teaser-big__wrap {
-    display: block;
-    position: relative;
-    text-decoration: none;
-}
-
-.pce-im-teaser-big__headline {
-    margin: 0;
-    padding: 5rem 2rem;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    background: rgba(255, 255, 255, .8);
-    transition: background .3s ease-in-out;
-
-    &:hover {
-        background: rgba(255, 255, 255, .65);
-    }
-
-    .pce-im-teaser-big__headline-caption {
-        @include headerStyle(h3, super);
-    }
-
-    .pce-im-teaser-big__headline-button {
-        @include headerStyle(h4, alt);
-
-        text-decoration: none;
-        margin-top: 1rem;
-        margin-bottom: 0;
-        padding: 0.5em 1rem;
-    }
-
-
-    @include breakpoint(medium down) {
-        padding: 2rem 2rem;
-
-        .pce-im-teaser-big__headline-caption {
-            @include headerStyle(h5, super);
-        }
-
-        .pce-im-teaser-big__headline-button {
-            @include headerStyle(h5, alt);
-        }
-    }
-}
-
-.c-profile-badge__headline {
-    margin-top: -.5rem;
-
-    > a {
-        @include headerStyle('h6', super);
-    }
-}
-
-.c-profile-badge__desc {
-    margin-top: 0;
-    // font-size: 80%;
-}
-
-.c-profile-badge__contacts {
-    justify-content: flex-start;
-    padding-top: .5rem;
-}
-
-
-// Inline link set that goes block on mobile devices.
-.responsive-linkset {
-    @include headerStyle(h4, alt);
-
-    @include breakpoint(medium up) {
-        display: flex;
-        justify-content: center;
-    }
-
-    &__item  {
-        display: block;
-        margin: .5rem 0;
-
-        @include breakpoint(medium up) {
-            margin: 0 1rem;
-        }
-    }
-
-}
-
-
-.elections__links {
-    margin-top: 2rem;
-}
 
 
 .l-program__item-name {

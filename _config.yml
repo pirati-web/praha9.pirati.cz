@@ -136,8 +136,6 @@ github:
   url: https://github.com/pirati-web/praha9.pirati.cz
   branch: master
 
-emptyArray: []
-
 assets:
   source_maps: true
   compression: true
