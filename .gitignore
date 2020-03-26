@@ -5,3 +5,5 @@ _site
 .bundle
 Gemfile.lock
 vendor
+assets/.DS_Store
+.DS_Store
