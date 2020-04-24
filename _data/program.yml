@@ -2,19 +2,19 @@
   id: 1
   title: Udržitelný rozvoj
   desc: Chceme rovnoměrný a pro obyvatele příznivý rozvoj města. Naší vizí je město krátkých vzdáleností, kde máte vše na dosah ruky. Chceme zásadně zvýšit povědomí veřejnosti o územním plánu a dalších nástrojích územního plánování a posílit její účast.
-  garant: jan.bradejs
+  garant: petr.karel
   redmine: 29996
 -
   id: 2
   title: Dostupné a kvalitní školství
   desc: Věříme, že kvalitní vzdělání je cestou k dobře fungující společnosti, proto si zaslouží velkou pozornost. Chceme, aby se Praha 9 jako zřizovatel většiny mateřských a základních škol aktivně zajímalo o potřeby dětí, rodičů i pedagogů a bylo partnerem pro řešení aktuálních problémů.
-  garant: jan.bradejs
+  garant: kornielie.gottmanova
   redmine: 30012
 -
   id: 3
   title: Plynulá doprava
-  desc: Věříme, že kvalitní vzdělání je cestou k dobře fungující společnosti, proto si zaslouží velkou pozornost. Chceme, aby se Praha 9 jako zřizovatel většiny mateřských a základních škol aktivně zajímalo o potřeby dětí, rodičů i pedagogů a bylo partnerem pro řešení aktuálních problémů.
-  garant: jan.bradejs
+  desc: Chceme vyvážený podíl jednotlivých způsoby dopravy. Cestování po městě musí být s co nejmenším zdržením, bezpečné a pohodlné, ať už jdete pěšky, jedete MHD, na kole nebo autem. Podporujeme výstavbu obchvatů, ale odmítáme alibistické tvrzení, že bez obchvatů nejde nic zlepšit. Jde to a víme jak!
+  garant: ondrej.kalis
   redmine: 30036
 -
   id: 4
@@ -26,17 +26,17 @@
   id: 5
   title: Bezpečné město
   desc: Bezpečnost je základem k zajištění chodu moderního města, veřejné infrastruktury a veřejných služeb. Musí však fungovat účelně a ve prospěch všech obyvatel města.
-  garant: aneta.heidlova
+  garant: 
   redmine: 30060
 -
   id: 6
   title: Více stromů, méně veder
   desc: Ulice, náměstí a parky jsou součástí našeho domova. Vnímáme je jako místa setkávání a příjemného a zdravého trávení času. Proto jejich rozvoji a údržbě věnujeme pozornost, jakou si zaslouží. Zeleň město zkrášluje a pomáhá mu, upravuje teplotu, prašnost a vlhkost. Aby nám mohla dobře sloužit, potřebuje přiměřenou péči.
-  garant: jan.bradejs
+  garant: kornielie.gottmanova
   redmine: 30062
 -
   id: 7
   title: Kultura a sport na Devítce
   desc: Život není jen o práci, ale i o volném čase. Chceme město plné různorodých událostí, aby si každý vybral, co se mu líbí, a mohl objevovat nové věci. Kultura též dokáže nenásilným způsobem otevírat palčivá společenská témata a působit tak jako kultivátor veřejného prostoru. Budeme pokračovat v cestě vytyčené schválenou strategií pro kulturu a kreativitu.
-  garant: kamila.viktorinova
+  garant: 
   redmine: 30064
