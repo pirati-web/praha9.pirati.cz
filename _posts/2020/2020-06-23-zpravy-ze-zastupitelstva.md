@@ -5,7 +5,7 @@ title: Zprávy ze zastupitelstva
 date: 2020-06-23
 author: Václav Vislous
 authorId: vaclav.vislous
-image: posts/studie-podebradska.jpg
+image: articles/2018/2018-06-26-volebni-obvody.png
 ---
 
 <p style='text-align: justify;'>V úterý 23. června proběhlo první zastupitelstvo MČ Praha 9 od začátku koronavirové krize. A proto jsme měli na pořadu dne celou řádku odložených tisků.</p>
