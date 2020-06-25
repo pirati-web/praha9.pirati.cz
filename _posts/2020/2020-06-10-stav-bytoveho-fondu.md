@@ -1,7 +1,6 @@
 ---
 date: 2020-06-10
 category: blog
-#tags: bydlení
 layout: post
 title: Stav bytového fondu Prahy 9, správcovská firma TOMMI a koronavirus
 author: Václav Okapa
