@@ -6,7 +6,7 @@ layout: post
 title: Stav bytového fondu Prahy 9, správcovská firma TOMMI a koronavirus
 author: Václav Okapa
 authorId: 
-image: 
+image: posts/studie-podebradska.jpg
 ---
 
 <p style='text-align: justify;'>
