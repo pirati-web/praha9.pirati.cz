@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: >-
-  V době koronakrize táhneme za jeden provaz
+  Zprávy z osmého zastupitelstva MČ Praha 9
 date: '2020-02-12'
 author: Václav Vislous
 authorId: vaclav.vislous
