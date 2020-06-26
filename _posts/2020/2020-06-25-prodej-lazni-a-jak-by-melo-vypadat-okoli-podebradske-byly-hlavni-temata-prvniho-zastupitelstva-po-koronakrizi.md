@@ -21,7 +21,11 @@ image: posts/studie-podebradska.jpg
 
 <p style='text-align: justify;'>Po pauze na oběd jsme pokračovali tisky z oblasti pozemků - MČ nepronajala nevhodné pozemky pro montovanou lezeckou stěnu, prodala malý pozemek, na kterém stojí schody vedlejší budovy (řešení historických omylů), schválila záměr nabýt chybějících 14 m2 ve vinici Máchalka od státu a také odejmutí pozemku pod gymnáziem J. Seiferta zpátky na magistrát (který je obecně zodpovědný za střední školství). </p>
 
+<img src="https://praha9.pirati.cz/assets/img/posts/lazne01.jpg" alt="Vnější pohled na budovu bývalých lázní"/>
+
 <p style='text-align: justify;'>Hlavním bodem této části však bylo schválení záměru na prodej budovy starých lázní za ulicí Mlékárenskou přilehlému soukromému domu seniorů. Budova je desítky let nevyužívaná a MČ ji dle vlastních slov neumí dobře využít. Nemluvě o velmi nákladné rekonstrukci, kterou nutně vyžaduje. Naopak dům seniorů již nyní využívá tamní zahradu a potřebuje prostor pro rozšíření. Schválení záměru znamená začátek cesty k hledání obvyklé ceny a smluvních podmínek, o kterých pak ještě budeme několikrát jednat, před případným samotným prodejem.</p>
+
+<img src="https://praha9.pirati.cz/assets/img/posts/lazne02.jpg" alt="Vnitřní pohled na budovu bývalých lázní"/>
 
 <p style='text-align: justify;'>Poté jsme se bavili o opatřeních spojených s koronavirem. Hlavně jsme diskutovali odpuštění nájmu podnikatelům a komplikacím s ním spojenými, stejně jako prozatímní účet za opatření, která MČ v této věci udělala.</p>
 
