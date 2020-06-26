@@ -8,7 +8,7 @@ author: Václav Vislous
 authorId: vaclav.vislous
 image: articles/2020/prosek_court.jpg
 ---
-<p style='text-align: justify;'>V úterý 11.2. proběhlo osmé jednání zastupitelstva Prahy 9, kde se probíraly následující body:
+<p style='text-align: justify;'>V úterý, 11. února 2020 proběhlo osmé jednání zastupitelstva Prahy 9, kde se probíraly následující body:
 </p><p style='text-align: justify;'>
 Rozpočet: Hospodaření městské části výrazně pomůže zvýšení příjmů z daně z nemovitých věcí, která se zvýšila pro právnické osoby. Díky tomu se provozní hospodaření MČ může dostat do černých čísel. Nicméně obří investiční apetit, financovaný z peněz z privatizace není dlouhodobě udržitelný. Zároveň MČ chybí strategické pozemky pro další rozvoj, a proto jsme apelovali na to, aby MČ našla vhodné pozemky pro nákup. Ty zároveň umožní efektivnější investici peněz občanů, než téměř nulové úroky na účtech, ale i řešení chybějící veřejné vybavenosti operativnějším způsobem. Budoucnost MČ bychom měli mít co nejvíce v našich rukou. Návrh má podporu místostarosty Portlíka, proto věříme, že se bude brzy realizovat.
 </p><p style='text-align: justify;'>
