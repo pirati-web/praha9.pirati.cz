@@ -28,6 +28,6 @@ Václav vystudoval ekonomii na Univerzitě Karlově v Praze a manažerskou a fin
 U Pirátů se zaměřuje se na strategický rozvoj a hospodaření s majetkem. Jeho hlavním cílem je, aby radnice vytvořila ucelenou strategii svého dlouhodobého rozvoje. Přestože totiž Prahu 9 čeká extrémně rychlý růst, radnice dosud nemá odpovídající plán rozvoje dopravy, školství, zdravotnictví a sociálních služeb, který by na to kompetentně reagoval.
 </p>
 <br />
-<iframe src="https://calendar.google.com/calendar/embed?height=560&amp;wkst=2&amp;bgcolor=%23616161&amp;ctz=Europe%2FPrague&amp;src=dmFjbGF2LnZpc2xvdXNAcGlyYXRpLmN6&amp;color=%23D81B60&amp;showTabs=1&amp;showCalendars=0&amp;showPrint=0&amp;showDate=1&amp;showTitle=0" style="border:solid 1px #777" width="670" height="560" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=560&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FPrague&amp;src=dmFjbGF2LnZpc2xvdXNAcGlyYXRpLmN6&amp;color=%23D81B60&amp;showTabs=1&amp;showCalendars=0&amp;showPrint=0&amp;showDate=1&amp;showTitle=0" style="border:solid 1px #777" width="670" height="560" frameborder="0" scrolling="no"></iframe>
 
 ---
