@@ -3,7 +3,7 @@ layout: post
 category: blog
 title: >-
   Prodej lázní a jak by mělo vypadat okolí Poděbradské byla hlavní témata
-  prvního zastupitelstva po koronakrizi
+  prvního zastupitelstva po první vlně koronakrize
 date: '2020-06-25'
 author: Václav Vislous
 authorId: vaclav.vislous
