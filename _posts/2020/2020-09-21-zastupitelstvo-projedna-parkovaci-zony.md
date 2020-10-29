@@ -1,7 +1,8 @@
 ---
 layout: post
 category: blog
-title: Zastupitelstvo projedná parkovací zóny
+title: >-
+  Zastupitelstvo projedná parkovací zóny
 date: 2020-09-21
 author: Václav Vislous
 authorId: vaclav.vislous
