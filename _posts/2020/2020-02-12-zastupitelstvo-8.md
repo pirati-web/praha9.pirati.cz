@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title: >-
-  Zprávy z osmého zastupitelstva MČ Praha 9
+  Únovoré zastupitelstvo: Piráti chtějí lepší hospodaření Prahy 9 s pozemky. Míříme i na Prosek Court a další kauzy MČ
 date: '2020-02-12'
 author: Václav Vislous
 authorId: vaclav.vislous
