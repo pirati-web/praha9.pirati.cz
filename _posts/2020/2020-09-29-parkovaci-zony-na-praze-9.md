@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title:  >-
-  Mapa parkovacích zón změněna
+  Dosáhli jsme změny rozdělení mapy parkovacích zón
 date: '2020-09-29'
 author: Václav Vislous
 authorId: vaclav.vislous
