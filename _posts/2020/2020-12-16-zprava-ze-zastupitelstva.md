@@ -15,7 +15,7 @@ Protože projednávání rozpočtu městské části ještě nebylo dokončeno, 
 </p><p style='text-align: justify;'>
 Dále zastupitelé schválili přijetí dotací od státu pro posílení mezd zaměstnanců ve školství a sociálních službách. Také byly poskytnuty dotace na opravu herního povrchu a osvětlení na SK Praga Vysočany a také dotace pro Divadlo AHA!, které (kvůli nucenému omezení kapacity) mělo omezené příjmy ze svých představení pro děti.
 </p><p style='text-align: justify;'>
-<iframe width="670px" height="407px" src="https://www.youtube.com/embed/zF7QxrX1lTw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="720px" height="437px" src="https://www.youtube.com/embed/zF7QxrX1lTw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <i>Předsedkyně Pirátů na Devítce Kornélia Gottmannová mluví o prioritách ve školství.</i>
 </p><p style='text-align: justify;'>
 Na programu bylo také několik tisků v rámci privatizace bytového fondu, který dále pokračuje ve valné většině za zvýhodněnou cenu 13.500 Kč/m2 pro stávající nájemce, která s nimi byly domluveny již v minulosti. Zastupitelstvo schválilo i povolení ke splátkám dluhu u jednoho bývalého nájemníka.
