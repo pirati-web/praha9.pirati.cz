@@ -14,8 +14,8 @@ Toto úterý, 15. prosince, se konalo poslední letošní Zastupitelstvo MČ Pra
 Protože projednávání rozpočtu městské části ještě nebylo dokončeno, tak stejně jako ve všech předchozích letech zastupitelstvo jednohlasně schválilo tzv. rozpočtové provizorium, které bude platit nejméně do konce března. První místostarosta Tomáš Portlík (ODS) chce v každé kapitole příští rok ušetřit 5-10 % nákladů. Náš předseda zastupitelského klubu Václav Vislous na jednu stranu pochválil snahu o udržení městských financí na uzdě. Na druhou stranu ale poznamenal, že kvůli tomu budou chybět peníze v už nyní podfinancovaných oblastech, jako životní prostředí (údržba parků, úklid), školství a bezpečnost. “Úspory nesmí jít na úkor již nyní podfinancovaných oblastí.” Jednání v jednotlivých komisích budou pokračovat v příštím roce.
 </p><p style='text-align: justify;'>
 Dále zastupitelé schválili přijetí dotací od státu pro posílení mezd zaměstnanců ve školství a sociálních službách. Také byly poskytnuty dotace na opravu herního povrchu a osvětlení na SK Praga Vysočany a také dotace pro Divadlo AHA!, které (kvůli nucenému omezení kapacity) mělo omezené příjmy ze svých představení pro děti.
-</p><p style='text-align: center;'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zF7QxrX1lTw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+</p><p style='text-align: justify;'>
+<iframe width="100%" src="https://www.youtube.com/embed/zF7QxrX1lTw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <i>Předsedkyně Pirátů na Devítce Kornélia Gottmannová mluví o prioritách ve školství.</i>
 </p><p style='text-align: justify;'>
 Na programu bylo také několik tisků v rámci privatizace bytového fondu, který dále pokračuje ve valné většině za zvýhodněnou cenu 13.500 Kč/m2 pro stávající nájemce, která s nimi byly domluveny již v minulosti. Zastupitelstvo schválilo i povolení ke splátkám dluhu u jednoho bývalého nájemníka.
