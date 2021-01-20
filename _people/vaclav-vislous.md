@@ -27,7 +27,7 @@ Václav vystudoval ekonomii na Univerzitě Karlově v Praze a manažerskou a fin
 </p><p style='text-align: justify;'>
 U Pirátů se zaměřuje se na strategický rozvoj a hospodaření s majetkem. Jeho hlavním cílem je, aby radnice vytvořila ucelenou strategii svého dlouhodobého rozvoje. Přestože totiž Prahu 9 čeká extrémně rychlý růst, radnice dosud nemá odpovídající plán rozvoje dopravy, školství, zdravotnictví a sociálních služeb, který by na to kompetentně reagoval.
 </p>
-<p style='text-align: justify;'>Za svou práci v zastupitelstvu pobírá od MČ Praha 9 hrubou měsíční odměnu ve výši 9.302 Kč. Její výše vyplývá z <a href="https://www.zakonyprolidi.cz/cs/2017-318" target="_blank">Nařízení vlády č. 318/2017 Sb.</a>, a dále z <a href="https://praha9.cz/sites/default/files/downloads/import/z-18-0118-us_0.pdf" target="_blank">usnesení Zastupitestva MČ Praha 9</a>.
+<p style='text-align: justify;'>Za svou práci v zastupitelstvu pobírá od MČ Praha 9 hrubou měsíční odměnu ve výši 9.302 Kč. Její výše vyplývá z <a href="https://www.zakonyprolidi.cz/cs/2017-318" target="_blank">Nařízení vlády č. 318/2017 Sb.</a>, a dále z <a href="https://praha9.cz/sites/default/files/downloads/import/z-20-018-us_0.pdf" target="_blank">usnesení Zastupitestva MČ Praha 9</a>.
 </p>
 <h2>Veřejný kalendář</h2>
 <iframe src="https://calendar.google.com/calendar/embed?height=560&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FPrague&amp;src=dmFjbGF2LnZpc2xvdXNAcGlyYXRpLmN6&amp;color=%23212121&amp;showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0" style="border:solid 1px #777" width="670" height="560" frameborder="0" scrolling="no"></iframe>
