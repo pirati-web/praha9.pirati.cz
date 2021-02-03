@@ -50,7 +50,7 @@ bottom:
         name: Přidejte se k nám
       - link: /kontakt/
         name: Napište nám
-      - link: https://pirati.cz/
+      - link: /kontakt/
         name: Zadavatel/Zpracovatel: Piráti
   - class: small-12 medium-4
     title: Pracujeme
