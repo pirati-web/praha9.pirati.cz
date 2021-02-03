@@ -2,7 +2,7 @@
 uid: ilona.chromova
 name: Ilona Chromová
 titles:
-  before: Mgr.
+  before: Mgr. et Mgr.
 category:
   - clenove
   - kandidat-obec
@@ -17,7 +17,7 @@ profiles:
 ---
 <p style='text-align: justify;'>Mgr. Ilona Chromová je členkou Pirátů na Praze 9.
 </p><p style='text-align: justify;'>
-Ilona vystudovala VŠ UJEP v Ústí nad Labem, obor Vychovatelství pro speciálně pedagogické instituce, v současné době studuje obor Andragogika na VŠ UJAK v Praze. Po mateřské dovolené nastoupila do firmy Hartmann Rico, kde kontrolovala kvalitu výrobků připravených k expedici.
+Ilona vystudovala VŠ UJEP v Ústí nad Labem, obor Vychovatelství pro speciálně pedagogické instituce a také obor Andragogika na VŠ UJAK v Praze. Po mateřské dovolené nastoupila do firmy Hartmann Rico, kde kontrolovala kvalitu výrobků připravených k expedici.
 </p><p style='text-align: justify;'>
 V roce 2006 nastoupila k Městské policii hl. Města Praha, kde zastávala pozici administrativní pracovnice OŘ MP Praha 5. Protože se přestěhovala na sever republiky a bylo časově náročné dojíždění, nastoupila k Městské policii Most, kde téměř 10 let působila jako tisková mluvčí. Současně s pozicí tiskové mluvčí městské policie získala manažerské zkušenosti jako manažerka prevence kriminality města Mostu.
 </p><p style='text-align: justify;'>
