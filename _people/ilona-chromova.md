@@ -6,7 +6,8 @@ titles:
 category:
   - clenove
   - kandidat-obec
-description: 
+  - komise
+description: Bezpečnostní komise
 img: people/ilona-chromova.jpg
 age: 44
 mail:
@@ -15,7 +16,7 @@ mail:
 profiles:
   #facebook: https://www.facebook.com/
 ---
-<p style='text-align: justify;'>Mgr. Ilona Chromová je členkou Pirátů na Praze 9.
+<p style='text-align: justify;'>Mgr. Ilona Chromová je členkou Pirátů na Praze 9 a působí také v Komisi pro bezpečnost MČ Praha 9.
 </p><p style='text-align: justify;'>
 Ilona vystudovala VŠ UJEP v Ústí nad Labem, obor Vychovatelství pro speciálně pedagogické instituce a také obor Andragogika na VŠ UJAK v Praze. Po mateřské dovolené nastoupila do firmy Hartmann Rico, kde kontrolovala kvalitu výrobků připravených k expedici.
 </p><p style='text-align: justify;'>

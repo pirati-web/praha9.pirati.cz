@@ -8,7 +8,7 @@ category:
   - komise
 ordZas: 6
 ordKom: 5
-description: Zastupitel Prahy 9, Školská a bezpečnostní komise
+description: Zastupitel Prahy 9, Školská komise
 img: people/petr-daubner.jpg
 mail:
   - petr.daubner@pirati.cz
