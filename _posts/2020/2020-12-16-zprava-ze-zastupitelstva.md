@@ -3,7 +3,7 @@ layout: post
 category: blog
 title:  >-
   Zprávy ze zastupitelstva
-date: '2020-09-29'
+date: '2020-12-16'
 author: Václav Vislous
 authorId: vaclav.vislous
 image: articles/2020/zastupitelstvo.jpg
