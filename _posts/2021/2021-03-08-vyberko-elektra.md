@@ -3,7 +3,7 @@ layout: post
 category: blog
 title:  >-
   Kdo postaví ZŠ a MŠ U Elektry
-date: '2020-03-08'
+date: '2021-03-08'
 author: Václav Vislous
 authorId: vaclav.vislous
 image: posts/elektra-vizual.png
