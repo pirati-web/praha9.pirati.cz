@@ -19,17 +19,17 @@ Připomeňme si, že je obzvláště Základní škola v této oblasti nesmírn�
 </p><p style='text-align: justify;'>
 Po její dostavbě se bude jednat zřejmě o největší základní školu v Praze na tak malém pozemku. Hřiště pro děti bude na střeše a v okolí nebude žádná slušná rozptylová plocha. Dlouho se také řešila otázka příjezdové komunikace, která sice doznala v projektu změny, ale stále je limitovaná daným prostorem. 
 </p><p style='text-align: justify;'>
-<img src="posts/elektra-doprava.png" alt="Elektra Dopravní řešení">
+<img src="https://praha9.pirati.cz/assets/img/posts/elektra-doprava.png" alt="Elektra Dopravní řešení">
 </p><p style='text-align: justify;'>
 Piráti své připomínky na zastupitelstvu i na příslušných komisích ve velkém detailu představili opakovaně. Nicméně na dílčí úpravy byl hlavní závěr vládnoucí koalice takový, že tento rozjetý vlak je už pozdě zastavovat a hledat lepší řešení (čti umístění). Jako opozice jsme tedy přistoupili k tomu, že jsme se alespoň v rámci projektu pokusili dosáhnout maxima možného.
 </p><p style='text-align: justify;'>
 Hlavním přínosem, se kterým přišla předsedkyně Pirátů na Praze 9 Kornélia Gottmannová bylo, že se oslovila Česká pošta. Ta na pozemcích sousedících s místem výstavby Elektry vlastní rozsáhlý pozemek, na kterém stojí budova bývalého PostServisu. Na základě naší iniciativy tak, po měsíci výmluv, že s námi pošta nebude jednat, vstoupila MČ Praha 9 do jednání s Českou poštou. A zatím to vypadá tak, že se velkou část těchto pozemků podaří získat. 
 </p><p style='text-align: justify;'>
-<img src="posts/elektra-situace.png" alt="Elektra Situace">
+<img src="https://praha9.pirati.cz/assets/img/posts/elektra-situace.png" alt="Elektra Situace">
 </p><p style='text-align: justify;'>
 Dokonce byla vypracována studie, která celou oblast řeší. Městská část by tak mohla získat pozemky dále od hlavní komunikace, na kterých by po demolici stávající budovy PostServisu mohly vzniknout další prostory pro využití školy (nicméně v rámci plánu místo na zeleň a venkovní hřiště použité na výstavbu dalšího pavilonu).
 </p><p style='text-align: justify;'>
-<img src="posts/elektra-kompozice.png" alt="Elektra Situace">
+<img src="https://praha9.pirati.cz/assets/img/posts/elektra-kompozice.png" alt="Elektra Situace">
 </p><p style='text-align: justify;'>
 V jaké fázi jsme tedy nyní? Minulý týden Rada MČ bez konzultace našeho zastupitelského klubu (což se bohužel děje často) nominovala předsedkyni školské komise Kornélii Gottmannovou do komise, která má hodnotit nabídky v zadávacím řízení. Veřejnou zakázku můžete najít <a href="https://www.e-zakazky.cz/profil-zadavatele/481d7a41-8176-4a42-9f2d-23d1a76134f5/zakazka/P20V00000008" target="_blank">zde</a>. Hlasovat se má per rollam a na vyhodnocení celé takto komplexní věci jsme dostali pouhý týden času!
 </p><p style='text-align: justify;'>
@@ -37,7 +37,7 @@ Nyní se snažíme, seč to jde prokousat nabídkami a co nejlépe jej vyhodnoti
 </p><p style='text-align: justify;'>
 Víme, že toto téma zajímá opravdu hodně z vás, takže pokud máte další dotazy, tak se rádi pokusíme v rámci možností tyto zodpovědět. A jak by mohla oblast vypadat, pokud se podaří domluvit se s Českou poštou? Podívejte se na fotky níže:
 </p><p style='text-align: justify;'>
-<img src="posts/elektra-vizualizace2.png" alt="Elektra Situace">
+<img src="https://praha9.pirati.cz/assets/img/posts/elektra-vizualizace2.png" alt="Elektra Situace">
 </p><p style='text-align: justify;'>
-<img src="posts/elektra-vizualizace.png" alt="Elektra Situace">
+<img src="https://praha9.pirati.cz/assets/img/posts/elektra-vizualizace.png" alt="Elektra Situace">
 </p>
