@@ -18,7 +18,7 @@ Typickým příkladem z naší městské části, na který dlouhodobě upozorň
 Minulý týden zahořel velkokapacitní kontejner v bezprostřední blízkosti obytného domu ve vnitrobloku mezi ulicemi Poštovská a Pod Strojírnami. Plameny sahaly do výše několika metrů a nájemníci bytů se oprávněně obávali, aby se požár nerozšířil do jejich obydlí. Hasiči byli na místě téměř okamžitě. Logicky položená otázka „Odkud tedy hasiči požár uhasili, když by ulicí Poštovskou neprojeli?“, je na místě. Aby požár zlikvidovali, museli protáhnout hasicí techniku skrz dům z ulice Kolbenova.
 </p><p style='text-align: justify;'>
 <iframe width="720px" height="437px" src="https://www.youtube.com/embed/7_gfR-4bwzY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<i>Záběry na požár obytného domu mezi ulicemi Poštovská a Pod Strojírnami.</i>
+<i>Záběry na požár velkokapacitního kontejneru v blízkosti obytného domu.</i>
 </p><p style='text-align: justify;'>
 Ulice Poštovská jistě není jedinou v Praze 9, kde vozidla tvoří překážku projíždějícím vozidlům. Jak efektivně problém řešit? Městská část Prahy 9, potažmo příslušná městská policie o problému ví, ale řešení z jejich strany nejsou dostatečně důrazná. Doufejme, že se v brzké době dočkáme řešení.
 </p>
