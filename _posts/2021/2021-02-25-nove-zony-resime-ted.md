@@ -3,7 +3,7 @@ layout: post
 category: blog
 title:  >-
   Nové zóny řešíme s vámi
-date: '2021-02-02'
+date: '2021-02-25'
 author: Václav Vislous
 authorId: vaclav.vislous
 image: articles/2020/parkovani2.jpg
