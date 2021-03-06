@@ -9,7 +9,7 @@ authorId: vaclav.vislous
 image: posts/elektra-vizual.png
 ---
 <p style='text-align: justify;'>
-Nejprve jedna dobrá zpráva! Projekt výstavby ZŠ a MŠ U Elektry se posunul do další fáze. Už od listopadu běží opakované výběrové řízení na toho, kdo postaví tuto tolik potřebnou stavbu. Je to zřejmě největší projekt, který se tu bude za dlouhé roky realizovat, a proto jej dlouhodobě sledujeme.
+Nejprve jedna dobrá zpráva! Projekt výstavby ZŠ a MŠ U Elektry se posunul do další fáze. Už od listopadu běží opakované výběrové řízení na toho, kdo postaví tuto tolik potřebnou stavbu. A nyní jsme ve fázi výběru vítězné nabídky. Je to zřejmě největší projekt, který se tu bude za dlouhé roky realizovat, a proto jej dlouhodobě sledujeme.
 </p><p style='text-align: justify;'>
 Spousta z vás se určitě zeptá na to, proč tolikrát slibovaná Elektra ještě nestojí. Pojďme si tedy alespoň částečně zrekonstruovat události posledního zhruba roku. MČ Praha 9 se podařilo získat stavební povolení zhruba před rokem, na konci února 2020. Tehdy místostarosta Portlík veřejně sliboval zahájit výstavbu do podzimu. Nestalo se. 
 </p><p style='text-align: justify;'>
