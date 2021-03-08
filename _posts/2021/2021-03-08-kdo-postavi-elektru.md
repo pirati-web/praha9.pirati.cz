@@ -40,4 +40,6 @@ Víme, že toto téma zajímá opravdu hodně z vás, takže pokud máte další
 <img src="https://praha9.pirati.cz/assets/img/posts/elektra-vizualizace2.png" alt="Elektra Situace">
 </p><p style='text-align: justify;'>
 <img src="https://praha9.pirati.cz/assets/img/posts/elektra-vizualizace.png" alt="Elektra Situace">
+</p><p style='text-align: justify;'>
+Zdroje vizuálů: Studie MČ Praha 9
 </p>
