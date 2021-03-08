@@ -33,7 +33,9 @@ Dokonce byla vypracována studie, která celou oblast řeší. Městská část 
 </p><p style='text-align: justify;'>
 V jaké fázi jsme tedy nyní? Minulý týden Rada MČ bez konzultace našeho zastupitelského klubu (což se bohužel děje často) nominovala předsedkyni školské komise Kornélii Gottmannovou do komise, která má hodnotit nabídky v zadávacím řízení. Veřejnou zakázku můžete najít <a href="https://www.e-zakazky.cz/profil-zadavatele/481d7a41-8176-4a42-9f2d-23d1a76134f5/zakazka/P20V00000008" target="_blank">zde</a>. Hlasovat se má online zasláním emailu a na vyhodnocení celé takto komplexní věci dostala pouhý týden času.
 </p><p style='text-align: justify;'>
-Nyní se snažíme, v tomto šibeničním termínu, se prokousat nabídkami, a co nejlépe je vyhodnotit. Co můžeme říct už nyní? Kvůli utajení toho zatím není mnoho. Přihlásilo se šest účastníků. A jsou mezi nimi i velké firmy. To je obecně dobře, protože to poukazuje na významný status této stavby. Jakmile to bude možné, přineseme další informace. A kdy by se mohlo začít stavět? Pokud půjde vše dobře, tak ještě na jaře.
+Nyní se snažíme, v tomto šibeničním termínu, se prokousat nabídkami, a co nejlépe je vyhodnotit. (EDIT: Po uzávěrce tohoto článku se podařilo termín vyhodnocení posunout o týden.) 
+</p><p style='text-align: justify;'>
+Co můžeme říct už nyní? Kvůli utajení toho zatím není mnoho. Přihlásilo se šest účastníků. A jsou mezi nimi i velké firmy. To je obecně dobře, protože to poukazuje na významný status této stavby. Jakmile to bude možné, přineseme další informace. A kdy by se mohlo začít stavět? Pokud půjde vše dobře, tak ještě na jaře.
 </p><p style='text-align: justify;'>
 Víme, že toto téma zajímá opravdu hodně z vás, takže pokud máte další dotazy, rádi se je pokusíme v rámci našich možností zodpovědět. A jak by mohla oblast vypadat, pokud se podaří domluvit se s Českou poštou? Podívejte se na fotky níže:
 </p><p style='text-align: justify;'>
