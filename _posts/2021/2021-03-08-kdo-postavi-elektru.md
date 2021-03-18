@@ -41,7 +41,7 @@ Víme, že toto téma zajímá opravdu hodně z vás, takže pokud máte další
 </p><p style='text-align: justify;'>
 <img src="https://praha9.pirati.cz/assets/img/posts/elektra-vizualizace.png" alt="Elektra Situace">
 </p><p style='text-align: justify;'>
-Veřejnou zakázku si lze prohlédnout <a href="https://www.e-zakazky.cz/profil-zadavatele/481d7a41-8176-4a42-9f2d-23d1a76134f5/zakazka/P20V00000008" target="_blank">zde</a>.
-Zpracovatele projektu si lze prohlédnout <a href="Zpracovatel_Elektra.pdf" target="_blank">zde</a>.
+Veřejnou zakázku si lze prohlédnout <a href="https://www.e-zakazky.cz/profil-zadavatele/481d7a41-8176-4a42-9f2d-23d1a76134f5/zakazka/P20V00000008" target="_blank">zde</a>.<br>
+Zpracovatele projektu si lze prohlédnout <a href="https://vaclavvislous.cz/Zpracovatel_Elektra.pdf" target="_blank">zde</a>.<br>
 Zdroje vizuálů: Studie MČ Praha 9
 </p>
