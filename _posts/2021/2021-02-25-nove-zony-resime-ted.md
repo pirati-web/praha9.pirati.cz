@@ -11,7 +11,7 @@ image: articles/2020/parkovani2.jpg
 <p style='text-align: justify;'>
 Dlouhodobě řešíme otázku zavádění nových parkovacích zón. Z pozice opozice máme sice omezené možnosti, ale snažíme se v rámci systému lobbovat za změny tak, aby byl co možná nejlépe nastavený. Takovým způsobem se nám například podařilo změnit rozdělení MČ Praha 9 na tři menší části (kde byly nelogicky spojeny Nové Vysočany se Střížkovem) na pouhé dvě, rozdělené čárou železniční (vysočanské) tratě.
 </p><p style='text-align: justify;'>
-Opakovaně jsme se také věnovali některým problémovým lokalitám. V jedné z nich jsem se už před časem sešel s místními poté, co se objevilo nové značení, které bylo nastaveno tak špatně, že by umožnilo v některých oblastech parkování mnohem omezenějšího počtu aut a navíc výrazně ztížilo možnost průjezdu pro popeláře a záchranku. 
+Opakovaně jsme se také věnovali některým problémovým lokalitám. Největší pozornost jsme na základě podnětů občanů věnovali Krocínce. Tam jsem se opakovaně sešel s místními poté, co se objevilo nové značení, které bylo nastaveno tak špatně, že by umožnilo v některých oblastech parkování mnohem omezenějšího počtu aut a navíc výrazně ztížilo možnost průjezdu pro popeláře a záchranku. 
 </p><p style='text-align: justify;'>
 Na základě připomínek sesbíraných od celé řady místních jsem požádali radního pro dopravu, pana Tomáše Holečka (ODS), o přehodnocení řešení zón v této oblasti, které by je reflektovalo. Podobně jsme společně s panem radním diskutovali i potřebu změn v oblasti vilové zástavby na Střížkově a v Litvínovské ulici. A jsme za to, co se podařilo změnit rádi. 
 </p><p style='text-align: justify;'>
