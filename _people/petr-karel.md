@@ -17,7 +17,7 @@ mail:
 profiles:
   facebook: 
 ---
-<p style='text-align: justify;'>Ing. Petr Karel je člen Pirátů a zastupitel na MČ Praha 9. Na Radnici Prahy 9 působí v Kontrolním výboru, Komisi pro životní prostředí a dopravu, Komisi pro územní rozvoj a Sociálně-zdravotní komisi.
+<p style='text-align: justify;'>Ing. Petr Karel je člen Pirátů a zastupitel na MČ Praha 9. Na Radnici Prahy 9 působí v Kontrolním výboru, Komisi pro životní prostředí a dopravu a Komisi rozvoje území.
 </p><p style='text-align: justify;'>
 Petr vystudoval VŠCHT Praha a 12 let byl projektantem měření a regulace a systémů ASŘTP. Působil i jako hlavní metrolog a manažer v PVK. Své zkušenosti uplatňuje v územním rozvoji.
 </p><p style='text-align: justify;'>

@@ -17,7 +17,7 @@ profiles:
   facebook: 
 ---
 <p style='text-align: justify;'>
-Mgr. Petr Daubner je člen Pirátů a zastupitel na MČ Praha 9. Na Radnici Prahy 9 působí ve Školské a Bezpečnostní komisi.
+Mgr. Petr Daubner je člen Pirátů a zastupitel na MČ Praha 9. Na Radnici Prahy 9 působí ve Školské a sociálně-zdravotní komisi.
 </p><p style='text-align: justify;'>
 Petr vystudoval Přírodovědeckou a Filosofickou fakultu Univerzity Karlovy v Praze. Nejdříve učil na základní škole, od roku 2007 působí jako učitel dějepisu a zeměpisu na Gymnáziu Špitálská v Praze-Vysočanech. Je autorem internetové učebnice dějepisu pro střední školy.
 </p><p style='text-align: justify;'>
