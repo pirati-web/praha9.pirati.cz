@@ -21,7 +21,7 @@ Následovalo několik technických bodů - schválení zpráv o inventarizaci, o
 </p><p style='text-align: justify;'>
 Po nich přišla na řadu skupina bodů k územnímu rozvoji. Do konce března byl termín k podání případných požadavků na úpravy koeficientů před vydáním metropolitního plánu. Zamítli jsme mimo jiné projekt, před kterým jsme velmi důsledně varovali i ve své předvolební komunální kampani v roce 2018 o “mrakodrapech nad Rokytkou”. Jak je vidět, investor se nechce svého megalomanského snu jen tak vzdát a naše snaha musí pokračovat. Celkově bych řekl, že se nám daří v této oblasti zásadně posouvat způsob myšlení Radnice moderním směrem a budeme v tom dále pokračovat.
 </p><p style='text-align: justify;'>
-<img src="https://praha9.pirati.cz/assets/img/posts/mrakodrapy2021.jpg" alt="Mrakodrapy nad Rokytkou">
+<img src="https://praha9.pirati.cz/assets/img/posts/mrakodrapy.jpg" alt="Mrakodrapy nad Rokytkou">
 </p><p style='text-align: justify;'>
 Na úplném konci, po několika bodech k zápisům z Výborů a informativních zprávách mělo zastupitelstvo skončit. Místo toho však starosta městské části Jan Jarolím povstal a ohlásil svůj konec na pozici starosty. Místo sebe navrhl 1. místostarostu Tomáše Portlíka. K této nečekané události jsme se vyjádřili v samostatné tiskové zprávě <a>zde</a>.
 </p>
