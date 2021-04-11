@@ -6,7 +6,7 @@ title:  >-
 date: '2021-04-09'
 author: Václav Vislous
  authorId: vaclav.vislous
-image: articles/2021/
+image: articles/2021/zastupitelstvo12.jpg
 ---
 <p style='text-align: justify;'>
 Kvůli pokračujícím omezením způsobeným koronavirem měl být, dle dohody představitelů politických stran v zastupitelstvu Prahy 9, počet bodů co nejvíce omezen a vše, co by mohlo být potenciálně konfliktní předjednáno. Program ale kvůli různým bodům radnice nabobtnal a radnice na samém konci přišla ještě s jedním velkým překvapením - výměnou starosty. Zastupitelstvo se tedy natáhlo až do poloviny odpoledne.
