@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title:  >-
-  Mapa vraků, aneb řešení jednoho dlouhodobého problému
+  Interaktivní mapa vraků, aneb řešení jednoho dlouhodobého problému
 date: '2021-04-11'
 author: Ilona Chromová
 authorId: ilona.chromova
