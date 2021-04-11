@@ -5,7 +5,7 @@ title:  >-
   Reportáž z 12. zastupitelstva MČ Prahy 9
 date: '2021-04-09'
 author: Václav Vislous
- authorId: vaclav.vislous
+authorId: vaclav.vislous
 image: articles/2021/zastupitelstvo12.jpg
 ---
 <p style='text-align: justify;'>
