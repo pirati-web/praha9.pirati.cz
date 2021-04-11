@@ -23,5 +23,5 @@ Po nich přišla na řadu skupina bodů k územnímu rozvoji. Do konce března b
 </p><p style='text-align: justify;'>
 <img src="https://praha9.pirati.cz/assets/img/posts/mrakodrapy.jpg" alt="Mrakodrapy nad Rokytkou">
 </p><p style='text-align: justify;'>
-Na úplném konci, po několika bodech k zápisům z Výborů a informativních zprávách mělo zastupitelstvo skončit. Místo toho však starosta městské části Jan Jarolím povstal a ohlásil svůj konec na pozici starosty. Místo sebe navrhl 1. místostarostu Tomáše Portlíka. K této nečekané události jsme se vyjádřili v samostatné tiskové zprávě <a>zde</a>.
+Na úplném konci, po několika bodech k zápisům z Výborů a informativních zprávách mělo zastupitelstvo skončit. Místo toho však starosta městské části Jan Jarolím povstal a ohlásil svůj konec na pozici starosty. Místo sebe navrhl 1. místostarostu Tomáše Portlíka. K této nečekané události jsme se vyjádřili v samostatné tiskové zprávě <a href="https://praha9.pirati.cz/tiskove-zpravy/novy-starosta/" target="_blank">zde</a>.
 </p>
