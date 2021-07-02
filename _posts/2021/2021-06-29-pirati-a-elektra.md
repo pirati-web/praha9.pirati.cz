@@ -11,17 +11,17 @@ image: articles/2021/nela_elektra.jpg
 <p style='text-align: justify;'>
 Přinášíme vám rozhovor s <a href="https://praha9.pirati.cz/clenove/kornelia-gottmannova/" target="_blank">Kornélií Gottmannovou</a>, předsedkyní Pirátů na Praze 9, o její roli v rámci projektu výstavby ZŠ a MŠ U Elektry.
 </p><p style='text-align: justify;'>
-<b>Kdy jste se poprvé setkala s projektem stavby školy U Elektry?<b>
+<b>Kdy jste se poprvé setkala s projektem stavby školy U Elektry?</b>
 </p><p style='text-align: justify;'>
 Stavba školy byla v plánu už mnoho let jako jeden z předvolebních taháků vládnoucí koalice. Plány na stavbu jsem poprvé viděla na zasedání školské komise počátkem roku 2019. Bohužel se stavba musela dvakrát odložit, poprvé po stížnosti sousedů a podruhé bylo zrušeno výběrové řízení. 
 </p><p style='text-align: justify;'>
-<b>Nešlo tomu zdržení zabránit?<b>
+<b>Nešlo tomu zdržení zabránit?</b>
 </p><p style='text-align: justify;'>
 Z mého pohledu šlo lépe komunikovat s veřejností. Včasným navázáním kontaktů s lidmi z okolí plánované stavby, například veřejným projednáním, včasným vyslechnutím a vypořádáním námitek, by k tak velkému zdržení dojít nemuselo. Tento aspekt bychom v budoucnu neměli podcenit, a proto jsem navrhla, aby radnice o pokračování projektu veřejnost pravidelně informovala prostřednictvím Devítky a sociálních sítí. Součástí projektu by se měl stát mediální plán.
 </p><p style='text-align: justify;'>
 Co se týče zdržení opakováním výběrového řízení, i zde jsme společně s radnicí podnikli kroky minimalizující riziko zdržení ve výběrových řízeních na gastro, interiéry, IT apod., které nás ještě čekají. 
 </p><p style='text-align: justify;'>
-<b>Jaké konkrétní kroky máte na mysli a jakou roli v tom hrají Piráti?<b>
+<b>Jaké konkrétní kroky máte na mysli a jakou roli v tom hrají Piráti?</b>
 </p><p style='text-align: justify;'>
 Začátek spolupráce nebyl jednoduchý. Byla jsem radnicí jmenována členem výběrové komise na dodavatele stavby. Jmenování bylo překvapivé, ačkoliv jsem předsedkyní školské komise a členkou komise územního rozvoje a projekt Elektra byl na zasedáních komisí často diskutovaným tématem. 
 </p><p style='text-align: justify;'>
