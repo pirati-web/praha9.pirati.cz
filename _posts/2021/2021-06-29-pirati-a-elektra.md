@@ -3,7 +3,7 @@ layout: post
 category: blog
 title:  >-
   Piráti a Elektra
-date: '2021-05-19'
+date: '2021-06-29'
 author: Václav Vislous
 authorId: vaclav.vislous
 image: articles/2021/nela_elektra.jpg
