@@ -4,10 +4,8 @@ name: Jan Brandejs
 titles:
   before: 
 category:
-  - mistopredseda_ms
-  - predsednictvo
-ordPre: 2
-description: Místopředseda místního sdružení Praha 9
+  - clenove
+description: 
 img: people/jan-brandejs.jpg
 mail:
   - jan.brandejs@pirati.cz
@@ -15,7 +13,7 @@ mail:
 profiles:
   facebook: 
 ---
-<p style='text-align: justify;'>Jan Brandejs je člen Pirátů a místopředseda Místního sdružení Pirátů na Praze 9. Jan studuje doktorské studium historie na FF UK, kde rovněž přednáší. Zaměřuje se především na dějiny Byzance, středověkého Ruska a částečně také katolické Evropy. Zajímá se o vztah mezi vládnoucími režimy a politickou elitou, vzpourami a společenským vývojem mezi 11. a 14. stoletím.</p>
+<p style='text-align: justify;'>Jan Brandejs je člen Pirátů na Praze 9. Jan studuje doktorské studium historie na FF UK, kde rovněž přednáší. Zaměřuje se především na dějiny Byzance, středověkého Ruska a částečně také katolické Evropy. Zajímá se o vztah mezi vládnoucími režimy a politickou elitou, vzpourami a společenským vývojem mezi 11. a 14. stoletím.</p>
 
 <p style='text-align: justify;'>Z akademického prostředí odešel a nyní se živí jako projektový manažer pro IT. Zaměřuje se na integraci rozsáhlejších administrativních a CRM systémů na míru pro české i nadnárodní společnosti. Zároveň nedávno založil agenturu pro marketing na sociálních sítítch a datovou analytiku se zaměřením na messenger marketing a přidružené služby.</p>
 

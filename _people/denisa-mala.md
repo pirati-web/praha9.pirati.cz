@@ -5,10 +5,8 @@ titles:
   after: DiS.
 category:
   - kandidat-obec
-  - mistopredseda_ms
-  - predsednictvo
-ordPre: 4
-description: Místopředsedkyně místního sdružení Praha 9
+  - clenove
+description: Tajemnice místního sdružení Praha 9
 img: people/denisa-mala.jpg
 age: 41
 mail:
@@ -18,7 +16,7 @@ profiles:
   facebook: 
 ---
 <p style='text-align: justify;'>
-Denisa Malá, Dis. je členkou Pirátů a místopředsedkyní Místního sdružení Pirátů na Praze 9.
+Denisa Malá, Dis. je členkou Pirátů a tajemnicí Místního sdružení Pirátů na Praze 9.
 </p>
 
 
