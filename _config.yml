@@ -93,7 +93,7 @@ exclude:
   - docker-compose.yml
   - vendor
 
-permalink: /tiskove-zpravy/:title
+permalink: /tiskove-zpravy/:title/
 collections:
   people:
     output: true
