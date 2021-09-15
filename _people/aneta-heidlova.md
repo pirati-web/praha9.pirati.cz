@@ -12,6 +12,7 @@ ordKom: 6
 categories: kontaktni_osoba
 description: Zastupitelka hl.m. Prahy a Prahy 9, Komise rozpočtová a pro digitalizaci
 img: people/aneta-heidlova.jpg
+heroImg: Prague_Vysocany_Town_Hall.jpeg
 mail:
   - aneta.heidlova@pirati.cz
  

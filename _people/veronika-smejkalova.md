@@ -8,6 +8,7 @@ category:
   - kandidat-obec
 description: manažerka správy majetků
 img: people/veronika-smejkalova.jpg
+heroImg: Prague_Vysocany_Town_Hall.jpeg
 #mail:
 #  - veronika.smejkalova@pirati.cz
  

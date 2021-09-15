@@ -7,6 +7,7 @@ category:
   - clenove
 description: 
 img: people/jan-brandejs.jpg
+heroImg: Prague_Vysocany_Town_Hall.jpeg
 mail:
   - jan.brandejs@pirati.cz
  

@@ -11,6 +11,7 @@ category:
 ordPre: 4
 description: Místopředsedkyně MS Praha 9, Bezpečnostní komise
 img: people/ilona-chromova.jpg
+heroImg: Prague_Vysocany_Town_Hall.jpeg
 age: 44
 mail:
   - ilona.chromova@pirati.cz

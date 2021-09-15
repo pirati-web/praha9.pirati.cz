@@ -9,6 +9,7 @@ category:
 ordPre: 2
 description: Místopředseda místního sdružení Praha 9
 img: people/vaclav-okapa.jpg
+heroImg: Prague_Vysocany_Town_Hall.jpeg
 mail:
   - vaclav.okapa@pirati.cz
  

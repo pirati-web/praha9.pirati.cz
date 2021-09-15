@@ -8,6 +8,7 @@ category:
   - kandidat-obec
 description: Student
 img: people/jan-zhouf.jpg
+heroImg: Prague_Vysocany_Town_Hall.jpeg
 #mail:
 #  - jan.zhouf@pirati.cz
  

@@ -10,6 +10,7 @@ ordZas: 6
 ordKom: 5
 description: Zastupitel Prahy 9, Školská a sociálně-zdravotní komise
 img: people/petr-daubner.jpg
+heroImg: Prague_Vysocany_Town_Hall.jpeg
 mail:
   - petr.daubner@pirati.cz
  

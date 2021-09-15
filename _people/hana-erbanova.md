@@ -8,6 +8,7 @@ category:
   - kandidat-obec
 description: analytička reportů
 #img: people/t-.jpg
+heroImg: Prague_Vysocany_Town_Hall.jpeg
 #mail:
 #  - hana.erbanova@pirati.cz
  

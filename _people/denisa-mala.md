@@ -8,6 +8,7 @@ category:
   - clenove
 description: Tajemnice místního sdružení Praha 9
 img: people/denisa-mala.jpg
+heroImg: Prague_Vysocany_Town_Hall.jpeg
 age: 41
 mail:
   - denisa.mala@pirati.cz

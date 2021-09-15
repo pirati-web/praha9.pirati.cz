@@ -8,6 +8,7 @@ category:
 
 description: 
 img: people/michal-maly.jpg
+heroImg: Prague_Vysocany_Town_Hall.jpeg
 mail:
   - michal.maly@pirati.cz
  

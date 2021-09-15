@@ -11,6 +11,7 @@ ordZas: 4
 ordKom: 4
 description: Zastupitelka Prahy 9, Komise bytová, sociálně-zdravotní a kultury a sportu
 img: people/kamila-viktorinova.jpg
+heroImg: Prague_Vysocany_Town_Hall.jpeg
 mail:
   - kamila.viktorinova@pirati.cz
  

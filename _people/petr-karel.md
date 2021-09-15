@@ -11,6 +11,7 @@ ordZas: 3
 ordKom: 2
 description: Zastupitel Prahy 9, Kontrolní výbor, Komise ŽP a dopravy a komise rozvoje území
 img: people/petr-karel.jpg
+heroImg: Prague_Vysocany_Town_Hall.jpeg
 mail:
   - petr.karel@pirati.cz
  

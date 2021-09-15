@@ -8,6 +8,7 @@ category:
 
 description: 
 img: people/ondrej-kalis.jpg
+heroImg: Prague_Vysocany_Town_Hall.jpeg
 mail:
   - ondrej.kalis@pirati.cz
 

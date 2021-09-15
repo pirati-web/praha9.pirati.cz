@@ -15,6 +15,7 @@ ordPre: 1
 ordKom: 2
 description: Předseda Pirátů na Praze 9, Finanční výbor, Komise rozpočtová a pro digitalizaci
 img: people/vaclav-vislous.jpg
+heroImg: Prague_Vysocany_Town_Hall.jpeg
 mail:
   - vaclav.vislous@pirati.cz
 mob:

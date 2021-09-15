@@ -7,6 +7,7 @@ category:
   - priznivci
 description: správce nemovitostí
 img: people/petr-pomykal.jpg
+heroImg: Prague_Vysocany_Town_Hall.jpeg
 #mail:
 #  - petr.pomykal@pirati.cz
  
