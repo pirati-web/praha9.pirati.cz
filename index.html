@@ -1,47 +1,13 @@
 ---
 layout: default
-rbar:
-  - calendar
-  - fb
-description: >
-  Piráti od roku 2018 zakotvili i na Praze 9. Prosazujeme transparentní
-  veřejnou správu bez klientelismu a pochybných zakázek. Usilujeme o Prahu 9,
-  která je moderní, přátelská a především ochotná naslouchat svým občanům.
-  Sledujte co je nového a buďte u toho.
 ---
 
-{% include homepage/banner.html
-   link='/clenove/'
-   title='Komunální volby 2018'
-   default='header/komunal-banner-large.png'
-   mobile='header/komunal-banner.jpg'
-   breakpoint=640
-%}
+{% include hero/simple.html headline="Piráti Praha 9" description="Makáme v opozici. Držíme kurz!" bgImg="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Prague_Vysocany_Town_Hall.jpg/1920px-Prague_Vysocany_Town_Hall.jpg" heroSpacing="py-16 lg:pt-32" %}
 
-<div class="row">
-  <div class="medium-12 large-8 columns">
-    <section class="o-section o-section--spaceBot">
-      <div class="o-section-inner o-section-inner--leftBlock">
-        <header class="o-section-header">
-          <h1 class="o-section__heading t-h1-super">Piráti Praha 9</h1>
-          <p>Piráti od roku 2018 zakotvili i na Praze 9. Prosazujeme transparentní
-  veřejnou správu bez klientelismu a pochybných zakázek. Usilujeme o Prahu 9,
-  která je moderní, přátelská a především ochotná naslouchat svým občanům.
-  Sledujte co je nového a buďte u toho.</p>
-        </header>
-        <h2>Aktuálně od Pirátů z Prahy 9</h2>
-        {% for article in site.posts limit: 6 %}
-          {% include articles/horizontal-article.html article=article %}
-        {% endfor %}
-        <div class="c-article-listing__nextbox">
-          <a href="{{'/aktuality/' | relative_url}}" rel="next" class="button expanded large">Další články</a>
-        </div>
-      </div>
-    </section>
-  </div>
-  {% if page.rbar %}
-  <div class="medium-12 large-4 columns">
-    {% include right-bar/rbar.html param='rbar' %}
-  </div>
-  {% endif %}
+<div class="container container--default pt-4 lg:pb-24">
+  {% include homepage/news.html title="Co se děje v Praze 21:" %}
+  {% include homepage/countdown.html deadline="2021-10-08 08:00:00" %}
+  <!-- 2022-10-05 14:00:00 -->
+  {% include homepage/calendar.html %}
+  {% include homepage/social.html %}
 </div>

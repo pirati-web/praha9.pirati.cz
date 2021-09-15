@@ -1,66 +1,42 @@
 top:
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
-    icon: "fa fa-home"
-  - link: "wiki.pirati.cz"
-    url:  "https://wiki.pirati.cz"
-    icon: "fa fa-home"
+    icon: "ico--home"
+  - link: "piratskyobchod.cz"
+    url:  "https://piratskyobchod.cz"
+    icon: "ico--cart"
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
-    icon: "fa fa-newspaper-o"
+    icon: "ico--newspaper"
+
 
 main:
-  - link: /
-    name: Úvod
-    class: hide-for-medium
   - link: /aktuality/
-    name: Aktuálně
-    match: aktuality
-  - link: /pridejte-se/
-    name: Přidejte se
-    match: pridejte-se
-  - link: /clenove/
-    name: Naši lidé
-    match: clenove
-  - link: /volby/
-    name: Volby 2018
-    match: volby
-    submenu:
-      - link: /volby2018/
-        name: Volby 2018
-        match: volby2018
-      - link: /volby2018/prosek/
-        name: Obvod č. 1
-        match: prosek
-      - link: /volby2018/strizkov/
-        name: Obvod č. 2
-        match: strizkov        
-      - link: /volby2018/vysocany/
-        name: Obvod č. 3
-        match: vysocany
+    name: Aktuality
+  - link: /lide/
+    name: Lidé
+  - link: https://www.piratiastarostove.cz/kandidati/kraj/praha/
+    name: Volby 2021  
   - link: /kontakt/
     name: Kontakt
-    match: kontakt
 
 bottom:
   - class: small-12 medium-4
-    title: Podpořte nás
+    title: Připoj se
     links:
-      - link: /pridejte-se/
-        name: Přidejte se k nám
       - link: /kontakt/
-        name: Napište nám
+        name: Dej nám vědět
+      - link: "https://nalodeni.pirati.cz"
+        name:  Nalodění
   - class: small-12 medium-4
-    title: Pracujeme
+    title: Makáme
     links:
-      - link: /clenove/
-        name: Naši lidé
-      - link: /volby/
-        name: Volby 2018
+      - link: /lide/
+        name: Lidé
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
-    title: Transparentnost
+    title: Otevřenost
     links:
       - link: https://ucet.pirati.cz
         name: Transparentní účet
@@ -68,3 +44,11 @@ bottom:
         name: Registr smluv
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
+
+
+# Display transparency section in the footer?
+transparencySection: false
+
+contact:
+  - vaclav.vislous
+  - kornelia.gottmannova

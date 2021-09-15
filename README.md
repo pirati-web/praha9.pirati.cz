@@ -1,3 +1,5 @@
-# praha9.pirati.cz
+# praha10.pirati.cz
 
-[![Build Status](https://travis-ci.org/pirati-web/praha9.pirati.cz.svg?branch=master)](https://travis-ci.org/pirati-web/praha9.pirati.cz)
+Web místního sdružení Piráti Praha 1.
+
+- Aktuální návod na správu tohoto webu naleznete v projektu [pirati-web/jekyll-theme-pirati](https://github.com/pirati-web/jekyll-theme-pirati/blob/master/USAGE.md).

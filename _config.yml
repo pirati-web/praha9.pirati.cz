@@ -1,86 +1,16 @@
 # Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: Piráti Praha 9
-email: praha9@pirati.cz
-description: Stránka místního sdružení Piráti Praha 9
-keywords: Piráti, česká pirátská strana, svoboda, demokracie, Piráti Praha 9, Prosek, Vysočany, Libeň, Krocínka, Hrdlořezy # dobré keywords jsou ty co 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://praha9.pirati.cz" # the base hostname & protocol for your site
-
 administrator:
-  #email: vislaus@gmail.com # mail kam pujdou chybove vystupy
   email: jan.brandejs@pirati.cz, jan.suchanek@gmail.com
+github:
+  url: https://github.com/pirati-web/praha9.pirati.cz/
+  branch: master
+url: "https://praha9.pirati.cz"
 
-theme: jekyll-theme-pirati
+mediaStorage: praha9
 
-sass:
-  style: compressed
-  sass_dir: _sass
-
-# Build settings
-markdown: kramdown
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-environment-variables
-
-paginate_path: "/aktuality/:num/"
-paginate: 11
-
-exclude:
-  - Dockerfile
-  - docker-compose.yml
-  - deploy_rsa_sandbox.enc
-  - deploy_rsa_sandbox.pub
-  - navod.md
-  - readme.md
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-
-permalink: /tiskove-zpravy/:title/
-collections:
-  people:
-    output: true
-    root: /clenove/
-    permalink: /clenove/:path/
-
-  program:
-    output: true
-    permalink: /volby2018/program/:path/
-
-  # Sole purpose is to create candidate lists in separate files.
-  candidatelists:
-    output: false
-
-defaults:   # defaults values for collection scope
-  -
-    scope:
-      path: "_people"
-    values:
-      layout: "person"
-      rbar:
-        - foto
-        - personContact
-        - people
-      keywords: členové, příznivci, lidé
-  -
-    scope:
-      path: "_program"
-    values:
-      layout: "program-post"
-      rbar:
-        - garant
-        - program
-      keywords: program, volby, 2018, komunální volby
+title: "Piráti Praha 9"
+description: "Česká pirátská strana - místní sdružení Praha 9"
+keywords: "Piráti, česká pirátská strana, svoboda, demokracie, Piráti Praha 9, Prosek, Vysočany, Libeň, Krocínka, Hrdlořezy"
 
 organization:
   name: MS Piráti Praha 9
@@ -97,66 +27,122 @@ organization:
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
   transparentAccountSpecificSymbol: 110109
+  donateLink: https://dary.pirati.cz/podpor-kraj/praha/
+  onboardingLink: https://nalodeni.pirati.cz/
 
 contactSummaryItems:
   - type: organizationEmail
   - type: organizationRedmineLink
-  - type: organizationPhone
   - type: organizationTransparentAccount
     includeMoreLink: true
-  - type: custom
-    iconClass: fa fa-facebook
-    label: Facebooková stránka
-    body: <a href="https://www.facebook.com/PiratiPraha9/" target="_blank">Piráti Praha 9</a>
+  - type: organizationDataBox
+  - type: piratiRootWebsite
 
 calendar:
-  # For nice look of the calendar, make sure you get Google Calendar API key
-  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
-  # For deployment, contact website administrator to set you env variable.
-  title: Kalendář akcí na Devítce
   id: p4idl4uviv7t2c85gfq51lia9k@group.calendar.google.com
-  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=p4idl4uviv7t2c85gfq51lia9k%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
- 
+  title: "Kalendář Pirátů Prahy 9"
+  page: "https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=p4idl4uviv7t2c85gfq51lia9k%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3"
+
 facebook:
-  profilePage: https://www.facebook.com/PiratiPraha9/
   loadSDK: true
+  profilePage: "https://www.facebook.com/PiratiPraha9/"
+  profilePageName: "Piráti Praha 9"
   appId: 1526197851008996
 
-twitter:
-  profile: piratipraha9
+matomo:
   loadSDK: true
-
-instagram:
-  profilePage: https://www.instagram.com/piratipraha9
+  siteId: 68
 
 forum:
-  page: https://forum.pirati.cz/viewforum.php?f=1010
+  page: https://forum.pirati.cz/viewforum.php?f=1438
 
-github:
-  url: https://github.com/pirati-web/praha9.pirati.cz
-  branch: master
+youtube:
+  channel: UC_zxYLGrkmrYazYt0MzyVlA
+
+twitter:
+  loadSDK: true
+  profile: piratipraha
+
+instagram:
+  #profilePage: 
+
+flicker:
+  profilePage: https://www.flickr.com/photos/pirati/
+
+styleguide_base_url: 'https://styleguide.pirati.cz/latest'
+
+############### SETTINSG #################
+
+theme: jekyll-theme-pirati
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-pirati
+
+pagination:
+  per_page: 9
+  permalink: '/:num/'
+  title: ':title - stránka :num'
+  trail: 7
+
+exclude:
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - docker-compose.yml
+  - vendor
+
+permalink: /aktuality/:title.html
+collections:
+  people:
+    output: true
+    permalink: /clenove/:path:output_ext
+  program:
+    output: true
+    permalink: /volby/:path:output_ext
+
+  # Sole purpose is to create candidate lists in separate files.
+  candidatelists:
+    output: false
+
+defaults:   # defaults values for collection scope
+  -
+    scope:
+      path: "_people"
+    values:
+      layout: "person"
+      rbar:
+        - profile
+        - people
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "_program"
+    values:
+      layout: "program-post"
+      rbar:
+         - garant
+         - program
 
 assets:
   source_maps: true
   compression: true
   gzip: false
   plugins:
-    css: { autoprefixer: {}}
     img:
       optim:
         jpegoptim:
           strip: all
           max_quality: 80
-  autoprefixer:
     browsers:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.5.0/_sass
-    - assets/css
-    - assets/fonts
-    - assets/video
+    - assets/js
     - assets/img
-    - assets/img/posts
-    - assets/snippet
-    - _sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.1/assets/img

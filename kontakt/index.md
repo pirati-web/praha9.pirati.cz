@@ -1,20 +1,24 @@
 ---
 layout: contacts
-description: Piráti Praha 9 je sdružení otevřené činorodým lidem, rádi přivítáme nové příznivce a dobrovolníky, kterým Praha 9 leží na srdci.
-keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou, pirati praha 9, praha
-residence: yes #vyplňte pokud chcete přidat adresu nejbližšího pice
+title: Kontaktní informace
+description: Pirátská strana v Praze 9 je otevřená a ráda přivítá nové členy, dobrovolníky a odpoví na vaše dotazy
+keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
+noresidence: yes
+contactPersons:
+  - vaclav.vislous
+  - kornelia.gottmannova
 ---
+ <h1>Přidejte se k nám</h1>
 
-<div class="o-section-header o-section-header--indented">
-  <h1 class="t-h2-alt">Naloďte se na palubu</h1>
-</div>
+**Zajímá vás co děláme na osmičce, a chtěli byste se zapojit?** Neváhejte a přijďte za námi na otevřenou (on-line či off-line) schůzi. Potkáváme se pravidelně, přesná data najdete v našem <a href="{{site.calendar.page}}">kalendáři</a>. Těšíme se na viděnou.
 
-Zajímá vás, co Piráti na Devítce dělají a jak? [Ozvěte se nám](mailto:praha9@pirati.cz) nebo přijďte na 
-jakoukoli otevřenou schůzi. Ty se konají každé první pondělí v měsíci od 19:00 v Restauraci U Pecků u metra Vysočanská.
+**Komunikujeme pravidelně na Facebooku**, najdete nás jako [Piráti Praha 9](https://www.facebook.com/PiratiPraha9/). Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/).
 
-Budeme rádi za jákekoliv vaše náměty nebo připomínky.
+<h4>Transparenstnost</h4>
+- Odměny za veřejné funkce najdete na společném pirátském webu [nalodeni.pirati.cz/odmeny](https://nalodeni.pirati.cz/odmeny/).
+- Veškerou evidenci kontaktů a schůzek najdete na [evidence.pirati.cz](https://evidence.pirati.cz/).
 
-* <a class="c-emphasized-anchor" href="{{ site.facebook.profilePage }}">Sledujte nás na Facebooku</a>
-* <a class="c-emphasized-anchor" href="https://praha9.pirati.cz/pridejte-se/">Přidejte se k Pirátům na Praze 9</a>
-* <a class="c-emphasized-anchor" href="{{ site.forum.page }}">Sledujte nás na Fóru Pirátské strany</a>
+<h4>Podpořte nás!</h4>
+- Finanční dary na podporu našeho fungování můžete posílat na [dary.pirati.cz](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/), kde vyberete Jiný účel: MS Praha 9 (nebo specifický symbol 110110).
 
+- *Odesláním příspěvku s osobními údaji uzavíráte s Českou pirátskou stranou darovací smlouvu a udělujete jí souhlas ke zpracování osobních údajů v souladu se zákonem č. 101/2000 Sb. o ochraně osobních údajů za účelem zpracování a přiznání daru a zasílání informací o Pirátské straně, a to i elektronickými prostředky. Vámi uvedená data budou podle zákona 424/1991 Sb. o sdružování v politických stranách a hnutích součástí výroční finanční zprávy politické strany (částka, jméno, příjmení a datum narození nebo název a identifikační číslo právnické osoby).*
