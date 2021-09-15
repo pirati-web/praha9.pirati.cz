@@ -7,7 +7,8 @@ order: 1
 garant: petr.karel
 redmine: 29996
 img: program/skolstvi.jpg
-intro: > Chceme rovnoměrný a pro obyvatele příznivý rozvoj města. Naší vizí je město krátkých vzdáleností, kde máte vše na dosah ruky. Chceme zásadně zvýšit povědomí veřejnosti o územním plánu a dalších nástrojích územního plánování a posílit její účast.
-  
+intro: >
+  Chceme rovnoměrný a pro obyvatele příznivý rozvoj města. Naší vizí je město krátkých vzdáleností, kde máte vše na dosah ruky. Chceme zásadně zvýšit povědomí veřejnosti o územním plánu a dalších nástrojích územního plánování a posílit její účast.
+
 ---
 
