@@ -6,7 +6,7 @@ title:  >-
 date: '2021-10-26'
 author: Václav Vislous
 authorId: vaclav.vislous
-image: https://a.pirati.cz/crop/1200x675/praha9/img/articles/2021/zahradky_05.jpg
+image: https://a.pirati.cz/resize/1200x675/praha9/img/articles/2021/zahradky_05.jpg
 ---
 Petice za záchranu parku Zahrádky, pod kterou se podepsalo přes dva tisíce místních, se 14. října projednávala na magistrátu hl. m. Prahy. Developerský projekt, který je na ní plánován, by ukousl velkou část zeleně v oblíbené rekreační lokalitě. Díky iniciativě zastupitelského klubu Pirátů Prahy 9 a jeho předsedy Václava Vislouse, který propojil všechny zúčastněné, se podařilo dosáhnout předběžné dohody na vypracování nezávislé územní studie, která posoudí nejen pozemky dnešní zahrádkářské kolonie, ale také rozvoj celé lokality.
 
