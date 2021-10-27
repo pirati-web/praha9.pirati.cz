@@ -6,7 +6,7 @@ title:  >-
 date: '2021-10-26'
 author: Václav Vislous
 authorId: vaclav.vislous
-image: https://a.pirati.cz/crop/1200x675/praha9/img/articles/2021/rokytka_05.jpg
+image: https://a.pirati.cz/crop/1200x675/praha9/img/articles/2021/zahradky_05.jpg
 ---
 Petice za záchranu parku Zahrádky, pod kterou se podepsalo přes dva tisíce místních, se 14. října projednávala na magistrátu hl. m. Prahy. Developerský projekt, který je na ní plánován, by ukousl velkou část zeleně v oblíbené rekreační lokalitě. Díky iniciativě zastupitelského klubu Pirátů Prahy 9 a jeho předsedy Václava Vislouse, který propojil všechny zúčastněné, se podařilo dosáhnout předběžné dohody na vypracování nezávislé územní studie, která posoudí nejen pozemky dnešní zahrádkářské kolonie, ale také rozvoj celé lokality.
 
@@ -18,7 +18,7 @@ Stavbu aktuálně platný územní plán umožňuje. Nicméně připravovaný Me
 
 Proti plánům developera se v podobě zmíněné petice postavili místní občané. Především jim vadí to, že přes masivní zahušťování výstavby v okolí se likviduje zbytek zeleně v pásu kolem Rokytky určený primárně pro rekreaci. Ten je při hezkém počasí už nyní na hranici své kapacity.
 
-![](https://a.pirati.cz/resize/1200x675/praha9/img/articles/2021/jrd-zahradky.jpg)*Vizualizace projektu Zahrádky z pera developera JRD. Zdroj: [Web JRD](https://bydlimeurokytky.cz/predstaveni-zameru/)*
+![](https://a.pirati.cz/resize/1200x675/praha9/img/articles/2021/jrd-rokytka.jpg)*Vizualizace projektu Zahrádky z pera developera JRD. Zdroj: [Web JRD](https://bydlimeurokytky.cz/predstaveni-zameru/)*
 
 Zároveň je kritizován i samotný projekt, který do území bez jakékoliv veřejné vybavenosti, žádnou nepřináší. Oblast je tak mrtvou zónou, ve které nelze zařídit ani základní potřeby, a zcela tak popírá nejen principy výstavby moderních měst, ale i pravidla, která se nám podařilo nastavit v rámci Komise rozvoje území v tomto volebním období.
 
