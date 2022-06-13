@@ -3,7 +3,7 @@ layout: post
 category: blog
 title:  >-
   Na Praze 9 táhneme za jeden provaz
-date: '2022-05-25'
+date: '2022-06-14'
 author: Piráti Praha 9
 authorId: redakce
 image: articles/2022/za-jeden-provaz.jpg
