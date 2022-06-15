@@ -38,3 +38,4 @@ i v budoucnu.
 
 Kornélia Gottmannová
 předsedkyně Školské komise
+ 
