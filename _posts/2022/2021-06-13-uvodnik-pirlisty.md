@@ -26,4 +26,4 @@ A jaké další výzvy nás čekají? Na radnici dlouhodobě platilo, že se vš
 neuspokojivé situaci ve školství. To dlouhodobě trpí nedostatečnou kapacitou i kvalitou. Když pak přišla nejdříve epidemie koronaviru a nyní vlna válečných uprchlíků z Ukrajiny, tak se naplno ukázalo, že zaběhnuté postupy zdaleka nestačí. Svět se zásadně změnil. Devítka se nemůže dál bránit změnám a doufat, že to nějak přejde. Musíme se podívat jinam a inspirovat se od těch nejlepších. Je třeba napnout síly, abychom společně dokázali všechna úskalí ustát a udělali z Úřadu MČ Praha 9 moderní radnici otevřenou všem. Věřím, že nás v této snaze podpoříte!
 
 Václav Vislous
-předseda Místního sdružení Pirátů 
+předseda Místního sdružení Pirátů

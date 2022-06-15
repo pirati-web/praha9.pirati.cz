@@ -14,4 +14,4 @@ Zprava doleva na fotografii:
 [**Václav Vislous**](https://praha9.pirati.cz/clenove/vaclav-vislous.html) je naším předsedou a působí ve finančním výboru,
 [**Kornélia Gottmanová**](https://praha9.pirati.cz/clenove/kornelia-gottmannova.html) je předsedkyní školské komise a hlídá stavbu nové školy U Elektry,
 [**Denisa Malá**](https://praha9.pirati.cz/clenove/denisa-mala.html) nám pomáhá s během našeho místního sdružení,
-[**Aneta Heidlová**](https://praha9.pirati.cz/clenove/aneta-heidlova.html) je naše spojka na pražský magistrát. 
+[**Aneta Heidlová**](https://praha9.pirati.cz/clenove/aneta-heidlova.html) je naše spojka na pražský magistrát.
