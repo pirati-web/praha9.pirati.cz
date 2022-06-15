@@ -6,7 +6,7 @@ title:  >-
 date: '2022-06-13'
 author: Václav Vislous
 authorId: vaclav.vislous
-image: articles/2022/uvodnik-jaro2022.jpg
+image: articles/2022/uvodnik-jaro2022_2.jpg
 ---
 Abych mohl zhodnotit naše působení v zastupitelstvu devítky, sluší se nejdřív jít úplně na začátek. Přesně před čtyřmi lety jsem se přidal do týmu Pirátů jako politikou naprosto nepolíbený člověk. Byl jsem obrněný pouze silnou touhou změnit věci, které mě na mém okolí trápily.
 

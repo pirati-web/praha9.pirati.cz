@@ -6,7 +6,7 @@ title:  >-
 date: '2022-06-14'
 author: Piráti Praha 9
 authorId: redakce
-image: articles/2022/za-jeden-provaz.jpg
+image: articles/2022/za-jeden-provaz2.jpg
 ---
 Zprava doleva na fotografii:
 [**Ilona Chromová**](https://praha9.pirati.cz/clenove/ilona-chromova.html) je naše odbornice na oblast bezpečnosti,
