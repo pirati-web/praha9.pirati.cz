@@ -21,6 +21,6 @@ Veřejně přístupná místa svádí především mladé lidi k popíjení alko
 Kriminalitě nelze úplně zabránit, lze ale podpořit takové prostředí, ve kterém se jí nebude dařit. Není to jednoduché, vyžaduje to dlouhodobou práci s místními obyvateli, policií, atd. Nejúčinnějším způsobem, jak bojovat s kriminalitou, je prevence, o což se dlouhodobě na devítce zasazujeme. 
 
 Již od počátku našeho působení se snažíme prosadit projekt asistentů prevence kriminality. Ti by v daných lokalitách prováděli pochůzkovou činnost. Zároveň by byli přímo k dispozici městské policii. Mohli by upozorňovat na protiprávní jednání, hovořit s obyvateli, monitorovat situaci dětí kolem základních škol a pomáhat jim při doprovodu přes silnici. Strážníky v ulicích sebelepší kamery nenahradí.
-
+ 
 Ilona Chromová
 členka Komise bezpečnosti
