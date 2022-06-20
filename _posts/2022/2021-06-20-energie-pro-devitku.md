@@ -6,7 +6,7 @@ title:  >-
 date: '2022-06-20'
 author: Václav Okapa
 authorId: vaclav.okapa
-image: articles/2022/vymenik_prosek.jpg
+image: articles/2022/vymenik_prosek2.jpg
 ---
 Světové ceny energií neovlivníme, zvýšit energetickou soběstačnost městské části ale můžeme.
 
