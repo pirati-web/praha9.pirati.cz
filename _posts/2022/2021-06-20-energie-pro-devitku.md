@@ -22,4 +22,4 @@ energetické náročnosti veřejných budov, tedy hlavně škol a školek. Je nu
 
 Na prvním místě musí chytře šetřit radnice, ale v rámci projektu „Energie pro devítku“ chceme zprostředkovat také SVJ a družstvům možnost financování energetických úsporných opatření z budoucích úspor energie (Energy Performance Contracting). To je služba, kterou už nyní poskytují mnohé energetické společnosti, a která v sobě zahrnuje návrh úsporných opatření, přípravu, realizaci a zajištění financování projektu vedoucího k úsporám energie budov.
 
-Chceme, aby se radnice stala přirozeným partnerem pro všechny subjekty v Praze 9, které budou chtít investovat do energetických úspor.
+Chceme, aby se radnice stala přirozeným partnerem pro všechny subjekty v Praze 9, které budou chtít investovat do energetických úspor. 
