@@ -19,6 +19,6 @@ V této souvislosti je vhodné připomenout, že vládnoucí koalice ODS a Spoje
 
 Kompetence po Doležalovi do zářijových komunálních voleb převezme jeho spolustranička Jana Nowaková Těmínová. Z původních devíti radních zůstane tedy jen osm. Doležal se také rozhodl na podzim nekandidovat do zastupitelstev městské části Praha 9 a hlavního města Prahy.
  
-**Kontakt pro média:**
-**Václav Vislous**, předseda Pirátů na Praze 9, tel: +420 777 954 389, e-mail: [vaclav.vislous@pirati.cz](mailto:vaclav.vislous@pirati.cz)
+**Kontakt pro média:**<br>
+**Václav Vislous**, předseda Pirátů na Praze 9, tel: +420 777 954 389, e-mail: [vaclav.vislous@pirati.cz](mailto:vaclav.vislous@pirati.cz)<br>
 **Michal Polák**, media manager KS Piráti Praha, tel: +420 608 517 127, e-mail: [michal.polak@pirati.cz](mailto:michal.polak@pirati.cz)
