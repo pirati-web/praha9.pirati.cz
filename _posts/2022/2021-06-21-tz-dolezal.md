@@ -5,7 +5,7 @@ title:  >-
   Piráti chtěli odvolat Doležala, jeho rezignaci vítají
 date: '2022-06-21'
 author: Piráti Praha 9
-image: articles/2022/tz-dolezal.jpg
+image: articles/2022/dolezal.jpg
 ---
 *21. června 2022, Praha* **– Piráti z Prahy 9 přivítali rozhodnutí Marka Doležala (TOP 09/STAN) rezignovat na funkci místostarosty a člena rady MČ Praha 9. Pokud by neodstoupil sám, byli Piráti připraveni navrhnout jeho odvolání během dnešního jednání zastupitelstva. Podle Pirátů je spojení Doležalova jména s kauzou Dozimetr neslučitelné s vedením městské části. Doležal byl v pondělí odvolán také z dozorčí rady pražského dopravního podniku.**
 
