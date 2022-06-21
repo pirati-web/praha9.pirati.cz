@@ -3,7 +3,7 @@ layout: post
 category: blog
 title:  >-
   S devítkou je dobrá domluva
-date: '2022-06-21'
+date: '2022-06-22'
 author: Zdeněk Hřib
 image: articles/2022/spoluprace.jpg
 ---
