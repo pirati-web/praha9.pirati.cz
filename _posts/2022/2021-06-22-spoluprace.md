@@ -18,5 +18,5 @@ situaci a musela najít náhradní prostory za Kongresové centrum, které by by
 
 Přeji devítce mnoho úspěchů i v následujících letech a doufám, že plodná spolupráce bude nadále pokračovat.
 
-Zdeněk Hřib
+Zdeněk Hřib 
 primátor Prahy
