@@ -2,7 +2,7 @@
 layout: post
 category: blog
 title:  >-
-  Bezpečenost nelze zajistit bez prevence kriminality a spolupráce s občany
+  Bezpečnost nelze zajistit bez prevence kriminality a spolupráce s občany
 date: '2022-06-18'
 author: Ilona Chromová
 authorId: ilona.chromova
