@@ -13,4 +13,4 @@ Naší povinností je chránit lidská práva a poukazovat na jejich porušován
 
 Díky spolupráci členů vlády a našich evropských partnerů jsme nyní silnějším hlasem v Evropě. V Radě OSN pro lidská práva nahradí Česká republika Rusko a dokazujeme, že návrat k hodnotové politice pro nás není prázdnou frází, ale naopak závazkem, který hodláme naplnit.
 
-Jan Lipavský, ministr zahraničních věcí
+Jan Lipavský, ministr zahraničních věcí 

@@ -12,4 +12,4 @@ o pravidelnou valorizaci rodičovského příspěvku po vzoru důchodů. Rodič�
 
 Je pro mě také důležité, aby si rodiny mohly vybrat to, co skutečně chtějí. Proto jsem moc ráda, že se nám povedlo zachránit dětské skupiny. Dále se mimo zavedení Tagesmutter snažím i o zpřístupnění a zkvalitnění školek a podporu částečných úvazků nebo flexibilní pracovní doby.
 
-Olga Richterová, místopředsedkyně Sněmovnyy
+Olga Richterová, místopředsedkyně Sněmovnyy 

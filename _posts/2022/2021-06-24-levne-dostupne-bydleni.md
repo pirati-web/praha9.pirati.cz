@@ -19,4 +19,4 @@ Dotahujeme zákon o podpoře v bydlení. Samosprávy tak budou moct po 30 letech
 
 Zkráceně řečeno: naším cílem je levné dostupné bydlení a prosperující regiony, kde se všem bude dobře žít. Pojďte do toho s námi!
 
-Ivan Bartoš, předseda Pirátské strany
+Ivan Bartoš, předseda Pirátské strany 
