@@ -43,4 +43,4 @@ i z městských částí. Na druhém místě je úspěšná místostarostka z Pr
 
 **Držme si palce a pojďme dělat věci správně!**
 
-![Odvaha dělat věci správně](https://a.pirati.cz/crop/746x1550/praha9/img/articles/2022/rozhovor-hrib.jpg) 
+![Odvaha dělat věci správně](https://a.pirati.cz/crop/1550x746/praha9/img/articles/2022/rozhovor-hrib.jpg) 
