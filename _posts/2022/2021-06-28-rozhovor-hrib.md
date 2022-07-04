@@ -5,7 +5,7 @@ title:  >-
   Nechceme dopustit návrat do devadesátek. Za nás se Praha konečně rozvíjí
 date: '2022-06-28'
 author: Zdeněk Hřib
-image: articles/2022/rozhovor_hrib.jpg
+image: articles/2022/rozhovor_hrib2.jpg
 ---
 Zdeněk Hřib je čtvrtým rokem primátorem hlavního města Prahy. Za současným vedením Prahy je velký kus práce – staví se metro D, město zažívá tramvajový boom, rekordním tempem rostou nová P+R parkoviště a přemostění Vltavy, a hlavně pracujeme na zvýšení dostupnosti bydlení.
 
@@ -43,4 +43,4 @@ i z městských částí. Na druhém místě je úspěšná místostarostka z Pr
 
 **Držme si palce a pojďme dělat věci správně!**
 
-![Odvaha dělat věci správně](https://a.pirati.cz/crop/900x1550/praha9/img/articles/2022/rozhovor-hrib.jpg) 
+![Odvaha dělat věci správně](https://a.pirati.cz/crop/746x1550/praha9/img/articles/2022/rozhovor-hrib.jpg) 
