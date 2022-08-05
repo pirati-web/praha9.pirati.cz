@@ -1,5 +1,5 @@
 - uid: pirati
   name: Pirátská strana
-  logoImg: brand/logo.svg
+  logoImg: brand/logo.svg #logo nahráno na mrak
 - uid: bezpp
   name: bez politické příslušnosti
