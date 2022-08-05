@@ -177,6 +177,7 @@ tail: # zbytek kandidatky
     partyUid: bezpp
 	city: Praha 9
     age: 40
+# 33
   - name: Stanislav Hoda
     profession: realitní makléř
     partyUid: bezpp

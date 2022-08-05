@@ -1,14 +1,13 @@
 ---
-title: Dostupné a kvalitní školství
-campaignCategoryUid: 2018-komunalni
-campaignGroupUid: volby-2018
-uid: udrzitelny-rozvoj
+title: Kvalitní školství pro všechny je nejlepší investicí do budoucna
+campaignCategoryUid: 2022-komunalni
+campaignGroupUid: volby-2022
+uid: skolstvi
 order: 2
 garant: kornelia.gottmannova
-redmine: 30012
-img: program/skolstvi.jpg
+img: program/2022/02-skolstvi.jpg
 intro: >
-  Věříme, že kvalitní vzdělání je cestou k dobře fungující společnosti, proto si zaslouží velkou pozornost. Chceme, aby se Praha 9 jako zřizovatel většiny mateřských a základních škol aktivně zajímalo o potřeby dětí, rodičů i pedagogů a bylo partnerem pro řešení aktuálních problémů.
+Vzdělávání je nejlepší investicí do naší budoucnosti. Kvalitní školství nesmí být luxusem jen pro vyvolené. Potřebujeme zvýšit kompetentnost vedení škol a motivaci učitelek a učitelů. Skutečnou proměnu musíme stavět na osvědčených zkušenostech. Každé dítě má mít příležitost objevit a rozvinout svůj specifický talent bez jakýchkoliv předsudků. Školy jsou také místem setkávání rodičů, pedagogů a dalších členů komunity. Jsou tak nedílnou součástí společenského života, proto je důležité, aby byly více otevřené pro všechny.
 
 ---
 

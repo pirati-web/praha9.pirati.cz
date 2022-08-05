@@ -5,9 +5,10 @@ campaignGroupUid: volby-2022
 uid: doprava
 order: 6
 garant: ondrej.kalis
-img: program/doprava.jpg
+img: program/2022/06-doprava.jpg
 intro: >
-Vybudujeme síť bezpečných oddělených stezek pro chodce i cyklisty bez omezení tranzitní silniční dopravy. Posílíme a zrychlíme hromadnou dopravu a snížíme škodlivé emise. Podpoříme sdílenou mobilitu. Přepracujeme stávající systém zón parkovacích stání na základě zkušeností i zpětné vazby od občanů. Mimo exponovaná místa zrušíme platby za parkování o víkendech. Povedeme aktivní diskuse s občany o tom, jak zlepšit situaci v místě jejich bydliště. Ve spolupráci s občanskou společností odstraníme bariéry pro osoby s postižením.
+Vybudujeme síť bezpečných oddělených stezek pro chodce i cyklisty mimo a bez omezení tranzitní silniční dopravy. Posílíme a zrychlíme hromadnou dopravu a snížíme škodlivé emise. Podpoříme rozvoj sdílených kol. Přepracujeme stávající systém zón parkovacích stání na základě zkušeností i zpětné vazby občanů. Mimo exponovaná místa zrušíme platby za parkování o víkendech. Aktivně prodiskuskutujeme s občany možnosti, jak zlepšit situaci v místě jejich bydliště. Ve spolupráci s občanskou společností odstraníme bariéry pro osoby s postižením.
+
 
 ---
 
