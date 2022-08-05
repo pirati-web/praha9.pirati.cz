@@ -104,7 +104,7 @@ tail: # zbytek kandidatky
     profession: archeoložka
     partyUid: bezpp
     age: 45
-  - name: petr.karel
+  - uid: petr.karel
     profession: zastupitel MČ Praha 9, security manager
     partyUid: pirati
     age: 58
