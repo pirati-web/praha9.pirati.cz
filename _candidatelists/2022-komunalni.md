@@ -82,12 +82,12 @@ tail: # zbytek kandidatky
     partyUid: bezpp
 	city: Praha 9
     age: 26
-  - uid: Bc. David Prokop
+  - name: Bc. David Prokop
     profession: energetický specialita v oblasti teplárenství a kotelen
     partyUid: bezpp
 	city: Praha 9
     age: 32
-  - uid: Ing. Vít Blažek
+  - name: Ing. Vít Blažek
     profession: RPA manager (Team Leader-Robo)
     partyUid: bezpp
 	city: Praha 9
