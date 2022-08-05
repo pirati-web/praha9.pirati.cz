@@ -13,7 +13,7 @@ top:
 main:
   - link: /aktuality/
     name: Aktuality
-  - link: /volby/
+  - link: /volby/2022-komunalni.html
     name: Volby 2022
   - link: /lide/
     name: Lidé   
