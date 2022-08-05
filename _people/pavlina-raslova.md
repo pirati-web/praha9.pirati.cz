@@ -8,7 +8,6 @@ category:
   - kandidat-obec
 description: projektová manažerka v oblasti vzdělávání a životního prostředí
 img: people/pavlina-raslova.jpg
-heroImg: Prague_Vysocany_Town_Hall.jpeg
 mail:
   - pavlina.raslova@gmail.com
  

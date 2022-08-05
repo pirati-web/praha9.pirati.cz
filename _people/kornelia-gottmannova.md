@@ -15,7 +15,6 @@ ordPre: 3
 ordKom: 1
 description: Místopředsedkyně MS a ZK Praha 9, Předsedkyně Školské komise, Komise územního rozvoje
 img: people/kornelia-gottmannova.jpg
-heroImg: Prague_Vysocany_Town_Hall.jpeg
 mail:
   - kornelia.gottmannova@pirati.cz
 mob:

@@ -7,8 +7,7 @@ category:
   - priznivci
   - kandidat-obec
 description: pracovník MP Praha
-img: people/pavlina-raslova.jpg
-heroImg: Prague_Vysocany_Town_Hall.jpeg
+img: people/vit-chrom.jpg
 mail:
   -
  

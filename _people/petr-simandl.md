@@ -8,7 +8,6 @@ category:
   - kandidat-obec
 description: IT specialista
 img: people/petr-simandl.jpg
-heroImg: Prague_Vysocany_Town_Hall.jpeg
 mail:
   - simandlpetr@gmail.com
  
