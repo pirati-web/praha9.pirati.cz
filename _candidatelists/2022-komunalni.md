@@ -77,7 +77,7 @@ tail: # zbytek kandidatky
 	city: Praha 9
     partyUid: bezpp
     age: 41
-  - uid: jan.zhouf
+  - name: Ing. Jan Zhouf
     profession: datový vědec
     partyUid: bezpp
 	city: Praha 9
