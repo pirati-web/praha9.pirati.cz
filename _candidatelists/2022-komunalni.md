@@ -25,7 +25,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: vaclav.okapa
     profession: ekonom v oblasti energetiky
     age: 35
-    city: Praha 9 - Střížkov
+    city: Praha 9 - Prosek
     partyUid: pirati
 # 5
   - uid: kamila.viktorinova
@@ -37,7 +37,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: petr.simandl
     profession: IT specialista
     age: 50
-    city: Praha 9 - Střížkov
+    city: Praha 9 - Prosek
     partyUid: bezpp
 # 7
   - uid: denisa.mala
@@ -67,7 +67,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: aneta.heidlova
     profession: software tester
     age: 34
-    city: Praha 9 - Střížkov
+    city: Praha 9 - Vysočany
     partyUid: pirati
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
