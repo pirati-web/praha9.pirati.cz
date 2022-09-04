@@ -5,7 +5,7 @@ title:  >-
   Pražský lídr primátor zdeněk hřib
 date: '2022-09-03'
 author: Zdeněk Hřib
-image: articles/2022/hrib-tricko.jpg
+image: articles/2022/hrib-tricko2.jpg
 ---
 Vážení Pražané,
 brzy dokončíme první čtyři roky ve vedení města a nastal tak čas skládat účty. V roce 2018 se metropole díky vaší voličské podpoře ocitla na prahu změny. Ta ale nenastane přes noc. Správné věci totiž vyžadují čas, a hlavně hodně úsilí.
