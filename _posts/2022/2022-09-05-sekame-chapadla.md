@@ -5,7 +5,7 @@ title:  >-
   Jak v Praze sekáme chapadla korupční chobotnice
 date: '2022-09-05'
 author: Redakce
-image: articles/2022/chobotnice.jpg
+image: articles/2022/chobotnice2.jpg
 ---
 Piráti zavádějí po celé Praze efektivní protikorupční opatření, která nejrůznějším šíbrům a kmotrům znemožňují snahy o nelegální vyvádění peněz z kapes daňových poplatníků a Pražanů. Zde je výčet pirátských změn, která přispívají k lepšímu hospodaření s prostředky nás všech.
 **Malé zakázky na úklid zametly s byznysem kmotrů**
