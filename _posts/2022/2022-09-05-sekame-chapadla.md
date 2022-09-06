@@ -23,4 +23,4 @@ Již čtrnáct městských částí se rozhodlo zveřejňovat veškeré utracen�
 Piráti trvají na obsazování postů v dozorčích radách na všech úrovních skrze otevřená výběrová řízení, kde se rozhoduje o profesní vhodnosti daného člověka pro každou pozici. U Pirátů dozorčí
 rady a představenstva nejsou trafiky. Tyto zásady ctíme i v případě kontroly firem městských částí. A navíc za naší vlády byly zrušeny tantiémy pro členy představenstev a dozorčích rad.
 
-**Více informací na koneckorupce.cz**
+**Více informací na koneckorupce.cz** 
