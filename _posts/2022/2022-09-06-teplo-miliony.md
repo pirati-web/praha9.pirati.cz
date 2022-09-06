@@ -6,7 +6,7 @@ title:  >-
 date: '2022-09-06'
 author: Petr Simandl
 authorId: petr.simandl
-image: articles/2022/vymenik_kluci.jpg
+image: articles/2022/vymenik2.jpg
 ---
 Aktuální energetická krize naplno ukázala, jak důležitou roli může hrát městská část v tom, kolik platíme za topení. Stávající vedení devítky nemá absolutně představu, co v této oblasti dělat. Proto došla k naprosto chybnému závěru, že je potřeba se veškeré strategické energetické infrastruktury zbavit na úkor peněženek mnoha svých občanů.
 
