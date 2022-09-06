@@ -27,9 +27,7 @@ V roce 2006 nastoupila k Městské policii hl. Města Praha, kde zastávala pozi
 
 Stěžejní náplní byla tvorba koncepcí prevence kriminality města, tvorba a realizace preventivních projektů a programů pro všechny věkové kategorie občanů. Byla odborným poradcem v komisi prevence kriminality města Mostu, pracovní skupiny v problematice týkající se sociálně vyloučených lokalit, členem koordinační skupiny Rodiny v krizi a mentorem asistentů prevence kriminality. Úzce spolupracovala s manažery ostatních měst, kterým byla poradcem, aby byli úspěšní v podávání projektů.
 
-Jako manažerka uměla získat pro město Most dotace z Ministerstva vnitra ČR, a to každoročně téměř milion korun. Jelikož se vdala a odstěhovala se za svým mužem do Prahy, změnila své pracovní působení.
-Dva roky pracovala na oddělení přímo řízené ředitelem Městské policie hl. m. Prahy, jako kontrolor. Její aktivní politická angažovanost v Pirátské straně se nesetkala s pozitivním ohlasem ze strany nadřízených, z tohoto důvodu odešla. Již druhým rokem pracuje
-na pozici probačního úředníka u Probační a mediační služby Praha. Zároveň vykonává pozici vedoucí Centra zprostředkování simultánního přepisu v České unii neslyšících.
+Jako manažerka uměla získat pro město Most dotace z Ministerstva vnitra ČR, a to každoročně téměř milion korun. Jelikož se vdala a odstěhovala se za svým mužem do Prahy, vrátila se zpět na Městskou policii, kde dva roky pracovala jako kontrolní pracovník u Městské policie Praha. Její politická angažovanost v Pirátské straně byla trnem v oku jejím nadřízeným, kteří ji donutili k odchodu. Následovala zkušenost u Probační a mediační služby Praha a České unie neslyšících. Téměř rok pracuje na oddělení sociálně - právní ochrany dětí ÚMČ Praha 8.
 
 Její prioritou je hlavně to, aby se občané Prahy 9 cítili bezpečně, a aby dodržování pravidel platilo stejným metrem pro každého.
 
