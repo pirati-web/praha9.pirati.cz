@@ -3,7 +3,7 @@ layout: post
 category: blog
 title:  >-
   Dejme dětem šanci být lepší!
-date: '2022-09-14'
+date: '2022-09-13'
 author: Kamila Viktorinová
 authorId: kamila.viktorinova
 image: articles/2022/kamila-pl.jpg
