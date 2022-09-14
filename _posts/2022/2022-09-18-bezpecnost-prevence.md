@@ -3,7 +3,7 @@ layout: post
 category: blog
 title:  >-
   Bezpečnost nelze zajistit bez prevence kriminality 
-date: '2022-09-14'
+date: '2022-09-18'
 author: Ilona Chromová
 authorId: ilona.chromova
 image: articles/2022/ilona-pl.jpg
