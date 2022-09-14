@@ -3,7 +3,7 @@ layout: post
 category: blog
 title:  >-
   Dejme dětem šanci být lepší!
-date: '2022-09-13'
+date: '2022-09-14'
 author: Kamila Viktorinová
 authorId: kamila.viktorinova
 image: articles/2022/kamila-pl.jpg
@@ -16,7 +16,7 @@ Svou dlouholetou praxí ve školství, pomáhám radou i zkušenostmi svým kole
 
 Piráti od začátku svého působení v zastupitelstvu Prahy 9 prosazovali, aby devítka měla dostatek bytů pro potřebné profese (učitele, zdravotníky, sociální pracovníky, městské strážníky apod.) a k zajištění  dostupného sociálního bydlení. V bytové komisi jsme však řešili především privatizaci městských bytů, kterou je potřeba dokončit. Opakovaně jsme žádali o plán rozvoje bytového fondu a koncepční přístup radnice k městským bytům.  Ale to je poněkud sisyfovská práce. 
 
-Mojí prioritou jsou děti, a proto jsem prosazovala kvalitní a dostupnou nabídku volnočasových aktivit na devítce a férové podmínky podpory pro činnost sportovních klubů a kulturních institucí. Náklady na provoz rostou, zejména kvůli skokovému zdražení energií. V příštím volebním období s tím bude potřeba počítat a citlivě podpořit sportovní kluby a kulturní instituce tak, aby se nabídka aktivit pro děti, ale i seniory nemusela omezovat. Na rodiny už další náklady přenášet nelze. Prioritou politiků by měla být podpora dětí, aby z nich vyrostli dobří a zodpovědní lidé. Praha 9 je potřebuje. 
+Mojí prioritou jsou děti, a proto jsem prosazovala kvalitní a dostupnou nabídku volnočasových aktivit na devítce a férové podmínky podpory pro činnost sportovních klubů a kulturních institucí. Náklady na provoz rostou, zejména kvůli skokovému zdražení energií. V příštím volebním období s tím bude potřeba počítat a citlivě podpořit sportovní kluby a kulturní instituce tak, aby se nabídka aktivit pro děti, ale i seniory nemusela omezovat. Na rodiny už další náklady přenášet nelze. Prioritou politiků by měla být podpora dětí, aby z nich vyrostli dobří a zodpovědní lidé. Praha 9 je potřebuje.
 
 *Mgr. Kamila Viktorinová*
 
