@@ -3,9 +3,9 @@ layout: post
 category: blog
 title:  >-
   Jak fungují tepelné výměníky a jak ušetřit na teple?
-date: '2022-09-13'
-author: Redakce
-image: articles/2022/radiator.jpg
+date: '2022-09-14'
+author: vaclav.okapa
+image: articles/2022/radiator2.jpg
 ---
 Mnoho SVJ a družstev v Praze 9 je v situaci, kdy platí za teplo a teplou vodu více, než by musely. Spravují sice své domy, ale nemají pod kontrolou tepelné výměníky, respektive předávací stanice, které zajišťují distribuci tepla pro vytápění našich domovů a také ohřev teplé vody. Tepelný výměník z jedné strany přijímá velmi horkou vodu horkovodem z teplárny a z druhé chladnější vodu z domovního rozvodu. Výsledné teplo dál distribuuje do otopné soustavy a rozvodů teplé vody.
 
