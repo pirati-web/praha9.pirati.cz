@@ -15,6 +15,6 @@ Stěžejní projekt v této oblasti, který chceme na devítku přivést, jsou a
 
 Podporujeme více strážníků v ulicích, nikoliv jen kamery. Přítomnost strážníka nenahradí žádná technika. Zvláštní pozornost přitom chceme věnovat zejména ochraně dětí a seniorů.
 
-*Mgr. et Mgr. Ilona Chromová*
+*Mgr. et Mgr. Ilona Chromová* 
 
  
