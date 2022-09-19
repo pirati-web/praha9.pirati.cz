@@ -3,7 +3,7 @@ layout: post
 category: blog
 title:  >-
   Každá překážka je pro mě příležitostí
-date: '2022-09-20'
+date: '2022-09-19'
 author: Václav Vislous
 authorId: vaclav.vislous
 image: articles/2022/vasek-pl.jpg
