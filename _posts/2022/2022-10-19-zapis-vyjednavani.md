@@ -7,6 +7,8 @@ date: '2022-10-19'
 author: kornelia.gottmannova
 image: articles/2022/radnice2.jpg
 ---
+Přinášíme zápis z jednání o možné koaliční spolupráci pro následující volební období.
+
 **Termín a místo:** 
 6.10. 2022, Modrý salonek na radnici MČ Prahy 9
 
