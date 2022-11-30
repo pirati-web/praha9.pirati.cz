@@ -13,7 +13,7 @@ mail:
   - ondrej.kalis@pirati.cz
 
 ---
-<p style='text-align: justify;'>Ing. Ondřej Kališ je člen Pirátů na Praze 9.
+<p style='text-align: justify;'>Ondřej Kališ je člen Pirátů v Praze 9.
 </p><p style='text-align: justify;'>
 Ondřej se narodil v Praze, kde vystudoval gymnázium a následně Fakultu dopravní ČVUT. Od roku 2006 žije v Praze 9 na Proseku. 
 </p><p style='text-align: justify;'>

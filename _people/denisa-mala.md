@@ -17,7 +17,7 @@ profiles:
   facebook: 
 ---
 <p style='text-align: justify;'>
-Denisa Malá, Dis. je členkou Pirátů a tajemnicí Místního sdružení Pirátů na Praze 9.
+Denisa Malá je členkou Pirátů a tajemnicí Místního sdružení Pirátů na Praze 9.
 </p>
 
 

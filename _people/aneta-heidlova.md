@@ -13,7 +13,7 @@ mail:
   - aneta.heidlova@pirati.cz
  
 ---
-<p style='text-align: justify;'>Bc. Aneta Heidlová je členkou Pirátů v Praze 9.
+<p style='text-align: justify;'>Aneta Heidlová je členkou Pirátů v Praze 9.
 </p><p style='text-align: justify;'>
 Aneta vystudovala VŠ UJEP v Ústí nad Labem, obor Aplikovaná informatika. V průběhu studia se zúčastnila mezinárodního projektu INWEST, konkrétně na části RFID, kde měla na starost databázovou část. Zajímala se o testování, databáze, kódování a šifrování a počítačové sítě.
 </p><p style='text-align: justify;'>

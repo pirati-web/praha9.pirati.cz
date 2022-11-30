@@ -13,7 +13,7 @@ category:
 ordZas: 2
 ordPre: 3
 ordKom: 1
-description: Místopředsedkyně MS Praha 9, členka kontrolního výboru, komisí školské a ŽP a dopravy
+description: Místopředsedkyně MS Praha 9, členka kontrolního výboru, komisí školské a Živ. prostředí a dopravy
 img: people/kornelia-gottmannova.jpg
 mail:
   - kornelia.gottmannova@pirati.cz
