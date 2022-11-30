@@ -13,7 +13,7 @@ category:
 ordZas: 2
 ordPre: 3
 ordKom: 1
-description: Místopředsedkyně MS a ZK Praha 9, Předsedkyně Školské komise, Komise územního rozvoje
+description: Místopředsedkyně MS Praha 9, členka kontrolního výboru, komisí školské a ŽP a dopravy
 img: people/kornelia-gottmannova.jpg
 mail:
   - kornelia.gottmannova@pirati.cz
@@ -23,7 +23,7 @@ mob:
 profiles:
 facebook: 
 ---
-<p style='text-align: justify;'>Ing. Kornélia Gottmannová je členkou Pirátů, místopředsedkyní Místního sdružení Pirátů na Praze 9 a místopředsedkyní Zastupitelského klubu Pirátů na Praze 9. Na Radnici Prahy 9 je předsedkyní Školské komise. Působí také v Komisi pro územní rozvoj.
+<p style='text-align: justify;'>Kornélia Gottmannová je členkou Pirátů, místopředsedkyní Místního sdružení Pirátů v Praze 9 a místopředsedkyní Zastupitelského klubu Pirátů v Praze 9. Na Radnici Prahy 9 je členkou kontrolního výboru, školské komise a komise životního prostředí a dopravy. 
 </p><p style='text-align: justify;'>
 Kornélia vystudovala VŠCHT Praha, obor fyzikální chemie. Po ukončení studia nastoupila ke společnosti ExxonMobil jako technický poradce pro oleje a maziva. Své zkušenosti v rámci této mezinárodní korporace sbírala na dalších pozicích: jako vedoucí prodeje, office manažerka a koordinátorka prodejních činností pro Čechy a Slovensko v centrále v Hamburku. Řešila také otázky synchronizace procesů a zavádění ISO norem. Další manažerské zkušenosti získala jako ředitelka marketingu a kvality v logistické společnosti Schenker a poté jako obchodní ředitelka firmy van Gansewinkel, kde se zabývala nakládáním s odpady. 
 </p><p style='text-align: justify;'>

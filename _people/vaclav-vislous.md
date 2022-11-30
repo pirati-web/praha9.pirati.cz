@@ -12,8 +12,8 @@ category:
   - kontaktni_osoba
 ordZas: 1
 ordPre: 1
-ordKom: 2
-description: Předseda Pirátů na Praze 9, Finanční výbor, Komise rozpočtová a pro digitalizaci
+ordKom: 4
+description: Předseda Pirátů na Praze 9, Komise územního rozvoje, dopravy a živ. prostředí
 img: people/vaclav-vislous.jpg
 heroImg: Prague_Vysocany_Town_Hall.jpeg
 mail:
@@ -22,11 +22,11 @@ mob:
 - +420 777 954 389
 ---
 <p style='text-align: justify;'>
-Václav Vislous, MSc. je předsedou Pirátů na Praze 9. Vede také náš Zastupitelský klub na Devítce. Na Radnici Prahy 9 působí ve Finančním výboru, v Rozpočtové komisi a Komisi pro digitalizaci. Působí také v republikových Resortních týmech Finance a Energetika.
+Václav Vislous je předsedou Pirátů v Praze 9. Vede také náš Zastupitelský klub na devítce. Na Radnici Prahy 9 působí v komisi rozvoje území a komisi životního prostředí a dopravy. Působí také v republikových Resortních týmech Finance a Energetika.
 </p><p style='text-align: justify;'>
 Václav vystudoval ekonomii na Univerzitě Karlově v Praze a manažerskou a finanční ekonomii na francouzské HEC Paris. Své zkušenosti s manažerským poradenstvím dnes uplatňuje jako projektový manažer. 
 </p><p style='text-align: justify;'>
-Na Devítce se zaměřuje se na oblasti strategického rozvoje a hospodaření s majetkem. Jeho hlavním cílem je, aby radnice vytvořila ucelenou strategii svého dlouhodobého rozvoje. Přestože totiž Prahu 9 čeká extrémně rychlý růst, radnice dosud nemá odpovídající plán rozvoje dopravy, školství, zdravotnictví a sociálních služeb, který by na to kompetentně reagoval.
+Na devítce se zaměřuje se na oblasti strategického rozvoje a hospodaření s majetkem. Jeho hlavním cílem je, aby radnice vytvořila ucelenou strategii svého dlouhodobého rozvoje. Přestože totiž Prahu 9 čeká extrémně rychlý růst, radnice dosud nemá odpovídající plán rozvoje dopravy, školství, zdravotnictví a sociálních služeb, který by na to kompetentně reagoval.
 </p>
 <p style='text-align: justify;'>Za svou práci v zastupitelstvu pobírá od MČ Praha 9 hrubou měsíční odměnu ve výši 9.302 Kč. Její výše vyplývá z <a href="https://www.zakonyprolidi.cz/cs/2017-318" target="_blank">Nařízení vlády č. 318/2017 Sb.</a>, a dále z <a href="https://praha9.cz/sites/default/files/downloads/import/z-20-018-us_0.pdf" target="_blank">usnesení Zastupitestva MČ Praha 9</a>. Historický přehled všech příjmů plynoucích z veřejných funkcí najdeš <a href="https://nalodeni.pirati.cz/odmeny/vaclav.vislous" target="_blank">na této stránce</a>.
 </p>

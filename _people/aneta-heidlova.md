@@ -5,19 +5,15 @@ titles:
   before: Bc.
 category:
   - clenove
-  - komise
-  - zastupitel
-ordZas: 5
-ordKom: 6
-categories: kontaktni_osoba
-description: Zastupitelka hl.m. Prahy a Prahy 9, Komise rozpočtová a pro digitalizaci
+
+description: software tester
 img: people/aneta-heidlova.jpg
 heroImg: Prague_Vysocany_Town_Hall.jpeg
 mail:
   - aneta.heidlova@pirati.cz
  
 ---
-<p style='text-align: justify;'>Bc. Aneta Heidlová je členkou Pirátů, zastupitelkou hl. m. Prahy a zastupitelkou MČ Praha 9. Na Radnici Prahy 9 se podílí na práci Rozpočtové komise a Komise pro digitalizaci.
+<p style='text-align: justify;'>Bc. Aneta Heidlová je členkou Pirátů v Praze 9.
 </p><p style='text-align: justify;'>
 Aneta vystudovala VŠ UJEP v Ústí nad Labem, obor Aplikovaná informatika. V průběhu studia se zúčastnila mezinárodního projektu INWEST, konkrétně na části RFID, kde měla na starost databázovou část. Zajímala se o testování, databáze, kódování a šifrování a počítačové sítě.
 </p><p style='text-align: justify;'>

@@ -16,7 +16,7 @@ profiles:
   #facebook: https://www.facebook.com/
 ---
 <p style='text-align: justify;'>
-Ing. Veronika Šmejkalová je příznivkyní Pirátů na Praze 9 a byla kandidátkou do zastupitelstva MČ Praha 9 ve <a href="/komunalni-volby-2018/strizkov/" target="_self"><u>volebním obvodu č. 2 (Střížkov a část Hrdlořez)</u></a>.
+Veronika Šmejkalová je příznivkyní Pirátů v Praze 9</a>.
 </p><p style='text-align: justify;'>
 Veronika vystudovala Vysokou školu ekonomickou (VŠE) v Praze, obor mezinárodní obchod. Od ukončení studia v roce 1995 do současnosti pracuje na manažerských pozicích v oboru správa nemovitostí a development nemovitostí. Její zkušenosti zahrnují mimo jiné oblast marketingu, public relations, pronájem a správu komerčních i bytových nemovitostí a správu obchodních společností.
 </p><p style='text-align: justify;'>
