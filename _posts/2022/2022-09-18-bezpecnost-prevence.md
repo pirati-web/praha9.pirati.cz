@@ -3,7 +3,7 @@ layout: post
 category: blog
 title:  >-
   Bezpečnost nelze zajistit bez prevence kriminality 
-date: '2022-09-14'
+date: '2022-09-18'
 author: Ilona Chromová
 authorId: ilona.chromova
 image: articles/2022/ilona-pl.jpg
@@ -15,6 +15,6 @@ Stěžejní projekt v této oblasti, který chceme na devítku přivést, jsou a
 
 Podporujeme více strážníků v ulicích, nikoliv jen kamery. Přítomnost strážníka nenahradí žádná technika. Zvláštní pozornost přitom chceme věnovat zejména ochraně dětí a seniorů.
 
-*Mgr. et Mgr. Ilona Chromová*
+*Mgr. et Mgr. Ilona Chromová* 
 
  

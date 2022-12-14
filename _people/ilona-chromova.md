@@ -4,20 +4,21 @@ name: Ilona Chromová
 titles:
   before: Mgr. et Mgr.
 category:
-  - kandidat-obec
   - komise
   - mistopredseda_ms
   - predsednictvo
+  - zastupitel
 ordPre: 4
-description: Místopředsedkyně MS Praha 9, Bezpečnostní komise
+ordZas: 3
+ordKom: 3
+description: Místopředsedkyně MS Praha 9, Komise bezpečnosti, bytová a sociálně-zdravotní
 img: people/ilona-chromova.jpg
 heroImg: Prague_Vysocany_Town_Hall.jpeg
-age: 44
 mail:
   - ilona.chromova@pirati.cz
  
 profiles:
-  #facebook: https://www.facebook.com/
+  facebook: https://www.facebook.com/ilonachromova.pirati
 ---
 Mgr. Ilona Chromová je členkou Pirátů na Praze 9 a místopředsedkyní MS Praha 9. Působí také v Komisi pro bezpečnost MČ Praha 9.
 

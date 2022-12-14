@@ -3,7 +3,7 @@ layout: post
 category: blog
 title:  >-
   Ve školství na devítce je potřeba začít konat
-date: '2022-09-20'
+date: '2022-09-19'
 author: Kornélia Gottmannová
 authorId: kornelia.gottmannova
 image: articles/2022/nela-pl.jpg
