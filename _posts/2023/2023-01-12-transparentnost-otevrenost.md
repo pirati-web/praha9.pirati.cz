@@ -6,7 +6,7 @@ title:  >-
 date: '2023-01-12'
 author: Václav Okapa
 authorId: vaclav.okapa
-image: articles/2023/radnice2.jpg
+image: articles/2023/radnice2.JPG
 ---
 Transparentnost a otevřenost jsou pojmy, které se často používají společně, ale mají rozdílné významy.
 
