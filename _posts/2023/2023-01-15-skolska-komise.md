@@ -3,7 +3,7 @@ layout: post
 category: blog
 title:  >-
   Zpráva ze zasedání školské komise Rady MČ Praha 9
-date: '2023-01-12'
+date: '2023-01-15'
 author: Kornélia Gottmannová
 authorId: kornelia.gottmannova
 image: articles/2023/skolak.jpg
