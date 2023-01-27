@@ -20,4 +20,3 @@ Příští jednání komise, na které budou pozváni také zástupci Mezinárod
 
 Ilona Chromová
 zastupitelka, členka bezpečnostní komise
-  
