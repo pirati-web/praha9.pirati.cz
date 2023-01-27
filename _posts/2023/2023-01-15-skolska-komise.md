@@ -20,5 +20,5 @@ V závěru jednání komise byli přítomní informováni o připravovaném konk
 
 Ač byla diskuse chvílemi vyhrocená a několikrát zazněla kritická zpětná vazba, považuji jednání za velmi konstruktivní. Oceňuji otevřenost a vzájemný respekt všech zúčastněných. 
 
-*Kornélia Gottmannová
+*Kornélia Gottmannová<br/>
 zastupitelka, členka školské komise*
