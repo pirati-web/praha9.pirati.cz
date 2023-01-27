@@ -25,3 +25,6 @@ Jedním z nejlepších forem rozklikávacího rozpočtu je [Citivizor](https://c
 - které projektové a investiční akce právě probíhají, jaké prostředky jsou u nich hrazeny a kolik už bylo vyplaceno
 
 - nejnovější informace z úřední desky MČ Prahy 9 a odkazy na konkrétní dokumenty uveřejněné v [Registru smluv](https://smlouvy.gov.cz/).
+
+Václav Okapa
+zastupitel a člen finančního výboru
