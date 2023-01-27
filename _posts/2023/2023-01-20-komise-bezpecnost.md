@@ -8,7 +8,7 @@ author: Ilona Chromová
 authorId: ilona.chromova
 image: articles/2023/straznici.jpeg
 ---
-9. ledna se konalo jednání bezpečnostní komise. Prvním bodem jednání byl dokument zpracovaný Mezinárodním bezpečnostním institutem k možnostem podpory prevence kriminality pro obce v roce 2023. Ten je v souladu s Plánem prevence kriminality pro MČ Praha 9 schváleným v minulém roce. 
+Dne 9. ledna se konalo jednání bezpečnostní komise. Prvním bodem jednání byl dokument zpracovaný Mezinárodním bezpečnostním institutem k možnostem podpory prevence kriminality pro obce v roce 2023. Ten je v souladu s Plánem prevence kriminality pro MČ Praha 9 schváleným v minulém roce. 
 
 Pro jeho plnění je ale nutné zajistit dostatek financí. Za Piráty jsem tuto aktivitu přivítala, ale upozornila jsem na nutnost přímé terénní práce a jmenování manažera prevence kriminality, včetně spoluúčasti MČ na realizaci projektů, což je podmínkou plnění programu prevence kriminality. V tom jsem MČ nabídla svou pomoc. 
 
