@@ -18,5 +18,5 @@ Tajemník komise A. Dellamária informoval komisi o návrhu rozpočtu na bezpeč
 
 Příští jednání komise, na které budou pozváni také zástupci Mezinárodního bezpečnostního institutu a vedoucího sociálního odboru ÚMČ P9, se bude konat 27. února 2023. O práci komise vás budu i nadále informovat.	
 
-Ilona Chromová
+Ilona Chromová<br/>
 *zastupitelka, členka bezpečnostní komise*
