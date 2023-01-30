@@ -6,7 +6,7 @@ title:  >-
 date: '2023-01-28'
 author: Ilona Chromová
 authorId: ilona.chromova
-image: articles/2023/parkovani.jpg
+image: articles/2023/zps.jpeg
 ---
 V předchozím volebním období jsem působila jako expert v bezpečnostní komisi MČ Praha 9, nyní se jako zastupitelka spolupodílím na politické práci v naší městské části. Bezpečnostní problematika se prolíná všemi zájmovými odvětvími. Já jsem se zaměřila na dopravní oblast, protože jednou z věcí, které občany na devítce trápí, je parkování vozidel bez patřičného oprávnění v zónách placeného stání (ZPS).
 
