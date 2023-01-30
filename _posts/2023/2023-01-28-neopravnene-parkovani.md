@@ -15,6 +15,6 @@ Jako prvotní krok jsem iniciovala schůzku dotčených aktérů, kde jsme si sp
 Na jednání byli přítomni: Radní pro dopravu MČ Praha 9 Tomáš Holeček (ODS), vedoucí odboru dopravy MČ Praha 9 Tomáš Svoboda, náměstek Městské police Praha Ludvík Klema, zástupce ředitele obvodního ředitele MP Praha 9 Jaroslav Mráz a zastupitelka MČ Praha 9 Ilona Chromová (Piráti).
 Chci vás ujistit, že situaci recidivních řidičů bez oprávnění v ZPS chceme a budeme řešit, a máme nápady, jak jim v takovém jednání zabránit. Nechte se překvapit, o všem vás budu včas informovat.
 
-Ilona Chromová<br/>
+Ilona Chromová<br/> 
 zastupitelka, členka bezpečnostní komise
   
