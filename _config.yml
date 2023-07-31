@@ -41,7 +41,7 @@ contactSummaryItems:
 calendar:
   id: p4idl4uviv7t2c85gfq51lia9k@group.calendar.google.com
   title: "Kalendář Pirátů Prahy 9"
-  page: "https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=p4idl4uviv7t2c85gfq51lia9k%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3"
+  page: https://calendar.google.com/calendar/embed?src=p4idl4uviv7t2c85gfq51lia9k%40group.calendar.google.com&ctz=Europe%2FPrague
 
 facebook:
   loadSDK: true
